@@ -1,24 +1,34 @@
 ---
 title: "Profil Mahasiswa"
+
 toc: false
+
 ---
 
 | Field | Isi |
 |---|---|
-| Nama | {{< var student.name >}} |
-| NIM | {{< var student.id >}} |
-| Program studi | {{< var student.program >}} |
-| Angkatan | {{< var student.cohort >}} |
-| Email | {{< var student.email >}} |
-| Mata kuliah | {{< var course.code >}} — {{< var course.name >}} |
-| Dosen | {{< var course.lecturer >}} |
-| Semester | {{< var course.semester >}} |
+| Nama | Fathir Mulya Gibran |
+| NIM | 18225019 |
+| Program studi | Sistem dan Teknologi informasi |
+| Angkatan | 2025 |
+| Email | 18225019@std.stei.itb.ac.id |
+| Mata kuliah | Komunikasi Interpersonal dan Publik |
+| Dosen | Prof. Ir. Armein Z.R. Langi, M.Sc., Ph.D. |
+| Semester | 3 |
 
 ## Pernyataan portfolio
 
-Tuliskan tujuan belajar pribadi Anda untuk semester ini.
+Pada semester ini, saya ingin membangun kemampuan komunikasi yang lebih
+efektif dengan memahami person, relationship, objective, dan kondisi sebelum
+menentukan cara berkomunikasi. Saya juga ingin belajar membedakan fakta dari
+asumsi, mendengarkan sebelum memberikan solusi, serta menyesuaikan language
+dengan karakter dan kebutuhan orang yang saya ajak berkomunikasi.
 
-> Ganti teks ini dengan pernyataan singkat tentang kompetensi komunikasi yang ingin Anda bangun dan alasan mengapa kompetensi tersebut penting.
+Kompetensi tersebut penting bagi saya karena sebagai mahasiswa Sistem dan
+Teknologi Informasi, saya tidak hanya perlu memiliki kemampuan teknis, tetapi
+juga perlu mampu bekerja sama, berdiskusi, menyampaikan ide, memahami
+kebutuhan orang lain, dan beradaptasi dalam berbagai situasi akademik maupun
+organisasi.
 
 ## Aturan evidence
 
@@ -27,4 +37,3 @@ Tuliskan tujuan belajar pribadi Anda untuk semester ini.
 - Jangan memasukkan data pribadi pihak lain tanpa izin.
 - Nyatakan penggunaan AI dan perubahan yang Anda lakukan terhadap output AI.
 - Pertahankan feedback asli; refleksi boleh menjelaskan respons Anda terhadap feedback tersebut.
-

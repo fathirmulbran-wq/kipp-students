@@ -1,11 +1,18 @@
 ---
 title: "Professional Discovery Interview"
+
 week: 5
+
 status: "Belum dimulai"
+
 self_score: "—"
+
 assessor_score: "—"
+
 description: "Discovery menuju shared problem statement."
+
 categories: [Professional, Discovery]
+
 ---
 
 ## Kompetensi target
@@ -19,7 +26,180 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 - Shared problem statement yang dikonfirmasi partner.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
+
 [Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+
 :::
 
 {{< include ../includes/evidence-template.md >}}
+
+## Evidence
+
+## Konteks dan initial assumption
+
+Saya melakukan percakapan dengan seorang teman kuliah yang berada dalam satu
+program studi dengan saya, yaitu Sistem dan Teknologi Informasi.
+
+Sebelum melakukan percakapan, saya memiliki **initial assumption** bahwa
+teman saya sudah jarang mengikuti kelas karena malas atau kurang memiliki
+motivasi untuk mengikuti perkuliahan.
+
+Namun, saya belum mengetahui alasan sebenarnya. Karena itu, saya mencoba
+melakukan discovery dengan menanyakan langsung kondisi yang sedang dialami.
+
+**Initial assumption saya:**
+
+> "Dia jarang kelas mungkin karena malas kuliah."
+
+Assumption tersebut belum dapat dianggap sebagai fakta karena saya belum
+menanyakan alasan sebenarnya kepada teman saya.
+
+---
+
+## Discovery question
+
+Saya memulai percakapan dengan pertanyaan:
+
+> **"Oi, kenapa kamu udah jarang kelas?"**
+
+Pertanyaan tersebut digunakan untuk mencari tahu alasan di balik perubahan
+perilaku teman saya, bukan langsung memberikan solusi atau menyimpulkan bahwa
+dia malas.
+
+---
+
+## Transcript / paraphrase
+
+Percakapan berikut ditulis sebagai **paraphrase**, bukan transcript verbatim,
+karena saya tidak mencatat percakapan kata per kata.
+
+| Tahap | Catatan percakapan |
+|---|---|
+| **Saya** | Saya menanyakan mengapa teman saya sudah jarang mengikuti kelas. |
+| **Teman** | Teman saya menjelaskan bahwa alasannya bukan karena malas. Ia merasa belajar sendiri di kos lebih efektif dibandingkan mengikuti kelas. |
+| **Saya** | Dari penjelasan tersebut, saya memahami bahwa masalah yang dirasakan berkaitan dengan efektivitas belajar ketika mengikuti kelas. |
+| **Teman** | Ia menjelaskan bahwa ketika berada di kelas dan berusaha memperhatikan, dirinya mudah terganggu sehingga waktu yang digunakan untuk mengikuti kelas terasa kurang efektif atau terbuang. |
+
+Dari percakapan tersebut, saya menyadari bahwa initial assumption saya
+tidak sesuai dengan alasan yang disampaikan teman saya.
+
+Saya awalnya mengira masalahnya adalah **kemalasan**, sedangkan setelah
+melakukan discovery, masalah yang disampaikan teman saya berkaitan dengan
+**persepsi bahwa belajar sendiri di kos lebih efektif karena dirinya mudah
+terganggu ketika harus memperhatikan di kelas**.
+
+---
+
+## Problem impact
+
+Kondisi tersebut memiliki beberapa dampak.
+
+Dari sisi pembelajaran, teman saya merasa belajar sendiri di kos lebih
+efektif karena ia dapat mengatur kondisi belajar dan mengurangi gangguan yang
+dirasakan ketika berada di kelas.
+
+Namun, terdapat dampak lain ketika ia semakin jarang mengikuti kelas, yaitu
+**interaksi sosial dengan teman-teman kuliah menjadi berkurang**.
+
+Dengan demikian, terdapat trade-off antara efektivitas belajar secara
+individual dan kesempatan untuk tetap berinteraksi secara sosial dalam
+lingkungan perkuliahan.
+
+---
+
+## Constraint
+
+Constraint yang muncul dari percakapan adalah kondisi bahwa teman saya merasa
+lebih mudah fokus dan belajar secara efektif ketika belajar sendiri di kos.
+
+Pada saat yang sama, mengikuti kelas secara langsung memiliki manfaat dari
+sisi interaksi sosial dengan teman kuliah.
+
+Saya tidak mendapatkan informasi mengenai constraint lain seperti jadwal,
+transportasi, atau beban tugas, sehingga saya tidak menambahkan asumsi
+tersebut ke dalam analisis.
+
+---
+
+## Dari assumption menuju problem yang sebenarnya
+
+Perbedaan antara initial assumption dan hasil discovery dapat digambarkan
+sebagai berikut:
+
+| Tahap | Pemahaman |
+|---|---|
+| **Initial assumption** | Teman jarang kelas karena malas. |
+| **Hasil discovery** | Teman merasa belajar sendiri di kos lebih efektif. |
+| **Alasan** | Ketika mengikuti kelas, ia mudah terganggu saat mencoba memperhatikan sehingga merasa waktunya kurang efektif. |
+| **Impact** | Ketika jarang kelas, interaksi sosial dengan teman kuliah menjadi berkurang. |
+| **Constraint** | Belajar sendiri terasa lebih efektif baginya dibandingkan mengikuti kelas. |
+
+Discovery ini membuat saya menyadari pentingnya **mendengar sebelum
+proposing**. Jika saya langsung menerima initial assumption bahwa teman saya
+malas, saya dapat memberikan solusi yang tidak sesuai dengan masalah
+sebenarnya.
+
+---
+
+## Shared problem statement
+
+Berdasarkan hasil discovery, saya merumuskan masalah sebagai berikut:
+
+> **"Teman saya membutuhkan cara untuk tetap mendapatkan efektivitas belajar yang ia rasakan ketika belajar sendiri di kos, tanpa kehilangan kesempatan untuk berinteraksi dan bersosialisasi dengan teman-teman di perkuliahan."**
+
+Saya kemudian melakukan konfirmasi kepada partner dengan merangkum kembali
+pemahaman saya:
+
+> **"Berarti kalau aku rangkum, masalahmu bukan malas masuk kelas, tapi kamu
+> ngerasa belajar sendiri di kos lebih efektif karena di kelas gampang
+> keganggu, cuma konsekuensinya sosialisasi sama teman jadi berkurang. Bener
+> nggak?"**
+
+Partner menjawab:
+
+> **"Iya."**
+
+Respons tersebut menjadi evidence bahwa partner mengonfirmasi pemahaman saya
+terhadap masalah yang telah dibahas.
+
+Dengan demikian, problem statement tidak hanya berasal dari asumsi atau
+interpretasi saya sendiri, tetapi telah diperiksa kembali dan dikonfirmasi
+oleh person yang mengalami masalah tersebut.
+
+---
+
+## Reflection
+
+Percakapan ini membuat saya menyadari bahwa **initial assumption dapat
+berbeda dengan masalah yang sebenarnya dialami seseorang**.
+
+Sebelum bertanya, saya mengira teman saya jarang mengikuti kelas karena
+malas. Jika saya langsung menggunakan assumption tersebut sebagai dasar
+komunikasi, saya mungkin akan memberikan nasihat tentang motivasi atau
+kedisiplinan yang sebenarnya tidak menjawab masalah yang dia alami.
+
+Setelah saya bertanya secara langsung, saya mendapatkan informasi bahwa
+teman saya memiliki alasan yang berbeda. Ia merasa belajar sendiri di kos
+lebih efektif karena ketika mengikuti kelas, ia mudah terganggu sehingga
+merasa waktu belajarnya kurang efektif.
+
+Namun, discovery juga menunjukkan bahwa keputusan tersebut memiliki
+konsekuensi lain. Ketika semakin jarang mengikuti kelas, interaksi sosialnya
+dengan teman-teman kuliah ikut berkurang.
+
+Dari pengalaman ini saya belajar bahwa discovery bukan sekadar mencari
+"alasan" seseorang melakukan sesuatu. Discovery digunakan untuk memahami
+kebutuhan, impact, dan constraint sebelum menentukan solusi.
+
+Saya juga belajar bahwa problem statement sebaiknya tidak langsung berisi
+solusi. Dalam kasus ini, saya belum menentukan bahwa teman saya harus lebih
+sering masuk kelas atau harus selalu belajar di kos. Saya terlebih dahulu
+merumuskan kebutuhan yang muncul dari percakapan, yaitu bagaimana
+mendapatkan efektivitas belajar tanpa kehilangan kesempatan untuk
+bersosialisasi.
+
+Konfirmasi dari partner juga membuat saya memahami bahwa shared problem
+statement harus dibangun bersama person, bukan hanya berdasarkan interpretasi
+saya sendiri. Dengan menanyakan kembali dan mendapatkan respons "iya", saya
+dapat memastikan bahwa pemahaman saya sesuai dengan kondisi yang dirasakan
+oleh partner.
