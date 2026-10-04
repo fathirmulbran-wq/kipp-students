@@ -1,18 +1,11 @@
 ---
 title: "Character Map"
-
 week: 1
-
-status: "Belum dimulai"
-
-self_score: "—"
-
+status: "Siap dinilai"
+self_score: "20"
 assessor_score: "—"
-
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
-
 categories: [Fondasi, Person]
-
 ---
 
 ## Kompetensi target
@@ -24,12 +17,6 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 - Lima character dari sedikitnya tiga domain kehidupan.
 - Objective, responsibility, repertoire, dan risiko tiap character.
 - Satu contoh perubahan language ketika character berubah.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-
-[Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-
-:::
 
 {{< include ../includes/evidence-template.md >}}
 
@@ -51,18 +38,20 @@ bertindak dan berkomunikasi dalam situasi tertentu.
 | **Organization — anggota organisasi** | Saya dengan anggota organisasi yang memiliki tanggung jawab dan tujuan bersama. | Berkontribusi terhadap tujuan organisasi dan menyelesaikan tanggung jawab yang diberikan. Responsibility saya adalah berkoordinasi, menyampaikan informasi, dan menjaga komitmen terhadap pekerjaan bersama. | Diskusi, brainstorming, koordinasi, pemberian feedback, komunikasi informal, dan penyampaian pendapat. | Perbedaan pendapat dapat membuat saya terlalu mempertahankan sudut pandang sendiri dan kurang mengeksplorasi kebutuhan person lain. |
 | **Team — anggota tim proyek** | Saya dengan anggota tim yang bekerja bersama untuk menyelesaikan tugas atau proyek. | Mencapai hasil yang disepakati bersama melalui pembagian pekerjaan yang jelas. Responsibility saya adalah menyelesaikan bagian pekerjaan, memberikan informasi kepada anggota lain, dan membantu menjaga koordinasi. | Pembagian tugas, diskusi, check-in, komunikasi tertulis, dokumentasi pekerjaan, dan feedback. | Miskomunikasi mengenai pembagian tugas atau deadline, serta asumsi bahwa anggota lain sudah memahami informasi yang diberikan. |
 
-### Person, personality, dan character
+### Person, Personality, dan Character
 
 Dari character map tersebut, saya memahami bahwa person, personality, dan
-character merupakan hal yang berbeda. Person adalah individu yang terlibat
-dalam komunikasi, sedangkan personality berkaitan dengan kecenderungan yang
-dimiliki seseorang. Character dalam konteks ini merupakan peran yang saya
-gunakan untuk mengarahkan tindakan sesuai dengan situasi dan objective.
+character merupakan hal yang berbeda.
+
+Person adalah individu yang terlibat dalam komunikasi, sedangkan personality
+berkaitan dengan kecenderungan yang dimiliki seseorang. Character dalam konteks
+ini merupakan peran yang saya gunakan untuk mengarahkan tindakan sesuai dengan
+situasi dan objective.
 
 Saya tetap merupakan person yang sama ketika menjadi mahasiswa, anggota
 organisasi, panitia lapangan, maupun anggota tim proyek. Namun, responsibility,
-objective, relationship, repertoire, dan language dapat berubah ketika
-situasinya berubah.
+objective, relationship, repertoire, dan language dapat berubah ketika situasi
+berubah.
 
 Karena itu, saya tidak seharusnya menentukan cara berkomunikasi hanya
 berdasarkan kategori atau asumsi mengenai personality seseorang. Kategori
@@ -71,14 +60,14 @@ interaksi dan response yang diberikan.
 
 ---
 
-### Perubahan language ketika character berubah
+### Perubahan Language ketika Character Berubah
 
 Perubahan character dapat menyebabkan perubahan language meskipun perhatian
 dasarnya tetap sama.
 
-Ketika saya berperan sebagai **panitia lapangan**, saya membutuhkan
-komunikasi yang lebih langsung karena terdapat kebutuhan koordinasi dan
-kepastian dalam kegiatan. Contohnya:
+Ketika saya berperan sebagai **panitia lapangan**, saya membutuhkan komunikasi
+yang lebih langsung karena terdapat kebutuhan koordinasi dan kepastian dalam
+kegiatan. Contohnya:
 
 > "Tolong konfirmasi apakah kamu bisa hadir supaya pembagian posisi bisa disesuaikan."
 
@@ -95,13 +84,13 @@ karena situasinya berubah.
 
 ---
 
-## Episode yang dianalisis: TPB Cup 2025
+## Episode yang Dianalisis: TPB Cup 2025
 
 ### Konteks
 
-Pada kegiatan TPB Cup 2025, saya berperan sebagai panitia lapangan. Pada hari
-H, jumlah teman-teman panitia lapangan yang hadir sangat sedikit dibandingkan
-dengan kebutuhan koordinasi di lapangan.
+Pada kegiatan TPB Cup 2025, saya berperan sebagai **panitia lapangan**.
+Pada hari kegiatan, jumlah panitia lapangan yang hadir sangat sedikit
+dibandingkan dengan kebutuhan koordinasi di lapangan.
 
 Selain masalah kehadiran, beberapa teman memberikan keterangan mengenai
 ketidakhadiran mereka yang kurang jelas. Kondisi tersebut membuat saya
@@ -110,46 +99,48 @@ menjalankan tanggung jawabnya pada hari tersebut.
 
 Untuk mendapatkan kepastian, saya mencoba menghubungi teman-teman tersebut
 melalui pesan dan juga menelepon. Namun, selama kegiatan berlangsung saya
-tidak mendapatkan respons. Beberapa dari mereka baru memberikan respons pada
-malam hari atau setelah acara selesai.
+tidak mendapatkan response dari beberapa orang. Beberapa dari mereka baru
+memberikan response pada malam hari atau setelah acara selesai.
 
-Kondisi tersebut membuat koordinasi di lapangan perlu dilakukan dengan
-anggota yang benar-benar tersedia.
+Kondisi tersebut membuat koordinasi di lapangan perlu dilakukan dengan anggota
+yang benar-benar tersedia.
 
-### Person & character
+### Person & Character
 
 Person yang terlibat dalam episode ini adalah saya dan teman-teman sesama
 panitia lapangan TPB Cup 2025.
 
-Dalam situasi tersebut, saya menggunakan character sebagai **panitia
-lapangan**. Character ini memiliki responsibility untuk membantu kelancaran
-kegiatan dan melakukan koordinasi dengan panitia lain.
+Dalam situasi tersebut, saya menggunakan character sebagai **panitia lapangan**.
+Character ini memiliki responsibility untuk membantu kelancaran kegiatan dan
+melakukan koordinasi dengan panitia lain.
 
 Relationship saya dengan mereka adalah sebagai rekan sesama panitia, sehingga
 komunikasi yang dilakukan bukan antara atasan dan bawahan, melainkan antara
 anggota yang memiliki kebutuhan koordinasi dalam kegiatan yang sama.
 
 Saya juga berusaha tidak langsung mengubah fakta ketidakhadiran menjadi label
-terhadap personality mereka. Tidak hadir dan tidak memberikan respons adalah
+terhadap personality mereka. Tidak hadir dan tidak memberikan response adalah
 fakta yang dapat diamati, sedangkan menyimpulkan bahwa seseorang tidak
 bertanggung jawab merupakan interpretasi yang membutuhkan informasi lebih
 lanjut.
 
-### Objective & state
+### Objective & State
 
 Kondisi awalnya adalah jumlah panitia lapangan yang hadir sangat sedikit dan
 beberapa informasi mengenai ketidakhadiran anggota belum jelas.
 
-Objective saya adalah mendapatkan kepastian mengenai kondisi kehadiran dan
-memastikan kebutuhan lapangan tetap dapat ditangani dengan anggota yang
-tersedia.
+Objective awal saya adalah mendapatkan kepastian mengenai kondisi kehadiran
+dan memastikan kebutuhan lapangan tetap dapat ditangani.
 
 Saya tidak dapat mengontrol apakah person lain akan hadir atau memberikan
-respons. Karena itu, ketika upaya komunikasi tidak mendapatkan respons,
-objective saya perlu beradaptasi dari sekadar mendapatkan jawaban menjadi
-memastikan koordinasi kegiatan tetap berjalan.
+response. Karena itu, ketika upaya komunikasi tidak mendapatkan response,
+objective operasional saya perlu beradaptasi dari sekadar mendapatkan jawaban
+menjadi memastikan koordinasi kegiatan tetap berjalan.
 
-### Repertoire & language
+Perubahan objective tersebut merupakan bentuk adaptation terhadap state yang
+sebenarnya terjadi di lapangan.
+
+### Repertoire & Language
 
 Repertoire yang saya gunakan adalah menghubungi teman melalui pesan dan
 telepon untuk mendapatkan kepastian mengenai kondisi kehadiran mereka.
@@ -163,68 +154,79 @@ lapangan. Namun, komunikasi tetap perlu menghindari label terhadap person
 karena informasi yang tersedia belum cukup untuk menyimpulkan alasan atau
 personality mereka.
 
-### Response & adaptation
+### Response & Adaptation
 
-Upaya komunikasi melalui pesan dan telepon tidak mendapatkan respons selama
-kegiatan berlangsung.
+Response dalam episode ini tidak hanya berupa jawaban verbal, tetapi juga
+berupa tidak adanya response pada waktu ketika informasi tersebut dibutuhkan.
 
-Tidak adanya response tersebut menjadi informasi penting dalam menentukan
-tindakan berikutnya. Karena saya tidak memperoleh kepastian dari beberapa
-anggota, saya perlu menyesuaikan koordinasi berdasarkan anggota yang benar-benar
-tersedia di lapangan.
+Upaya komunikasi melalui pesan dan telepon tidak mendapatkan response selama
+kegiatan berlangsung. Tidak adanya response tersebut menjadi informasi penting
+dalam menentukan tindakan berikutnya.
 
-Beberapa teman baru memberikan respons pada malam hari atau setelah acara
-selesai. Dengan demikian, informasi tersebut lebih berguna sebagai bahan
+Karena saya tidak memperoleh kepastian dari beberapa anggota, saya perlu
+menyesuaikan koordinasi berdasarkan anggota yang benar-benar tersedia di
+lapangan. Saya tidak dapat terus menggunakan strategi yang sama dengan
+menunggu response yang belum pasti, karena kebutuhan kegiatan tetap harus
+ditangani.
+
+Beberapa teman baru memberikan response pada malam hari atau setelah kegiatan
+selesai. Dengan demikian, response tersebut lebih berguna sebagai bahan
 pemahaman dan evaluasi setelah kegiatan daripada sebagai dasar koordinasi
 ketika kegiatan sedang berlangsung.
 
-### Agreement & action
+### Agreement & Action
 
-Karena beberapa teman tidak memberikan respons selama kegiatan berlangsung,
+Karena beberapa teman tidak memberikan response selama kegiatan berlangsung,
 saya tidak dapat membuat kesepakatan baru dengan mereka pada saat itu.
 
-Tindakan yang dapat dilakukan adalah melanjutkan kegiatan dengan panitia yang
-hadir dan menyesuaikan kebutuhan lapangan dengan jumlah anggota yang tersedia.
+Saya kemudian melanjutkan kegiatan dengan panitia yang hadir dan menyesuaikan
+kebutuhan lapangan dengan jumlah anggota yang tersedia.
+
+Action tersebut menunjukkan bahwa ketika agreement dengan person tertentu
+tidak dapat terbentuk, saya tetap perlu mengambil tindakan berdasarkan
+informasi yang tersedia agar kebutuhan kegiatan tidak berhenti.
 
 Setelah kegiatan selesai, keterangan yang diberikan oleh teman-teman dapat
 digunakan sebagai bahan evaluasi mengenai masalah kehadiran dan mekanisme
 konfirmasi yang digunakan.
 
-### Relationship outcome
+### Relationship Outcome
 
 Situasi tersebut menunjukkan bahwa hubungan kerja dalam kepanitiaan tidak
 hanya membutuhkan pembagian tugas, tetapi juga membutuhkan komunikasi yang
 jelas dan response yang cukup cepat ketika kegiatan sedang berlangsung.
 
-Saya menyadari bahwa masalah komunikasi dapat menjadi lebih sulit ketika
-salah satu person tidak memberikan response. Namun, kondisi tersebut tetap
-perlu dipisahkan dari penilaian terhadap personality person tersebut.
+Saya menyadari bahwa masalah komunikasi dapat menjadi lebih sulit ketika salah
+satu person tidak memberikan response. Namun, kondisi tersebut tetap perlu
+dipisahkan dari penilaian terhadap personality person tersebut.
 
 Pengalaman ini membuat saya memahami pentingnya menjaga relationship sambil
 tetap menyelesaikan kebutuhan kegiatan. Saya dapat mengakui bahwa
-ketidakhadiran dan tidak adanya respons menimbulkan masalah koordinasi tanpa
+ketidakhadiran dan tidak adanya response menimbulkan masalah koordinasi tanpa
 harus langsung memberikan label kepada orang yang bersangkutan.
 
 ---
 
 ## Refleksi
 
-Pengalaman TPB Cup 2025 membuat saya memahami bahwa komunikasi yang
+Pengalaman TPB Cup 2025 membuat saya memahami bahwa komunikasi
 person-centered bukan berarti selalu mengikuti keinginan person lain.
+
 Komunikasi person-centered berarti mempertimbangkan person, relationship,
 objective, state, dan response sebelum menentukan tindakan.
 
 Dalam situasi tersebut, saya awalnya membutuhkan kepastian mengenai
 kehadiran teman-teman panlap. Saya sudah mencoba menghubungi mereka melalui
 pesan dan telepon, tetapi tidak mendapatkan response selama kegiatan.
+
 Akibatnya, saya perlu beradaptasi dengan kondisi nyata dan mengalihkan fokus
 kepada kebutuhan lapangan yang dapat ditangani oleh anggota yang tersedia.
 
 Saya juga memahami bahwa satu person dapat menjalankan beberapa character.
 Sebagai panitia lapangan, saya membutuhkan komunikasi yang lebih langsung dan
-berorientasi pada koordinasi. Sebagai teman, saya perlu menggunakan
-pendekatan yang lebih eksploratif untuk memahami kondisi person sebelum
-menentukan tindakan.
+berorientasi pada koordinasi. Sebagai teman, saya perlu menggunakan pendekatan
+yang lebih eksploratif untuk memahami kondisi person sebelum menentukan
+tindakan.
 
 Ke depan, saya ingin memperbaiki cara melakukan konfirmasi sebelum kegiatan,
 terutama dengan memastikan informasi kehadiran lebih awal dan menyiapkan
@@ -232,5 +234,45 @@ alternatif koordinasi apabila anggota tidak memberikan response.
 
 Pengalaman ini juga membuat saya lebih sadar bahwa response merupakan
 evidence dalam komunikasi. Ketika response yang diharapkan tidak muncul,
-saya perlu mengadaptasi repertoire dan action daripada terus menggunakan
-cara yang sama.
+saya perlu mengadaptasi repertoire dan action daripada terus menggunakan cara
+yang sama.
+
+---
+
+## Penggunaan AI
+
+AI digunakan sebagai alat bantu dalam proses penyusunan dan evaluasi portfolio.
+AI membantu saya melihat struktur evidence yang masih kurang jelas dan
+mengidentifikasi hubungan antara person, character, objective, state,
+repertoire, language, response, adaptation, dan relationship.
+
+Namun, pengalaman TPB Cup 2025, fakta mengenai kejadian, dan refleksi yang
+dituliskan tetap berasal dari pengalaman saya sendiri.
+
+Saya tidak menggunakan AI untuk membuat pengalaman komunikasi yang tidak saya
+alami. Jika terdapat bagian yang tidak dapat saya pastikan berdasarkan
+pengalaman, bagian tersebut tidak saya jadikan fakta dalam portfolio.
+
+---
+
+## Self-Assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| **Person & Character** | 4 | Lima character dipetakan dari beberapa domain kehidupan dengan person, relationship, objective, responsibility, repertoire, language, dan risiko komunikasi yang berbeda. |
+| **Objective & State** | 4 | State awal, objective, perubahan state, serta perubahan objective operasional ketika response tidak diperoleh dijelaskan secara eksplisit. |
+| **Repertoire, Language & AI** | 4 | Repertoire disesuaikan dengan kebutuhan komunikasi, terdapat contoh perubahan language ketika character berubah, dan penggunaan AI dibatasi sebagai alat bantu refleksi serta penyusunan evidence. |
+| **Response & Adaptation** | 4 | Response berupa jawaban maupun tidak adanya response digunakan sebagai evidence untuk menentukan tindakan berikutnya. Saya mengadaptasi koordinasi berdasarkan anggota yang tersedia. |
+| **Agreement, Action & Relationship** | 4 | Ketika agreement tidak dapat dibentuk karena tidak adanya response, saya tetap mengambil action berdasarkan state aktual dan mempertahankan relationship dengan tidak memberikan label terhadap person. |
+
+### **Total: 20/20 — Lanjut**
+
+Kelima dimensi menunjukkan bahwa saya mampu menghubungkan konsep dengan
+pengalaman nyata. Saya dapat membedakan person, personality, dan character,
+menjelaskan perubahan objective dan state, menyesuaikan repertoire dan
+language, membaca response sebagai evidence, serta melakukan adaptation ketika
+strategi awal tidak menghasilkan response yang dibutuhkan.
+
+Pengalaman ini juga menunjukkan bahwa kebutuhan koordinasi dapat tetap
+dijalankan tanpa langsung memberikan penilaian terhadap personality person
+lain.
