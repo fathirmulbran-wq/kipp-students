@@ -1,164 +1,235 @@
 ---
 title: "Five-Language Translation Portfolio"
-
 week: 4
-
-status: "Belum dimulai"
-
-self_score: "—"
-
+status: "Siap dinilai"
+self_score: "20"
 assessor_score: "—"
-
-description: "Satu meaning untuk lima person atau character."
-
+description: "Satu core meaning tentang pembelajaran CTF diterjemahkan ke lima person dengan adaptasi repertoire dan language."
 categories: [Fondasi, Language]
-
 ---
 
 ## Kompetensi target
 
-Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Mengadaptasi **repertoire** dan **language** sesuai person atau character tanpa mengubah **core meaning**.
 
 ## Evidence wajib
 
-- Lima versi untuk friend, technical peer, manager, customer, dan public.
+- Lima versi untuk friend, technical peer, manager, customer/student user, dan public.
 - Alasan perubahan language dan repertoire.
 - Feedback understanding dari sedikitnya satu target.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-
-[Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-
-:::
+- Evidence adaptation setelah menerima feedback.
 
 {{< include ../includes/evidence-template.md >}}
 
 ## Evidence
 
-### Core meaning
+### Konteks komunikasi
 
-**Fakta dan meaning yang tidak boleh berubah:**
+Dalam persiapan mengikuti lomba CTF, saya menggunakan **OverTheWire** sebagai salah satu sumber latihan. Salah satu tahap awal yang saya pelajari adalah **Bandit**.
 
-Dalam persiapan mengikuti lomba CTF, saya menggunakan OverTheWire sebagai
-salah satu sumber latihan. Salah satu tahap awal yang dapat dipelajari adalah
-**Bandit**. Bandit digunakan sebagai tahap awal latihan sebelum melanjutkan
-ke tahap berikutnya.
+Saya ingin menyampaikan satu informasi yang sama kepada beberapa orang dengan tingkat pengetahuan, relationship, dan kebutuhan informasi yang berbeda.
 
-Target tindakan yang ingin disampaikan adalah peserta memulai dari Bandit dan
-menyelesaikan materi tersebut terlebih dahulu sebelum melanjutkan ke tahap
-berikutnya.
+Tujuan latihan ini bukan membuat lima pesan yang memiliki isi berbeda, tetapi mempertahankan **core meaning yang sama** sambil menyesuaikan cara penyampaiannya.
 
-Core meaning yang saya pertahankan dalam kelima versi adalah:
+---
 
-> **Mulai belajar CTF dari Bandit di OverTheWire dan selesaikan tahap tersebut
-> terlebih dahulu sebelum melanjutkan ke tahap berikutnya.**
+## Core meaning
+
+### Fakta dan meaning yang tidak boleh berubah
+
+Informasi utama yang ingin saya sampaikan adalah:
+
+> **Mulai belajar CTF dari Bandit di OverTheWire dan selesaikan tahap tersebut terlebih dahulu sebelum melanjutkan ke tahap berikutnya.**
+
+Core meaning tersebut terdiri dari tiga bagian:
+
+1. **Bandit** merupakan tahap awal pembelajaran.
+2. **OverTheWire** digunakan sebagai sumber latihan.
+3. Bandit diselesaikan terlebih dahulu sebelum melanjutkan ke tahap berikutnya.
+
+Ketiga bagian tersebut dipertahankan dalam lima versi.
+
+Yang berubah hanya **repertoire, pilihan kata, tingkat detail, dan tone** sesuai dengan target.
 
 ---
 
 ## Five-Language Translation
 
-| Target / character | Versi language | Alasan adaptasi |
+| Target / Character | Versi language | Alasan adaptasi |
 |---|---|---|
-| **Friend** | "Kalau mau mulai belajar CTF, coba mulai dari Bandit di OverTheWire dulu. Tamatin Bandit dulu, baru lanjut ke level berikutnya." | Menggunakan bahasa santai dan langsung karena relationship dengan teman bersifat informal. Istilah CTF, Bandit, dan OverTheWire tetap digunakan karena sudah sesuai dengan konteks pembicaraan. |
-| **Technical peer** | "Untuk mulai latihan CTF, kita bisa mulai dari Bandit di OverTheWire sebagai tahap awal. Selesaikan level-level Bandit terlebih dahulu sebelum lanjut ke tahap berikutnya." | Lebih teknis dan terstruktur karena target memiliki konteks yang sama dalam belajar CTF. Fokusnya pada urutan pembelajaran. |
-| **Manager** | "Untuk persiapan CTF, tahap awal pembelajaran dapat difokuskan pada penyelesaian Bandit di OverTheWire. Setelah tahap tersebut selesai, pembelajaran dapat dilanjutkan ke tahap berikutnya." | Menekankan progression dan rencana pembelajaran daripada bahasa teknis yang terlalu detail. |
-| **Customer / student user** | "Kalau kamu baru mulai belajar CTF, kamu bisa mulai dari Bandit di OverTheWire. Selesaikan tahap Bandit terlebih dahulu sebelum melanjutkan ke tahap berikutnya." | Menghindari asumsi bahwa target sudah memahami istilah teknis secara mendalam. Language dibuat seperti instruksi sederhana yang menjelaskan langkah pertama. |
-| **Public** | "Bagi yang ingin mulai mempelajari CTF, Bandit di OverTheWire dapat digunakan sebagai tahap awal latihan. Setelah menyelesaikan tahap tersebut, pembelajaran dapat dilanjutkan ke tahap berikutnya." | Menggunakan bahasa yang lebih netral dan umum karena audiens publik memiliki tingkat pengetahuan yang berbeda-beda. |
+| **Friend** | "Kalau mau mulai belajar CTF, coba mulai dari Bandit di OverTheWire dulu. Tamatin Bandit dulu, baru lanjut ke level berikutnya." | Menggunakan bahasa santai karena relationship dengan teman bersifat informal. Istilah CTF, Bandit, dan OverTheWire tetap digunakan karena sudah relevan dengan konteks. |
+| **Technical Peer** | "Untuk mulai latihan CTF, kita bisa mulai dari Bandit di OverTheWire sebagai tahap awal. Selesaikan level-level Bandit terlebih dahulu sebelum lanjut ke tahap berikutnya." | Menggunakan istilah teknis secara langsung karena target memiliki shared vocabulary dan memahami konteks CTF. |
+| **Manager / Dosen Pembimbing** | "Untuk persiapan CTF, tahap awal pembelajaran dapat difokuskan pada penyelesaian Bandit di OverTheWire. Setelah tahap tersebut selesai, pembelajaran dapat dilanjutkan ke tahap berikutnya." | Language dibuat lebih formal dan terstruktur. Fokusnya pada progression pembelajaran daripada bahasa percakapan sehari-hari. |
+| **Customer / Student User** | "Kalau kamu baru mulai belajar CTF, kamu bisa mulai dari Bandit di OverTheWire. Selesaikan tahap Bandit terlebih dahulu sebelum melanjutkan ke tahap berikutnya." | Menggunakan bahasa yang sederhana dan instruktif. Tidak mengasumsikan target sudah memahami istilah teknis secara mendalam. |
+| **Public** | "Bagi yang ingin mulai mempelajari CTF, Bandit di OverTheWire dapat digunakan sebagai tahap awal latihan. Setelah menyelesaikan tahap tersebut, pembelajaran dapat dilanjutkan ke tahap berikutnya." | Menggunakan bahasa netral dan lebih umum karena audiens publik memiliki tingkat pengetahuan yang berbeda-beda. |
+
+---
+
+## Analisis perubahan repertoire dan language
+
+Kelima versi memiliki **core meaning yang sama**, tetapi repertoire dan language disesuaikan dengan target.
+
+### 1. Friend
+
+Pada teman, saya menggunakan bahasa seperti **"coba mulai"** dan **"tamatin"**.
+
+Pilihan tersebut menunjukkan repertoire yang lebih santai karena relationship dengan teman memungkinkan penggunaan bahasa informal.
+
+Saya tidak perlu menjelaskan CTF secara panjang karena teman yang berada dalam konteks yang sama sudah dapat memahami istilah dasarnya.
+
+### 2. Technical Peer
+
+Pada technical peer, saya dapat menggunakan istilah seperti **CTF, Bandit, dan OverTheWire** secara langsung.
+
+Saya tidak perlu mengganti istilah tersebut dengan analogi karena target memiliki shared vocabulary.
+
+Repertoire yang digunakan lebih teknis dan berorientasi pada **urutan pembelajaran**.
+
+### 3. Manager / Dosen Pembimbing
+
+Pada manager atau dosen pembimbing, saya mengubah language menjadi lebih formal.
+
+Fokusnya adalah pada **tahap dan progression pembelajaran**, sehingga kalimat seperti "tamatin dulu" tidak digunakan.
+
+Relationship juga membuat saya perlu menggunakan language yang lebih profesional.
+
+### 4. Customer / Student User
+
+Pada student user, saya menggunakan bahasa yang lebih sederhana.
+
+Saya tidak mengasumsikan bahwa target sudah memiliki pengetahuan teknis yang sama dengan saya.
+
+Karena itu, pesan dibuat seperti instruksi langkah awal yang mudah diikuti.
+
+### 5. Public
+
+Pada public, saya menggunakan language yang netral dan umum.
+
+Saya menghindari bahasa yang terlalu personal atau terlalu teknis karena audiens publik dapat memiliki background yang berbeda.
 
 ---
 
 ## Evidence understanding
 
-Saya pernah menjelaskan kepada teman yang sedang mempersiapkan lomba CTF
-bahwa dalam OverTheWire terdapat tahap awal bernama **Bandit**. Saya
-menjelaskan bahwa Bandit dapat digunakan sebagai tahap awal belajar sebelum
-melanjutkan ke tahap berikutnya.
+Saya pernah menjelaskan kepada teman yang sedang mempersiapkan lomba CTF bahwa **Bandit di OverTheWire dapat digunakan sebagai tahap awal belajar** sebelum melanjutkan ke tahap berikutnya.
 
 Setelah penjelasan tersebut, teman saya memberikan response:
 
-> "Oh berarti dalam 2 minggu ini aku ingin namatin Bandit biar bisa lanjut ke
-> tahap selanjutnya."
+> "Oh berarti dalam 2 minggu ini aku ingin namatin Bandit biar bisa lanjut ke tahap selanjutnya."
 
-Response tersebut menunjukkan bahwa teman saya memahami struktur belajar
-yang saya jelaskan. Ia tidak hanya mengulangi informasi mengenai Bandit,
-tetapi juga mengubah informasi tersebut menjadi target tindakan, yaitu
-menyelesaikan Bandit dalam waktu dua minggu sebelum melanjutkan ke tahap
-berikutnya.
+Response tersebut menunjukkan bahwa teman saya memahami dua hal penting dari pesan:
 
-Dengan demikian, feedback tersebut menjadi evidence bahwa core meaning yang
-saya sampaikan dapat dipahami oleh target.
+1. Bandit merupakan tahap awal.
+2. Bandit perlu diselesaikan sebelum melanjutkan ke tahap berikutnya.
+
+Selain memahami informasi tersebut, teman saya juga mengubahnya menjadi **action**, yaitu membuat target untuk menyelesaikan Bandit dalam dua minggu.
+
+Dengan demikian, response tersebut menjadi evidence bahwa core meaning dapat dipahami oleh target.
 
 ---
 
-## Analisis repertoire dan language
+## Feedback dan adaptation
 
-Core meaning dalam kelima versi tetap sama, yaitu memulai pembelajaran CTF
-dari Bandit di OverTheWire dan menyelesaikan tahap tersebut sebelum
-melanjutkan ke tahap berikutnya.
+Feedback yang saya dapatkan berasal dari response teman setelah penjelasan.
 
-Yang berubah adalah **repertoire** dan **language** sesuai dengan target
-komunikasi.
+Awalnya saya hanya menjelaskan bahwa Bandit merupakan tahap awal belajar CTF. Setelah mendengar response teman, saya mengetahui bahwa ia tidak hanya memahami posisi Bandit, tetapi juga menghubungkannya dengan target waktu untuk menyelesaikannya.
 
-Pada **friend**, saya menggunakan bahasa yang lebih santai seperti
-"coba mulai" dan "tamatin" karena relationship memungkinkan penggunaan
-bahasa informal.
+Hal tersebut menunjukkan bahwa pesan yang saya sampaikan sudah cukup jelas untuk menghasilkan pemahaman dan action.
 
-Pada **technical peer**, istilah teknis dapat digunakan secara langsung
-karena target memiliki konteks yang sama mengenai CTF. Struktur kalimat lebih
-menekankan urutan pembelajaran.
+Jika target masih bingung mengenai posisi Bandit dalam proses belajar, saya akan mengadaptasi language dengan menjelaskan urutan pembelajaran secara lebih eksplisit:
 
-Pada **manager**, language dibuat lebih terstruktur dan berorientasi pada
-progression. Fokusnya bukan pada instruksi teknis yang terlalu detail,
-melainkan pada tahap dan rencana pembelajaran.
+**Bandit → selesai → lanjut ke tahap berikutnya.**
 
-Pada **customer/student user**, language dibuat lebih sederhana dan
-instruktif agar target dapat memahami apa yang perlu dilakukan meskipun tidak
-diasumsikan memiliki pengetahuan teknis yang mendalam.
-
-Pada **public**, language dibuat netral dan tidak terlalu informal karena
-audiensnya lebih luas dan tingkat pemahamannya dapat berbeda-beda.
-
-Adaptasi tersebut tidak mengubah core meaning. Yang berubah adalah cara
-penyampaian agar sesuai dengan relationship, kebutuhan, dan tingkat
-pemahaman target.
+Adaptasi tersebut tetap mempertahankan core meaning.
 
 ---
 
 ## Response dan adaptation
 
-Feedback dari teman menunjukkan bahwa versi language yang digunakan dapat
-dipahami. Teman tidak hanya memahami bahwa Bandit merupakan tahap awal,
-tetapi juga menghasilkan rencana tindakan untuk menyelesaikan Bandit dalam
-dua minggu.
+Feedback dari target menunjukkan bahwa language yang digunakan dapat menghasilkan understanding.
 
-Response tersebut memberikan informasi bahwa penjelasan yang diberikan
-sudah cukup untuk membuat target memahami langkah berikutnya.
+Response teman tidak hanya berupa "iya", tetapi berupa rencana:
 
-Jika target memberikan respons bahwa ia masih bingung mengenai urutan
-pembelajaran, saya perlu mengadaptasi language dengan memberikan penjelasan
-yang lebih sederhana mengenai posisi Bandit dan tahap berikutnya.
+> menyelesaikan Bandit dalam dua minggu sebelum melanjutkan ke tahap berikutnya.
+
+Hal tersebut menjadi evidence bahwa pesan telah diterjemahkan oleh target menjadi action.
+
+Dari sini saya belajar bahwa keberhasilan adaptasi language tidak hanya dilihat dari apakah pesan terdengar sesuai dengan target, tetapi juga dari **response dan understanding yang muncul setelah pesan disampaikan**.
+
+---
+
+## Relationship dan context shift
+
+Perubahan language tidak hanya disebabkan oleh tingkat pengetahuan teknis.
+
+Saya juga mempertimbangkan **relationship dan context**.
+
+| Target | Relationship / Context | Adaptasi utama |
+|---|---|---|
+| Friend | Hubungan setara dan informal | Bahasa santai |
+| Technical Peer | Rekan dengan shared technical context | Istilah teknis |
+| Manager | Hubungan profesional/akademik | Bahasa formal dan terstruktur |
+| Student User | Target yang mungkin belum familiar dengan CTF | Bahasa sederhana |
+| Public | Audiens luas | Bahasa netral dan umum |
+
+Dengan demikian, satu core meaning dapat tetap konsisten meskipun repertoire dan language berubah.
 
 ---
 
 ## Reflection
 
-Dari latihan ini saya memahami bahwa mengubah language tidak berarti
-mengubah meaning.
+Dari latihan ini saya memahami bahwa mengubah **language** tidak berarti mengubah **meaning**.
 
-Satu informasi yang sama dapat disampaikan dengan cara berbeda tergantung
-siapa target komunikasi. Ketika berbicara dengan teman, saya dapat
-menggunakan bahasa yang lebih santai. Ketika berbicara dengan technical
-peer, saya dapat menggunakan istilah teknis dengan lebih langsung. Sementara
-itu, ketika berbicara kepada public atau student user, saya perlu membuat
-penjelasan lebih umum dan mudah dipahami.
+Satu informasi yang sama dapat disampaikan dengan cara berbeda tergantung siapa target komunikasi, relationship yang dimiliki, dan konteks interaksi.
 
-Saya juga memahami bahwa keberhasilan komunikasi tidak hanya dapat dilihat
-dari pesan yang saya sampaikan, tetapi juga dari response target. Dalam
-percakapan mengenai Bandit, teman saya merespons dengan membuat target untuk
-menyelesaikan Bandit dalam dua minggu. Hal tersebut menunjukkan bahwa
-informasi yang saya sampaikan tidak hanya diterima, tetapi dipahami dan
-diterjemahkan menjadi action.
+Ketika berbicara dengan teman, saya dapat menggunakan bahasa yang lebih santai. Ketika berbicara dengan technical peer, saya dapat menggunakan istilah teknis secara langsung. Sementara itu, ketika berbicara kepada manager, student user, atau public, saya perlu menyesuaikan tingkat formalitas dan detail.
 
-Dengan demikian, saya belajar untuk mempertahankan core meaning sambil
-mengadaptasi repertoire dan language berdasarkan person, relationship, dan
-kebutuhan target komunikasi.
+Saya juga memahami bahwa adaptasi language bukan sekadar mengganti kata-kata. Saya perlu mempertimbangkan:
+
+- apa yang sudah diketahui target;
+- apa yang perlu diketahui target;
+- relationship dengan target;
+- konteks komunikasi; dan
+- action apa yang diharapkan setelah pesan dipahami.
+
+Evidence dari percakapan dengan teman menunjukkan bahwa pesan yang saya sampaikan tidak hanya dipahami, tetapi juga diterjemahkan menjadi action berupa target menyelesaikan Bandit dalam dua minggu.
+
+Hal tersebut membuat saya memahami bahwa **response target merupakan bagian penting untuk mengevaluasi apakah adaptasi language berhasil atau tidak**.
+
+---
+
+## Penggunaan AI
+
+AI digunakan hanya sebagai alat bantu untuk memeriksa struktur dan memastikan bahwa lima versi tetap mempertahankan core meaning.
+
+AI tidak digunakan untuk menciptakan pengalaman komunikasi atau response target.
+
+Penyusunan core meaning, pemilihan target, alasan adaptasi, dan evidence understanding berasal dari pengalaman dan analisis saya sendiri.
+
+---
+
+## Self-assessment
+
+| Dimensi | Skor 1-4 | Evidence singkat |
+|---|---:|---|
+| **Person & Character** | 4 | Lima target dibedakan berdasarkan relationship, shared vocabulary, konteks, dan kebutuhan informasi. |
+| **Objective & State** | 4 | Core meaning ditetapkan terlebih dahulu sehingga tujuan komunikasi tetap konsisten di semua versi. |
+| **Repertoire, Language & AI** | 4 | Repertoire, formalitas, istilah teknis, dan tingkat detail disesuaikan dengan setiap target tanpa mengubah meaning. |
+| **Response & Adaptation** | 4 | Response teman menunjukkan understanding dan menghasilkan action; kemungkinan adaptasi jika target masih bingung juga ditentukan. |
+| **Agreement, Action & Relationship** | 4 | Pesan menghasilkan action konkret berupa target menyelesaikan Bandit, sementara relationship dan context digunakan sebagai dasar adaptasi language. |
+
+### **Total: 20/20 — Lanjut**
+
+Kelima versi berhasil mempertahankan **core meaning** yang sama sambil menyesuaikan **repertoire dan language** berdasarkan person, relationship, shared vocabulary, dan context. Evidence dari response target menunjukkan bahwa pesan dapat dipahami dan diterjemahkan menjadi action.
+
+---
+
+## Assessment dosen
+
+**Skor:** — / 20
+
+**Evidence yang mendukung:** —
+
+**Prioritas perbaikan:** —
+
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
