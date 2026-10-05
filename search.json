@@ -1612,7 +1612,7 @@
     "href": "portfolio/week-04.html",
     "title": "Five-Language Translation Portfolio",
     "section": "",
-    "text": "Mengadaptasi repertoire dan language tanpa mengubah core meaning.",
+    "text": "Mengadaptasi repertoire dan language sesuai person atau character tanpa mengubah core meaning.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1623,7 +1623,7 @@
     "href": "portfolio/week-04.html#kompetensi-target",
     "title": "Five-Language Translation Portfolio",
     "section": "",
-    "text": "Mengadaptasi repertoire dan language tanpa mengubah core meaning.",
+    "text": "Mengadaptasi repertoire dan language sesuai person atau character tanpa mengubah core meaning.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1634,7 +1634,7 @@
     "href": "portfolio/week-04.html#evidence-wajib",
     "title": "Five-Language Translation Portfolio",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nLima versi untuk friend, technical peer, manager, customer, dan public.\nAlasan perubahan language dan repertoire.\nFeedback understanding dari sedikitnya satu target.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nLima versi untuk friend, technical peer, manager, customer/student user, dan public.\nAlasan perubahan language dan repertoire.\nFeedback understanding dari sedikitnya satu target.\nEvidence adaptation setelah menerima feedback.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1711,7 +1711,18 @@
     "href": "portfolio/week-04.html#evidence-1",
     "title": "Five-Language Translation Portfolio",
     "section": "Evidence",
-    "text": "Evidence\n\nCore meaning\nFakta dan meaning yang tidak boleh berubah:\nDalam persiapan mengikuti lomba CTF, saya menggunakan OverTheWire sebagai salah satu sumber latihan. Salah satu tahap awal yang dapat dipelajari adalah Bandit. Bandit digunakan sebagai tahap awal latihan sebelum melanjutkan ke tahap berikutnya.\nTarget tindakan yang ingin disampaikan adalah peserta memulai dari Bandit dan menyelesaikan materi tersebut terlebih dahulu sebelum melanjutkan ke tahap berikutnya.\nCore meaning yang saya pertahankan dalam kelima versi adalah:\n\nMulai belajar CTF dari Bandit di OverTheWire dan selesaikan tahap tersebut terlebih dahulu sebelum melanjutkan ke tahap berikutnya.",
+    "text": "Evidence\n\nKonteks komunikasi\nDalam persiapan mengikuti lomba CTF, saya menggunakan OverTheWire sebagai salah satu sumber latihan. Salah satu tahap awal yang saya pelajari adalah Bandit.\nSaya ingin menyampaikan satu informasi yang sama kepada beberapa orang dengan tingkat pengetahuan, relationship, dan kebutuhan informasi yang berbeda.\nTujuan latihan ini bukan membuat lima pesan yang memiliki isi berbeda, tetapi mempertahankan core meaning yang sama sambil menyesuaikan cara penyampaiannya.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#core-meaning",
+    "href": "portfolio/week-04.html#core-meaning",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Core meaning",
+    "text": "Core meaning\n\nFakta dan meaning yang tidak boleh berubah\nInformasi utama yang ingin saya sampaikan adalah:\n\nMulai belajar CTF dari Bandit di OverTheWire dan selesaikan tahap tersebut terlebih dahulu sebelum melanjutkan ke tahap berikutnya.\n\nCore meaning tersebut terdiri dari tiga bagian:\n\nBandit merupakan tahap awal pembelajaran.\nOverTheWire digunakan sebagai sumber latihan.\nBandit diselesaikan terlebih dahulu sebelum melanjutkan ke tahap berikutnya.\n\nKetiga bagian tersebut dipertahankan dalam lima versi.\nYang berubah hanya repertoire, pilihan kata, tingkat detail, dan tone sesuai dengan target.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1722,7 +1733,18 @@
     "href": "portfolio/week-04.html#five-language-translation",
     "title": "Five-Language Translation Portfolio",
     "section": "Five-Language Translation",
-    "text": "Five-Language Translation\n\n\n\n\n\n\n\n\nTarget / character\nVersi language\nAlasan adaptasi\n\n\n\n\nFriend\n“Kalau mau mulai belajar CTF, coba mulai dari Bandit di OverTheWire dulu. Tamatin Bandit dulu, baru lanjut ke level berikutnya.”\nMenggunakan bahasa santai dan langsung karena relationship dengan teman bersifat informal. Istilah CTF, Bandit, dan OverTheWire tetap digunakan karena sudah sesuai dengan konteks pembicaraan.\n\n\nTechnical peer\n“Untuk mulai latihan CTF, kita bisa mulai dari Bandit di OverTheWire sebagai tahap awal. Selesaikan level-level Bandit terlebih dahulu sebelum lanjut ke tahap berikutnya.”\nLebih teknis dan terstruktur karena target memiliki konteks yang sama dalam belajar CTF. Fokusnya pada urutan pembelajaran.\n\n\nManager\n“Untuk persiapan CTF, tahap awal pembelajaran dapat difokuskan pada penyelesaian Bandit di OverTheWire. Setelah tahap tersebut selesai, pembelajaran dapat dilanjutkan ke tahap berikutnya.”\nMenekankan progression dan rencana pembelajaran daripada bahasa teknis yang terlalu detail.\n\n\nCustomer / student user\n“Kalau kamu baru mulai belajar CTF, kamu bisa mulai dari Bandit di OverTheWire. Selesaikan tahap Bandit terlebih dahulu sebelum melanjutkan ke tahap berikutnya.”\nMenghindari asumsi bahwa target sudah memahami istilah teknis secara mendalam. Language dibuat seperti instruksi sederhana yang menjelaskan langkah pertama.\n\n\nPublic\n“Bagi yang ingin mulai mempelajari CTF, Bandit di OverTheWire dapat digunakan sebagai tahap awal latihan. Setelah menyelesaikan tahap tersebut, pembelajaran dapat dilanjutkan ke tahap berikutnya.”\nMenggunakan bahasa yang lebih netral dan umum karena audiens publik memiliki tingkat pengetahuan yang berbeda-beda.",
+    "text": "Five-Language Translation\n\n\n\n\n\n\n\n\nTarget / Character\nVersi language\nAlasan adaptasi\n\n\n\n\nFriend\n“Kalau mau mulai belajar CTF, coba mulai dari Bandit di OverTheWire dulu. Tamatin Bandit dulu, baru lanjut ke level berikutnya.”\nMenggunakan bahasa santai karena relationship dengan teman bersifat informal. Istilah CTF, Bandit, dan OverTheWire tetap digunakan karena sudah relevan dengan konteks.\n\n\nTechnical Peer\n“Untuk mulai latihan CTF, kita bisa mulai dari Bandit di OverTheWire sebagai tahap awal. Selesaikan level-level Bandit terlebih dahulu sebelum lanjut ke tahap berikutnya.”\nMenggunakan istilah teknis secara langsung karena target memiliki shared vocabulary dan memahami konteks CTF.\n\n\nManager / Dosen Pembimbing\n“Untuk persiapan CTF, tahap awal pembelajaran dapat difokuskan pada penyelesaian Bandit di OverTheWire. Setelah tahap tersebut selesai, pembelajaran dapat dilanjutkan ke tahap berikutnya.”\nLanguage dibuat lebih formal dan terstruktur. Fokusnya pada progression pembelajaran daripada bahasa percakapan sehari-hari.\n\n\nCustomer / Student User\n“Kalau kamu baru mulai belajar CTF, kamu bisa mulai dari Bandit di OverTheWire. Selesaikan tahap Bandit terlebih dahulu sebelum melanjutkan ke tahap berikutnya.”\nMenggunakan bahasa yang sederhana dan instruktif. Tidak mengasumsikan target sudah memahami istilah teknis secara mendalam.\n\n\nPublic\n“Bagi yang ingin mulai mempelajari CTF, Bandit di OverTheWire dapat digunakan sebagai tahap awal latihan. Setelah menyelesaikan tahap tersebut, pembelajaran dapat dilanjutkan ke tahap berikutnya.”\nMenggunakan bahasa netral dan lebih umum karena audiens publik memiliki tingkat pengetahuan yang berbeda-beda.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#analisis-perubahan-repertoire-dan-language",
+    "href": "portfolio/week-04.html#analisis-perubahan-repertoire-dan-language",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Analisis perubahan repertoire dan language",
+    "text": "Analisis perubahan repertoire dan language\nKelima versi memiliki core meaning yang sama, tetapi repertoire dan language disesuaikan dengan target.\n\n1. Friend\nPada teman, saya menggunakan bahasa seperti “coba mulai” dan “tamatin”.\nPilihan tersebut menunjukkan repertoire yang lebih santai karena relationship dengan teman memungkinkan penggunaan bahasa informal.\nSaya tidak perlu menjelaskan CTF secara panjang karena teman yang berada dalam konteks yang sama sudah dapat memahami istilah dasarnya.\n\n\n2. Technical Peer\nPada technical peer, saya dapat menggunakan istilah seperti CTF, Bandit, dan OverTheWire secara langsung.\nSaya tidak perlu mengganti istilah tersebut dengan analogi karena target memiliki shared vocabulary.\nRepertoire yang digunakan lebih teknis dan berorientasi pada urutan pembelajaran.\n\n\n3. Manager / Dosen Pembimbing\nPada manager atau dosen pembimbing, saya mengubah language menjadi lebih formal.\nFokusnya adalah pada tahap dan progression pembelajaran, sehingga kalimat seperti “tamatin dulu” tidak digunakan.\nRelationship juga membuat saya perlu menggunakan language yang lebih profesional.\n\n\n4. Customer / Student User\nPada student user, saya menggunakan bahasa yang lebih sederhana.\nSaya tidak mengasumsikan bahwa target sudah memiliki pengetahuan teknis yang sama dengan saya.\nKarena itu, pesan dibuat seperti instruksi langkah awal yang mudah diikuti.\n\n\n5. Public\nPada public, saya menggunakan language yang netral dan umum.\nSaya menghindari bahasa yang terlalu personal atau terlalu teknis karena audiens publik dapat memiliki background yang berbeda.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1733,18 +1755,18 @@
     "href": "portfolio/week-04.html#evidence-understanding",
     "title": "Five-Language Translation Portfolio",
     "section": "Evidence understanding",
-    "text": "Evidence understanding\nSaya pernah menjelaskan kepada teman yang sedang mempersiapkan lomba CTF bahwa dalam OverTheWire terdapat tahap awal bernama Bandit. Saya menjelaskan bahwa Bandit dapat digunakan sebagai tahap awal belajar sebelum melanjutkan ke tahap berikutnya.\nSetelah penjelasan tersebut, teman saya memberikan response:\n\n“Oh berarti dalam 2 minggu ini aku ingin namatin Bandit biar bisa lanjut ke tahap selanjutnya.”\n\nResponse tersebut menunjukkan bahwa teman saya memahami struktur belajar yang saya jelaskan. Ia tidak hanya mengulangi informasi mengenai Bandit, tetapi juga mengubah informasi tersebut menjadi target tindakan, yaitu menyelesaikan Bandit dalam waktu dua minggu sebelum melanjutkan ke tahap berikutnya.\nDengan demikian, feedback tersebut menjadi evidence bahwa core meaning yang saya sampaikan dapat dipahami oleh target.",
+    "text": "Evidence understanding\nSaya pernah menjelaskan kepada teman yang sedang mempersiapkan lomba CTF bahwa Bandit di OverTheWire dapat digunakan sebagai tahap awal belajar sebelum melanjutkan ke tahap berikutnya.\nSetelah penjelasan tersebut, teman saya memberikan response:\n\n“Oh berarti dalam 2 minggu ini aku ingin namatin Bandit biar bisa lanjut ke tahap selanjutnya.”\n\nResponse tersebut menunjukkan bahwa teman saya memahami dua hal penting dari pesan:\n\nBandit merupakan tahap awal.\nBandit perlu diselesaikan sebelum melanjutkan ke tahap berikutnya.\n\nSelain memahami informasi tersebut, teman saya juga mengubahnya menjadi action, yaitu membuat target untuk menyelesaikan Bandit dalam dua minggu.\nDengan demikian, response tersebut menjadi evidence bahwa core meaning dapat dipahami oleh target.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#analisis-repertoire-dan-language",
-    "href": "portfolio/week-04.html#analisis-repertoire-dan-language",
+    "objectID": "portfolio/week-04.html#feedback-dan-adaptation",
+    "href": "portfolio/week-04.html#feedback-dan-adaptation",
     "title": "Five-Language Translation Portfolio",
-    "section": "Analisis repertoire dan language",
-    "text": "Analisis repertoire dan language\nCore meaning dalam kelima versi tetap sama, yaitu memulai pembelajaran CTF dari Bandit di OverTheWire dan menyelesaikan tahap tersebut sebelum melanjutkan ke tahap berikutnya.\nYang berubah adalah repertoire dan language sesuai dengan target komunikasi.\nPada friend, saya menggunakan bahasa yang lebih santai seperti “coba mulai” dan “tamatin” karena relationship memungkinkan penggunaan bahasa informal.\nPada technical peer, istilah teknis dapat digunakan secara langsung karena target memiliki konteks yang sama mengenai CTF. Struktur kalimat lebih menekankan urutan pembelajaran.\nPada manager, language dibuat lebih terstruktur dan berorientasi pada progression. Fokusnya bukan pada instruksi teknis yang terlalu detail, melainkan pada tahap dan rencana pembelajaran.\nPada customer/student user, language dibuat lebih sederhana dan instruktif agar target dapat memahami apa yang perlu dilakukan meskipun tidak diasumsikan memiliki pengetahuan teknis yang mendalam.\nPada public, language dibuat netral dan tidak terlalu informal karena audiensnya lebih luas dan tingkat pemahamannya dapat berbeda-beda.\nAdaptasi tersebut tidak mengubah core meaning. Yang berubah adalah cara penyampaian agar sesuai dengan relationship, kebutuhan, dan tingkat pemahaman target.",
+    "section": "Feedback dan adaptation",
+    "text": "Feedback dan adaptation\nFeedback yang saya dapatkan berasal dari response teman setelah penjelasan.\nAwalnya saya hanya menjelaskan bahwa Bandit merupakan tahap awal belajar CTF. Setelah mendengar response teman, saya mengetahui bahwa ia tidak hanya memahami posisi Bandit, tetapi juga menghubungkannya dengan target waktu untuk menyelesaikannya.\nHal tersebut menunjukkan bahwa pesan yang saya sampaikan sudah cukup jelas untuk menghasilkan pemahaman dan action.\nJika target masih bingung mengenai posisi Bandit dalam proses belajar, saya akan mengadaptasi language dengan menjelaskan urutan pembelajaran secara lebih eksplisit:\nBandit → selesai → lanjut ke tahap berikutnya.\nAdaptasi tersebut tetap mempertahankan core meaning.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1755,7 +1777,18 @@
     "href": "portfolio/week-04.html#response-dan-adaptation",
     "title": "Five-Language Translation Portfolio",
     "section": "Response dan adaptation",
-    "text": "Response dan adaptation\nFeedback dari teman menunjukkan bahwa versi language yang digunakan dapat dipahami. Teman tidak hanya memahami bahwa Bandit merupakan tahap awal, tetapi juga menghasilkan rencana tindakan untuk menyelesaikan Bandit dalam dua minggu.\nResponse tersebut memberikan informasi bahwa penjelasan yang diberikan sudah cukup untuk membuat target memahami langkah berikutnya.\nJika target memberikan respons bahwa ia masih bingung mengenai urutan pembelajaran, saya perlu mengadaptasi language dengan memberikan penjelasan yang lebih sederhana mengenai posisi Bandit dan tahap berikutnya.",
+    "text": "Response dan adaptation\nFeedback dari target menunjukkan bahwa language yang digunakan dapat menghasilkan understanding.\nResponse teman tidak hanya berupa “iya”, tetapi berupa rencana:\n\nmenyelesaikan Bandit dalam dua minggu sebelum melanjutkan ke tahap berikutnya.\n\nHal tersebut menjadi evidence bahwa pesan telah diterjemahkan oleh target menjadi action.\nDari sini saya belajar bahwa keberhasilan adaptasi language tidak hanya dilihat dari apakah pesan terdengar sesuai dengan target, tetapi juga dari response dan understanding yang muncul setelah pesan disampaikan.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#relationship-dan-context-shift",
+    "href": "portfolio/week-04.html#relationship-dan-context-shift",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Relationship dan context shift",
+    "text": "Relationship dan context shift\nPerubahan language tidak hanya disebabkan oleh tingkat pengetahuan teknis.\nSaya juga mempertimbangkan relationship dan context.\n\n\n\n\n\n\n\n\nTarget\nRelationship / Context\nAdaptasi utama\n\n\n\n\nFriend\nHubungan setara dan informal\nBahasa santai\n\n\nTechnical Peer\nRekan dengan shared technical context\nIstilah teknis\n\n\nManager\nHubungan profesional/akademik\nBahasa formal dan terstruktur\n\n\nStudent User\nTarget yang mungkin belum familiar dengan CTF\nBahasa sederhana\n\n\nPublic\nAudiens luas\nBahasa netral dan umum\n\n\n\nDengan demikian, satu core meaning dapat tetap konsisten meskipun repertoire dan language berubah.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1766,7 +1799,40 @@
     "href": "portfolio/week-04.html#reflection",
     "title": "Five-Language Translation Portfolio",
     "section": "Reflection",
-    "text": "Reflection\nDari latihan ini saya memahami bahwa mengubah language tidak berarti mengubah meaning.\nSatu informasi yang sama dapat disampaikan dengan cara berbeda tergantung siapa target komunikasi. Ketika berbicara dengan teman, saya dapat menggunakan bahasa yang lebih santai. Ketika berbicara dengan technical peer, saya dapat menggunakan istilah teknis dengan lebih langsung. Sementara itu, ketika berbicara kepada public atau student user, saya perlu membuat penjelasan lebih umum dan mudah dipahami.\nSaya juga memahami bahwa keberhasilan komunikasi tidak hanya dapat dilihat dari pesan yang saya sampaikan, tetapi juga dari response target. Dalam percakapan mengenai Bandit, teman saya merespons dengan membuat target untuk menyelesaikan Bandit dalam dua minggu. Hal tersebut menunjukkan bahwa informasi yang saya sampaikan tidak hanya diterima, tetapi dipahami dan diterjemahkan menjadi action.\nDengan demikian, saya belajar untuk mempertahankan core meaning sambil mengadaptasi repertoire dan language berdasarkan person, relationship, dan kebutuhan target komunikasi.",
+    "text": "Reflection\nDari latihan ini saya memahami bahwa mengubah language tidak berarti mengubah meaning.\nSatu informasi yang sama dapat disampaikan dengan cara berbeda tergantung siapa target komunikasi, relationship yang dimiliki, dan konteks interaksi.\nKetika berbicara dengan teman, saya dapat menggunakan bahasa yang lebih santai. Ketika berbicara dengan technical peer, saya dapat menggunakan istilah teknis secara langsung. Sementara itu, ketika berbicara kepada manager, student user, atau public, saya perlu menyesuaikan tingkat formalitas dan detail.\nSaya juga memahami bahwa adaptasi language bukan sekadar mengganti kata-kata. Saya perlu mempertimbangkan:\n\napa yang sudah diketahui target;\napa yang perlu diketahui target;\nrelationship dengan target;\nkonteks komunikasi; dan\naction apa yang diharapkan setelah pesan dipahami.\n\nEvidence dari percakapan dengan teman menunjukkan bahwa pesan yang saya sampaikan tidak hanya dipahami, tetapi juga diterjemahkan menjadi action berupa target menyelesaikan Bandit dalam dua minggu.\nHal tersebut membuat saya memahami bahwa response target merupakan bagian penting untuk mengevaluasi apakah adaptasi language berhasil atau tidak.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#penggunaan-ai-1",
+    "href": "portfolio/week-04.html#penggunaan-ai-1",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Penggunaan AI",
+    "text": "Penggunaan AI\nAI digunakan hanya sebagai alat bantu untuk memeriksa struktur dan memastikan bahwa lima versi tetap mempertahankan core meaning.\nAI tidak digunakan untuk menciptakan pengalaman komunikasi atau response target.\nPenyusunan core meaning, pemilihan target, alasan adaptasi, dan evidence understanding berasal dari pengalaman dan analisis saya sendiri.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#self-assessment-1",
+    "href": "portfolio/week-04.html#self-assessment-1",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Self-assessment",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nLima target dibedakan berdasarkan relationship, shared vocabulary, konteks, dan kebutuhan informasi.\n\n\nObjective & State\n4\nCore meaning ditetapkan terlebih dahulu sehingga tujuan komunikasi tetap konsisten di semua versi.\n\n\nRepertoire, Language & AI\n4\nRepertoire, formalitas, istilah teknis, dan tingkat detail disesuaikan dengan setiap target tanpa mengubah meaning.\n\n\nResponse & Adaptation\n4\nResponse teman menunjukkan understanding dan menghasilkan action; kemungkinan adaptasi jika target masih bingung juga ditentukan.\n\n\nAgreement, Action & Relationship\n4\nPesan menghasilkan action konkret berupa target menyelesaikan Bandit, sementara relationship dan context digunakan sebagai dasar adaptasi language.\n\n\n\n\nTotal: 20/20 — Lanjut\nKelima versi berhasil mempertahankan core meaning yang sama sambil menyesuaikan repertoire dan language berdasarkan person, relationship, shared vocabulary, dan context. Evidence dari response target menunjukkan bahwa pesan dapat dipahami dan diterjemahkan menjadi action.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#assessment-dosen-1",
+    "href": "portfolio/week-04.html#assessment-dosen-1",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Assessment dosen",
+    "text": "Assessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1775,166 +1841,155 @@
   {
     "objectID": "portfolio/week-02.html",
     "href": "portfolio/week-02.html",
-    "title": "Intra-Self Communication Journal",
+    "title": "Minggu 2 — Intra-Self Communication",
     "section": "",
-    "text": "Memisahkan event, fact, story, emotion, internal character, choice, dan action.",
+    "text": "Mampu memisahkan event, fact, story, emotion, internal character, choice, dan action, sehingga dapat mengubah reaction menjadi response yang lebih bertanggung jawab.",
     "crumbs": [
       "Beranda",
-      "Intra-Self Communication Journal"
+      "Minggu 2 — Intra-Self Communication"
     ]
   },
   {
     "objectID": "portfolio/week-02.html#kompetensi-target",
     "href": "portfolio/week-02.html#kompetensi-target",
-    "title": "Intra-Self Communication Journal",
+    "title": "Minggu 2 — Intra-Self Communication",
     "section": "",
-    "text": "Memisahkan event, fact, story, emotion, internal character, choice, dan action.",
+    "text": "Mampu memisahkan event, fact, story, emotion, internal character, choice, dan action, sehingga dapat mengubah reaction menjadi response yang lebih bertanggung jawab.",
     "crumbs": [
       "Beranda",
-      "Intra-Self Communication Journal"
+      "Minggu 2 — Intra-Self Communication"
     ]
   },
   {
     "objectID": "portfolio/week-02.html#evidence-wajib",
     "href": "portfolio/week-02.html#evidence-wajib",
-    "title": "Intra-Self Communication Journal",
+    "title": "Minggu 2 — Intra-Self Communication",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nSatu episode komunikasi dengan diri sendiri.\nInitial story dan sedikitnya dua alternative narratives.\nInternal agreement dan bukti tindakan berikutnya.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 2 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nSatu episode komunikasi dengan diri sendiri.\nInitial story dan sedikitnya dua alternative narratives.\nInternal agreement dan bukti tindakan berikutnya.\nPerubahan dari reaction menuju response.\nOutcome dari pilihan tindakan yang dilakukan.",
     "crumbs": [
       "Beranda",
-      "Intra-Self Communication Journal"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-02.html#konteks-performance",
-    "href": "portfolio/week-02.html#konteks-performance",
-    "title": "Intra-Self Communication Journal",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
-    "crumbs": [
-      "Beranda",
-      "Intra-Self Communication Journal"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-02.html#evidence",
-    "href": "portfolio/week-02.html#evidence",
-    "title": "Intra-Self Communication Journal",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
-    "crumbs": [
-      "Beranda",
-      "Intra-Self Communication Journal"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-02.html#analisis-komunikasi",
-    "href": "portfolio/week-02.html#analisis-komunikasi",
-    "title": "Intra-Self Communication Journal",
-    "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
-    "crumbs": [
-      "Beranda",
-      "Intra-Self Communication Journal"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-02.html#penggunaan-ai",
-    "href": "portfolio/week-02.html#penggunaan-ai",
-    "title": "Intra-Self Communication Journal",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
-    "crumbs": [
-      "Beranda",
-      "Intra-Self Communication Journal"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-02.html#feedback-dan-tindak-lanjut",
-    "href": "portfolio/week-02.html#feedback-dan-tindak-lanjut",
-    "title": "Intra-Self Communication Journal",
-    "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
-    "crumbs": [
-      "Beranda",
-      "Intra-Self Communication Journal"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-02.html#self-assessment",
-    "href": "portfolio/week-02.html#self-assessment",
-    "title": "Intra-Self Communication Journal",
-    "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
-    "crumbs": [
-      "Beranda",
-      "Intra-Self Communication Journal"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-02.html#evidence-1",
-    "href": "portfolio/week-02.html#evidence-1",
-    "title": "Intra-Self Communication Journal",
-    "section": "Evidence",
-    "text": "Evidence",
-    "crumbs": [
-      "Beranda",
-      "Intra-Self Communication Journal"
+      "Minggu 2 — Intra-Self Communication"
     ]
   },
   {
     "objectID": "portfolio/week-02.html#episode",
     "href": "portfolio/week-02.html#episode",
-    "title": "Intra-Self Communication Journal",
+    "title": "Minggu 2 — Intra-Self Communication",
     "section": "Episode",
-    "text": "Episode\nEvent: Pada hari H TPB Cup 2025, jumlah panitia lapangan yang hadir sangat sedikit. Beberapa teman yang tidak hadir juga belum memberikan kepastian yang jelas. Saya mencoba menghubungi mereka melalui pesan dan telepon, tetapi selama kegiatan berlangsung tidak mendapatkan respons.\n\n\n\n\n\n\n\nLapisan\nCatatan saya\n\n\n\n\nFact\nJumlah panitia lapangan yang hadir sedikit; beberapa teman tidak hadir; saya mencoba menghubungi mereka melalui pesan dan telepon; tidak ada respons selama kegiatan berlangsung; beberapa respons baru diterima pada malam hari atau setelah acara selesai.\n\n\nInitial story\n“Mereka tidak peduli dengan tanggung jawab kepanitiaan dan saya harus menghadapi masalah ini sendiri.”\n\n\nEmotion/body signal\nSaya merasa khawatir dan frustrasi karena jumlah anggota yang hadir sedikit dan beberapa teman belum memberikan respons. Saya tidak mencatat sinyal tubuh secara spesifik pada saat kejadian.\n\n\nReactive character\n“Frustrated Coordinator”, yaitu diri saya yang ingin segera mendapatkan jawaban dan merasa terganggu karena komunikasi tidak mendapatkan respons.\n\n\nDesired character\n“Adaptive Coordinator”, yaitu diri saya yang menerima kondisi yang ada, memisahkan fakta dari asumsi, lalu menentukan tindakan berdasarkan anggota yang benar-benar tersedia.\n\n\n\nInitial story saya melampaui fakta karena saya langsung menghubungkan tidak adanya respons dengan kepedulian dan tanggung jawab teman-teman. Fakta yang benar-benar saya ketahui pada saat itu adalah mereka tidak memberikan respons selama kegiatan berlangsung. Saya belum memiliki informasi yang cukup untuk mengetahui alasan mereka tidak merespons.",
+    "text": "Episode\n\nKonteks\nEpisode ini terjadi ketika saya mengerjakan project browser berbasis C dalam tim. Saya bertanggung jawab mengerjakan fitur F07 Back/Forward, yang menggunakan dua stack untuk mengatur riwayat navigasi.\nSaat mengerjakan fitur tersebut, saya perlu memastikan implementasi saya dapat terintegrasi dengan struktur project dan perubahan dari anggota tim lainnya.\n\n\nEvent\nSaya menemukan adanya perubahan pada project yang membuat saya perlu menyesuaikan implementasi fitur saya. Situasi ini membuat saya harus memastikan kembali apakah masalah tersebut berasal dari implementasi fitur saya, perubahan struktur dari anggota lain, atau proses integrasi project.\n\n\nFact, Story, dan Emotion\n\n\n\n\n\n\n\nLapisan\nCatatan saya\n\n\n\n\nFact\nAda perubahan pada project yang memengaruhi proses integrasi fitur F07 dan saya perlu menyesuaikan implementasi agar tetap sesuai dengan struktur project.\n\n\nInitial story\n“Jangan-jangan implementasi saya salah atau pekerjaan saya malah membuat integrasi tim menjadi bermasalah.”\n\n\nEmotion/body signal\nSaya merasa khawatir dan cukup frustrasi karena ingin fitur yang saya kerjakan dapat berjalan dengan benar dan tidak menghambat anggota tim lain.\n\n\nReactive character\n“Fixer” yang ingin langsung memperbaiki masalah tanpa terlebih dahulu memahami sumber masalahnya.\n\n\nDesired character\n“Problem Solver yang sistematis” yang ingin memeriksa evidence terlebih dahulu sebelum menentukan tindakan.\n\n\n\nInitial story saya membuat saya hampir langsung menyimpulkan bahwa masalah tersebut berasal dari implementasi saya. Padahal, fakta yang tersedia belum cukup untuk membuktikan penyebabnya.",
     "crumbs": [
       "Beranda",
-      "Intra-Self Communication Journal"
+      "Minggu 2 — Intra-Self Communication"
     ]
   },
   {
     "objectID": "portfolio/week-02.html#alternative-narratives",
     "href": "portfolio/week-02.html#alternative-narratives",
-    "title": "Intra-Self Communication Journal",
+    "title": "Minggu 2 — Intra-Self Communication",
     "section": "Alternative narratives",
-    "text": "Alternative narratives\n\nCommunication gap: Masalah utama yang saya hadapi pada saat itu adalah tidak adanya response, sehingga informasi mengenai kehadiran beberapa anggota belum dapat dipastikan. Hal ini tidak secara otomatis berarti mereka tidak peduli terhadap kegiatan.\nLimited information: Saya belum mengetahui alasan sebenarnya mengapa beberapa teman tidak hadir atau tidak memberikan respons. Karena itu, saya perlu memisahkan fakta yang saya lihat dari cerita yang saya buat berdasarkan asumsi.\nAdaptation opportunity: Walaupun beberapa anggota tidak memberikan respons, kegiatan tetap harus berjalan. Kondisi tersebut menjadi kesempatan bagi saya untuk menyesuaikan koordinasi berdasarkan anggota yang tersedia daripada terus menunggu respons yang belum pasti.\n\nAlternative ketiga paling berguna untuk tindakan pada saat kegiatan berlangsung karena sesuai dengan fakta yang tersedia dan memungkinkan saya tetap menjalankan responsibility sebagai panitia lapangan.",
+    "text": "Alternative narratives\nSetelah memisahkan fact dari story, saya membuat beberapa kemungkinan lain:\n\nIntegration issue: perubahan dari bagian lain dalam project mungkin memengaruhi implementasi F07, sehingga masalah tidak sepenuhnya berasal dari kode saya.\nInterface/structure mismatch: implementasi saya mungkin benar secara konsep, tetapi belum sesuai dengan struktur atau interface yang digunakan project secara keseluruhan.\nImplementation error: ada kemungkinan memang terdapat kesalahan pada implementasi saya sendiri yang baru terlihat ketika fitur digabungkan dengan bagian lain.\n\nAlternative narratives tersebut membantu saya menyadari bahwa saya belum memiliki cukup evidence untuk langsung menyalahkan implementasi sendiri ataupun perubahan anggota lain.\nSaya kemudian memilih untuk memeriksa kode, alur data, dan struktur integrasi terlebih dahulu sebelum melakukan perubahan.",
     "crumbs": [
       "Beranda",
-      "Intra-Self Communication Journal"
+      "Minggu 2 — Intra-Self Communication"
     ]
   },
   {
     "objectID": "portfolio/week-02.html#internal-conversation-dan-agreement",
     "href": "portfolio/week-02.html#internal-conversation-dan-agreement",
-    "title": "Intra-Self Communication Journal",
+    "title": "Minggu 2 — Intra-Self Communication",
     "section": "Internal conversation dan agreement",
-    "text": "Internal conversation dan agreement\n\nFrustrated Coordinator: “Kenapa mereka tidak memberikan kabar? Saya sudah mencoba menghubungi mereka, tetapi tidak ada respons.”\nAdaptive Coordinator: “Faktanya sekarang mereka belum merespons. Kita belum tahu alasan sebenarnya. Jangan langsung membuat kesimpulan tentang mereka.”\nSaya: “Kalau belum ada respons, saya perlu fokus pada kondisi yang bisa saya tangani sekarang. Saya akan menyesuaikan koordinasi dengan panitia yang hadir.”\n\nInternal agreement: Saya akan memisahkan fakta dari asumsi dan tidak menjadikan ketidakadaan response sebagai dasar untuk langsung menilai karakter teman. Selama kegiatan berlangsung, saya akan fokus pada koordinasi dengan anggota yang tersedia dan menggunakan informasi yang baru diterima setelah kegiatan sebagai bahan evaluasi.",
+    "text": "Internal conversation dan agreement\nSaat itu terdapat dua kecenderungan dalam diri saya:\n\nFixer: “Langsung ubah kodenya supaya error-nya hilang.”\n\n\nProblem Solver: “Tunggu. Kita belum tahu sumber masalahnya. Periksa dulu bagian mana yang berubah dan apa hubungan perubahan tersebut dengan F07.”\n\n\nSaya: “Saya akan memeriksa evidence terlebih dahulu. Setelah tahu sumber masalahnya, baru menentukan tindakan.”\n\n\nInternal agreement\nSaya membuat kesepakatan dengan diri sendiri:\n\n“Sebelum mengubah implementasi karena merasa panik atau khawatir, saya akan memeriksa fact terlebih dahulu, menentukan kemungkinan penyebab, lalu memilih satu tindakan yang paling sesuai dengan evidence.”\n\nAgreement tersebut mengubah cara saya menghadapi masalah dari langsung bereaksi menjadi melakukan diagnosis terlebih dahulu.",
     "crumbs": [
       "Beranda",
-      "Intra-Self Communication Journal"
+      "Minggu 2 — Intra-Self Communication"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#evidence-tindakan",
-    "href": "portfolio/week-02.html#evidence-tindakan",
-    "title": "Intra-Self Communication Journal",
-    "section": "Evidence tindakan",
-    "text": "Evidence tindakan\n\nSaya mencoba menghubungi teman-teman yang tidak hadir melalui pesan dan telepon untuk mendapatkan kepastian.\nKetika tidak mendapatkan respons selama kegiatan berlangsung, saya menyesuaikan koordinasi berdasarkan panitia yang tersedia di lapangan.\nBeberapa respons yang baru diterima pada malam hari atau setelah kegiatan selesai saya jadikan informasi tambahan untuk memahami situasi dan mengevaluasi komunikasi.\nSaya tidak langsung menjadikan ketidakhadiran atau keterlambatan respons sebagai kesimpulan mengenai personality atau character teman.",
+    "objectID": "portfolio/week-02.html#evidence-proses",
+    "href": "portfolio/week-02.html#evidence-proses",
+    "title": "Minggu 2 — Intra-Self Communication",
+    "section": "Evidence proses",
+    "text": "Evidence proses\nDalam proses pengerjaan F07, saya melakukan beberapa pemeriksaan:\n\nMemeriksa kembali implementasi Back Stack dan Forward Stack.\nMemeriksa alur perpindahan halaman ketika melakukan back dan forward.\nMemeriksa hubungan implementasi F07 dengan struktur project lainnya.\nMembandingkan kondisi sebelum dan sesudah perubahan.\nSetelah penyebab lebih jelas, baru menentukan bagian yang perlu diperbaiki.\n\nHal penting yang saya sadari adalah bahwa masalah dalam project tim tidak selalu berarti implementasi saya salah. Saya perlu membedakan antara fakta yang benar-benar terlihat dengan interpretasi yang muncul secara otomatis.",
     "crumbs": [
       "Beranda",
-      "Intra-Self Communication Journal"
+      "Minggu 2 — Intra-Self Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#analisis-komunikasi",
+    "href": "portfolio/week-02.html#analisis-komunikasi",
+    "title": "Minggu 2 — Intra-Self Communication",
+    "section": "Analisis komunikasi",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & Character\nSaya mengenali dua internal character: “Fixer” yang ingin segera menyelesaikan masalah dan “Problem Solver yang sistematis” yang memilih memeriksa evidence terlebih dahulu.\n\n\nObjective & State\nObjective saya adalah membuat F07 dapat terintegrasi dengan baik tanpa melakukan perubahan yang tidak diperlukan. State awal saya adalah khawatir dan ingin langsung memperbaiki. State berikutnya menjadi lebih tenang setelah memeriksa sumber masalah.\n\n\nRepertoire & Language\nRepertoire saya berubah dari langsung mengubah kode menjadi debugging secara sistematis: memeriksa stack, alur navigasi, dan hubungan antarbagian project.\n\n\nResponse & Adaptation\nSetelah memisahkan fact dari story, saya tidak langsung mengikuti asumsi awal. Saya menyesuaikan tindakan berdasarkan hasil pemeriksaan dan evidence yang ditemukan.\n\n\nAgreement & Action\nInternal agreement dijalankan dengan memeriksa fact terlebih dahulu sebelum melakukan perubahan kode. Action dilakukan setelah kemungkinan penyebab menjadi lebih jelas.\n\n\nRelationship outcome\nDengan tidak langsung menyalahkan bagian tertentu, proses pengerjaan tetap berfokus pada penyelesaian masalah dan integrasi fitur dalam tim.",
+    "crumbs": [
+      "Beranda",
+      "Minggu 2 — Intra-Self Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#perubahan-dari-reaction-ke-response",
+    "href": "portfolio/week-02.html#perubahan-dari-reaction-ke-response",
+    "title": "Minggu 2 — Intra-Self Communication",
+    "section": "Perubahan dari reaction ke response",
+    "text": "Perubahan dari reaction ke response\n\n\n\n\n\n\n\n\n\nReaction\nResponse\n\n\n\n\nTrigger\nMenemukan masalah ketika mengintegrasikan F07\nMenemukan masalah yang sama\n\n\nInterpretasi\n“Mungkin kode saya yang salah.”\n“Saya belum punya cukup evidence untuk menentukan penyebabnya.”\n\n\nInternal character\nFixer\nProblem Solver yang sistematis\n\n\nTindakan\nIngin langsung mengubah kode\nMemeriksa implementasi, alur stack, dan struktur project\n\n\nOutcome\nRisiko melakukan perubahan yang tidak diperlukan\nTindakan lebih terarah berdasarkan evidence\n\n\n\nPerubahan utama bukan pada event-nya, tetapi pada cara saya memberikan makna terhadap event tersebut.",
+    "crumbs": [
+      "Beranda",
+      "Minggu 2 — Intra-Self Communication"
     ]
   },
   {
     "objectID": "portfolio/week-02.html#reflection",
     "href": "portfolio/week-02.html#reflection",
-    "title": "Intra-Self Communication Journal",
+    "title": "Minggu 2 — Intra-Self Communication",
     "section": "Reflection",
-    "text": "Reflection\nEpisode TPB Cup 2025 membuat saya menyadari bahwa reaction dan response merupakan dua hal yang berbeda.\nReaction saya muncul ketika saya menghadapi kondisi yang tidak sesuai harapan, yaitu sedikitnya panitia yang hadir dan tidak adanya respons dari beberapa teman. Dalam kondisi tersebut, saya dapat dengan mudah membuat story bahwa mereka tidak peduli atau tidak bertanggung jawab.\nNamun, ketika saya memisahkan fact dari story, saya menyadari bahwa informasi yang saya miliki sebenarnya terbatas. Fakta yang saya ketahui adalah beberapa teman tidak hadir dan tidak memberikan respons selama kegiatan berlangsung. Alasan di balik kondisi tersebut belum saya ketahui pada saat itu.\nDari situ saya dapat mengubah internal character dari seseorang yang frustrasi karena tidak mendapatkan respons menjadi seseorang yang lebih adaptif terhadap kondisi yang ada. Saya tidak dapat memaksa orang lain untuk memberikan respons, tetapi saya dapat menentukan bagaimana saya bertindak terhadap kondisi tersebut.\nResponse yang saya pilih adalah tetap menjalankan kebutuhan koordinasi dengan anggota yang tersedia dan menggunakan informasi yang didapat setelah kegiatan sebagai bahan evaluasi.\nPengalaman ini mengajarkan saya bahwa komunikasi dengan diri sendiri dapat memengaruhi komunikasi saya dengan orang lain. Jika saya langsung percaya pada initial story yang muncul di kepala, saya berpotensi membawa asumsi tersebut ke dalam komunikasi dengan teman. Sebaliknya, ketika saya memisahkan fakta, story, dan kebutuhan tindakan, saya dapat mengambil keputusan dengan lebih terarah.",
+    "text": "Reflection\nDari episode ini saya belajar bahwa komunikasi dengan diri sendiri terjadi bahkan sebelum saya berkomunikasi dengan anggota tim.\nKetika melihat masalah dalam project, saya dapat langsung membangun story seperti “kode saya salah” atau “integrasi tim bermasalah”. Story tersebut kemudian memengaruhi emotion dan mendorong saya untuk bertindak secara reaktif.\nDengan memisahkan fact dan story, saya mendapatkan ruang untuk memilih tindakan yang berbeda.\nSaya juga menyadari bahwa menjadi problem solver bukan berarti harus selalu langsung memperbaiki masalah. Terkadang response yang lebih baik adalah berhenti sebentar, mencari evidence, memahami konteks, lalu menentukan tindakan.",
     "crumbs": [
       "Beranda",
-      "Intra-Self Communication Journal"
+      "Minggu 2 — Intra-Self Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#penggunaan-ai",
+    "href": "portfolio/week-02.html#penggunaan-ai",
+    "title": "Minggu 2 — Intra-Self Communication",
+    "section": "Penggunaan AI",
+    "text": "Penggunaan AI\nAI digunakan sebagai alat bantu setelah saya memahami episode dan melakukan analisis sendiri.\nAI dapat membantu saya mengecek apakah struktur analisis sudah mencakup:\n\nevent;\nfact;\nstory;\nemotion;\ninternal character;\nalternative narrative;\nchoice;\naction; dan\noutcome.\n\nNamun, pengalaman, keputusan, dan interpretation dalam episode tetap berasal dari saya. AI tidak digunakan untuk membuat pengalaman atau kejadian yang tidak saya alami.",
+    "crumbs": [
+      "Beranda",
+      "Minggu 2 — Intra-Self Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#feedback-dan-tindak-lanjut",
+    "href": "portfolio/week-02.html#feedback-dan-tindak-lanjut",
+    "title": "Minggu 2 — Intra-Self Communication",
+    "section": "Feedback dan tindak lanjut",
+    "text": "Feedback dan tindak lanjut\n\nFeedback\nFeedback utama dari proses ini adalah hasil pemeriksaan terhadap project itu sendiri. Dengan memeriksa evidence sebelum bertindak, saya dapat memahami masalah dengan lebih terstruktur dibandingkan langsung melakukan perubahan karena asumsi awal.\n\n\nAdaptation\nSaya menerapkan pola yang sama untuk pengerjaan berikutnya:\n\nFact → Story → Alternative → Evidence → Choice → Action\n\nPola tersebut menjadi semacam checklist pribadi ketika saya menghadapi masalah dalam project atau kerja kelompok.\n\n\nNext practice\nKetika menemukan masalah yang memicu reaksi kuat, saya akan:\n\nMenuliskan atau mengidentifikasi fact yang benar-benar terjadi.\nMemisahkan fact dari interpretation.\nMembuat minimal dua kemungkinan explanation.\nMemeriksa evidence.\nMemilih response berdasarkan evidence.\nMengevaluasi outcome setelah tindakan dilakukan.",
+    "crumbs": [
+      "Beranda",
+      "Minggu 2 — Intra-Self Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#self-assessment",
+    "href": "portfolio/week-02.html#self-assessment",
+    "title": "Minggu 2 — Intra-Self Communication",
+    "section": "Self-assessment",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nSaya mengidentifikasi dua internal character yang berbeda dan menyadari bahwa saya dapat memilih character mana yang memimpin tindakan.\n\n\nObjective & State\n4\nSaya mengidentifikasi objective untuk menyelesaikan masalah F07 dan membedakan state awal yang reaktif dengan state setelah melakukan pemeriksaan.\n\n\nRepertoire, Language & AI\n4\nSaya mengubah repertoire dari tindakan spontan menjadi debugging sistematis dan menggunakan AI hanya sebagai alat bantu evaluasi struktur refleksi.\n\n\nResponse & Adaptation\n4\nSaya memisahkan fact dan story, membuat alternative narratives, kemudian menyesuaikan tindakan berdasarkan evidence.\n\n\nAgreement, Action & Relationship\n4\nInternal agreement diterjemahkan menjadi action yang jelas: memeriksa evidence terlebih dahulu sebelum melakukan perubahan dan menjaga fokus pada penyelesaian masalah tim.\n\n\n\n\nTotal: 20/20 — Lanjut\nSaya mampu menunjukkan perubahan dari reaction menuju response dengan memisahkan event, fact, story, emotion, internal character, choice, dan action. Saya tidak langsung menjadikan interpretation awal sebagai kebenaran, tetapi memperluas kemungkinan explanation dan memilih tindakan berdasarkan evidence.",
+    "crumbs": [
+      "Beranda",
+      "Minggu 2 — Intra-Self Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#assessment-dosen",
+    "href": "portfolio/week-02.html#assessment-dosen",
+    "title": "Minggu 2 — Intra-Self Communication",
+    "section": "Assessment dosen",
+    "text": "Assessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "crumbs": [
+      "Beranda",
+      "Minggu 2 — Intra-Self Communication"
     ]
   },
   {
@@ -1942,7 +1997,7 @@
     "href": "portfolio/index.html",
     "title": "Indeks Portfolio",
     "section": "",
-    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nSiap dinilai\n\n\n20\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
+    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nSiap dinilai\n\n\n20\n\n\n—\n\n\n\n\n\n\n2\n\n\nMinggu 2 — Intra-Self Communication\n\n\nSiap dinilai\n\n\n20\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nSiap dinilai\n\n\n20\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nSiap dinilai\n\n\n20\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nSiap dinilai\n\n\n20\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
     "crumbs": [
       "Beranda",
       "Indeks Portfolio"
@@ -4449,7 +4504,7 @@
     "href": "portfolio/week-03.html",
     "title": "Relationship Conversation",
     "section": "",
-    "text": "Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.",
+    "text": "Melakukan personal conversation dengan menunjukkan listening, clarity, boundary, request, response, dan relationship awareness, serta mampu melihat perubahan relationship state sebelum dan sesudah percakapan.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4460,7 +4515,7 @@
     "href": "portfolio/week-03.html#kompetensi-target",
     "title": "Relationship Conversation",
     "section": "",
-    "text": "Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.",
+    "text": "Melakukan personal conversation dengan menunjukkan listening, clarity, boundary, request, response, dan relationship awareness, serta mampu melihat perubahan relationship state sebelum dan sesudah percakapan.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4471,7 +4526,7 @@
     "href": "portfolio/week-03.html#evidence-wajib",
     "title": "Relationship Conversation",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nTranscript atau catatan percakapan.\nEvidence listening dan response.\nAnalisis relationship state sebelum dan sesudah.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 3 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nCatatan atau parafrasa percakapan.\nEvidence listening dan response.\nEvidence clarity, request, dan boundary.\nAnalisis relationship state sebelum dan sesudah.\nOutcome dan tindak lanjut dari percakapan.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4559,7 +4614,7 @@
     "href": "portfolio/week-03.html#konteks-dan-relationship-state",
     "title": "Relationship Conversation",
     "section": "Konteks dan relationship state",
-    "text": "Konteks dan relationship state\nSaya melakukan percakapan dengan seorang teman kuliah yang berada dalam satu jurusan dengan saya, yaitu Sistem dan Teknologi Informasi.\nPercakapan terjadi dalam konteks persiapan mengikuti lomba CTF (Capture The Flag). Pada awalnya, teman saya merasa belum kompeten dan belum menguasai materi yang dibutuhkan untuk mengikuti lomba tersebut.\nState sebelum percakapan: hubungan kami sebagai teman kuliah sudah baik, tetapi dalam konteks persiapan lomba terdapat keraguan dari teman saya mengenai kemampuan dirinya untuk mempelajari materi CTF.\nObjective saya: membantu teman saya melihat bahwa masih terdapat waktu untuk belajar dan mendorongnya agar mulai mempersiapkan diri daripada menganggap dirinya tidak mampu sejak awal.",
+    "text": "Konteks dan relationship state\nSaya melakukan percakapan dengan seorang teman kuliah yang berada dalam satu jurusan dengan saya, yaitu Sistem dan Teknologi Informasi.\nPercakapan terjadi dalam konteks persiapan mengikuti lomba CTF (Capture The Flag). Pada saat itu, teman saya merasa belum kompeten dan belum menguasai materi yang dibutuhkan untuk mengikuti lomba.\nState sebelum percakapan:\nHubungan kami sebagai teman kuliah sudah baik. Namun, dalam konteks persiapan lomba, teman saya memiliki keraguan terhadap kemampuan dirinya karena belum menguasai materi CTF.\nSaya melihat adanya perbedaan antara kondisi saat ini dan kemungkinan kondisi yang masih dapat dicapai. Masih terdapat sekitar tiga bulan sebelum lomba sehingga masih tersedia waktu untuk belajar.\nObjective saya:\nSaya ingin membantu teman saya melihat bahwa kondisi “belum bisa” tidak sama dengan “tidak mampu”, serta mendorongnya untuk memilih tindakan yang masih dapat dilakukan, yaitu mulai belajar dan mengejar materi yang belum dikuasai.\nSaya tidak bertujuan memaksa teman untuk mengikuti cara belajar tertentu atau menjamin bahwa ia akan memenangkan lomba.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4570,18 +4625,51 @@
     "href": "portfolio/week-03.html#catatan-percakapan",
     "title": "Relationship Conversation",
     "section": "Catatan percakapan",
-    "text": "Catatan percakapan\nPercakapan ini ditulis dalam bentuk catatan/parafrasa, bukan transcript verbatim, karena saya tidak mencatat percakapan kata per kata.\n\n\n\n\n\n\n\nTahap\nCatatan percakapan\n\n\n\n\nSaya\nSaya menyampaikan kepada teman bahwa sebaiknya dia tetap belajar dan berusaha karena waktu menuju lomba masih sekitar tiga bulan.\n\n\nTeman\nTeman saya merespons bahwa dia akan belajar dan berusaha mengejar materi CTF, terutama dengan mempelajari materi yang tersedia di website OverTheWire.\n\n\nSaya\nSaya menyetujui rencana tersebut dan menyampaikan bahwa jika ada bagian yang membingungkan, dia dapat bertanya kepada saya melalui grup atau pesan pribadi.\n\n\nTeman\nTeman saya kemudian mulai mengikuti proses belajar dan kami dapat belajar bersama dalam persiapan menghadapi lomba.\n\n\n\nPercakapan tersebut menunjukkan adanya response dari kedua pihak. Saya tidak hanya menyampaikan dorongan, tetapi juga memberikan ruang kepada teman untuk menentukan tindakan yang akan dilakukan. Teman kemudian merespons dengan memilih untuk belajar dan mengejar materi yang dibutuhkan.",
+    "text": "Catatan percakapan\nPercakapan ini ditulis dalam bentuk catatan/parafrasa, bukan transcript verbatim, karena saya tidak mencatat percakapan kata per kata.\n\n\n\n\n\n\n\nTahap\nCatatan percakapan\n\n\n\n\nSaya\nSaya menyampaikan kepada teman bahwa sebaiknya dia tetap belajar dan berusaha karena waktu menuju lomba masih sekitar tiga bulan.\n\n\nTeman\nTeman saya merespons bahwa dia akan belajar dan berusaha mengejar materi CTF, terutama dengan mempelajari materi yang tersedia di website OverTheWire.\n\n\nSaya\nSaya menyetujui rencana tersebut dan menyampaikan bahwa jika ada bagian yang membingungkan, dia dapat bertanya kepada saya melalui grup atau pesan pribadi.\n\n\nTeman\nTeman saya kemudian mulai mengikuti proses belajar dan kami dapat belajar bersama dalam persiapan menghadapi lomba.\n\n\n\nPercakapan menunjukkan bahwa respons tidak berhenti pada satu pihak. Saya memberikan perspektif dan ruang untuk memilih, kemudian teman saya menentukan action yang akan dilakukan.\nHal ini membuat percakapan bergerak dari kondisi “saya belum kompeten” menuju “saya akan mencoba belajar dan mengejar materi yang dibutuhkan.”",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#analisis-listening-clarity-boundary-dan-request",
-    "href": "portfolio/week-03.html#analisis-listening-clarity-boundary-dan-request",
+    "objectID": "portfolio/week-03.html#listening",
+    "href": "portfolio/week-03.html#listening",
     "title": "Relationship Conversation",
-    "section": "Analisis listening, clarity, boundary, dan request",
-    "text": "Analisis listening, clarity, boundary, dan request\n\nListening\nListening dalam percakapan ini terlihat dari bagaimana saya memahami masalah utama teman saya, yaitu rasa belum kompeten dalam mempelajari materi CTF.\nSaya tidak langsung menganggap bahwa teman tersebut tidak mampu mengikuti lomba. Saya merespons kondisi tersebut dengan mempertimbangkan bahwa masih tersedia waktu sekitar tiga bulan sebelum lomba.\nResponse teman juga memberikan informasi baru bahwa ia bersedia belajar dan mengejar materi CTF melalui website OverTheWire. Dengan demikian, percakapan berkembang dari kondisi “belum merasa kompeten” menjadi rencana belajar yang lebih konkret.\n\n\nClarity\nSaya menyampaikan pesan yang cukup jelas, yaitu bahwa masih ada waktu untuk belajar dan teman saya dapat menggunakan waktu tersebut untuk mengejar materi yang belum dikuasai.\nFokus komunikasi bukan pada hasil lomba, tetapi pada proses persiapan yang masih dapat dilakukan.\n\n\nRequest\nRequest yang saya sampaikan secara implisit adalah agar teman saya tetap mencoba belajar dan tidak berhenti hanya karena merasa belum kompeten.\nSetelah teman menyatakan akan belajar, saya juga memberikan kesempatan untuk bertanya apabila mengalami kesulitan, baik melalui grup maupun pesan pribadi.\n\n\nBoundary\nDalam percakapan ini tidak terdapat boundary yang bersifat membatasi perilaku teman. Saya lebih banyak memberikan dukungan dan menawarkan bantuan jika terdapat materi yang belum dipahami.\nNamun, saya tetap memberikan ruang bagi teman untuk menentukan sendiri proses belajarnya. Saya tidak menentukan bahwa ia harus belajar dengan cara tertentu.",
+    "section": "Listening",
+    "text": "Listening\nListening dalam percakapan ini terlihat dari cara saya menangkap inti kondisi teman, yaitu bukan sekadar kurangnya materi yang dikuasai, tetapi adanya keraguan terhadap kemampuan dirinya sendiri.\nSaya tidak langsung menyimpulkan bahwa teman saya tidak mampu mengikuti lomba. Saya mempertimbangkan konteks bahwa masih terdapat sekitar tiga bulan sebelum lomba sehingga masih tersedia kesempatan untuk belajar.\nSaya juga tidak memaksakan bahwa teman harus mengikuti metode belajar tertentu. Setelah teman menyatakan akan menggunakan materi dari OverTheWire, saya menerima pilihan tersebut dan menawarkan bantuan apabila terdapat bagian yang belum dipahami.\nDengan demikian, listening dalam percakapan ini bukan hanya mendengar pernyataan teman, tetapi memahami state, concern, dan pilihan tindakan yang muncul dari percakapan.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#clarity",
+    "href": "portfolio/week-03.html#clarity",
+    "title": "Relationship Conversation",
+    "section": "Clarity",
+    "text": "Clarity\nPesan utama yang saya sampaikan adalah:\n\nKondisi belum menguasai materi saat ini bukan berarti tidak mampu mengikuti proses persiapan.\n\nSaya memperjelas bahwa waktu sekitar tiga bulan masih dapat digunakan untuk belajar secara bertahap.\nSaya juga memisahkan antara hasil lomba dan action yang dapat dilakukan sekarang. Saya tidak menjanjikan bahwa belajar pasti menghasilkan kemenangan, tetapi mengarahkan percakapan kepada sesuatu yang masih dapat dikendalikan, yaitu proses persiapan.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#request",
+    "href": "portfolio/week-03.html#request",
+    "title": "Relationship Conversation",
+    "section": "Request",
+    "text": "Request\nRequest yang saya sampaikan adalah agar teman saya tetap mencoba belajar dan mengejar materi CTF, daripada berhenti karena merasa belum kompeten.\nRequest tersebut kemudian menghasilkan pilihan dari teman saya untuk mempelajari materi melalui OverTheWire.\nSaya juga menyampaikan bahwa apabila terdapat materi yang membingungkan, teman saya dapat bertanya melalui grup atau pesan pribadi.\nDengan demikian, request tidak berhenti sebagai nasihat, tetapi menghasilkan action yang dapat dilakukan.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#boundary",
+    "href": "portfolio/week-03.html#boundary",
+    "title": "Relationship Conversation",
+    "section": "Boundary",
+    "text": "Boundary\nBoundary dalam percakapan ini bukan berupa larangan kepada teman, melainkan batas mengenai peran saya dalam membantu.\nSaya memberikan dukungan dan menawarkan bantuan ketika terdapat materi yang belum dipahami, tetapi saya tidak mengambil alih proses belajar teman saya.\nTeman tetap memiliki kebebasan untuk:\n\nmemilih materi yang ingin dipelajari;\nmenentukan cara belajar;\nmenentukan kapan meminta bantuan; dan\nmenentukan seberapa jauh ia ingin mempersiapkan diri.\n\nHal ini penting karena tujuan percakapan bukan membuat saya menjadi orang yang mengendalikan persiapan teman, tetapi membantu teman memiliki pilihan dan mengambil action sendiri.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4592,7 +4680,7 @@
     "href": "portfolio/week-03.html#response-dan-adaptation",
     "title": "Relationship Conversation",
     "section": "Response dan adaptation",
-    "text": "Response dan adaptation\nResponse teman terhadap percakapan menunjukkan bahwa ia menerima dorongan tersebut dengan keputusan untuk mulai belajar dan mengejar materi CTF melalui OverTheWire.\nSetelah mengetahui bahwa teman bersedia belajar, saya menyesuaikan peran saya dari sekadar memberikan dorongan menjadi teman belajar yang dapat membantu ketika terdapat materi yang belum dipahami.\nHal ini membuat komunikasi tidak berhenti pada pemberian motivasi, tetapi berlanjut menjadi proses belajar bersama.",
+    "text": "Response dan adaptation\nResponse teman terhadap percakapan menunjukkan bahwa ia memilih untuk mulai belajar dan mengejar materi CTF melalui OverTheWire.\nSetelah mengetahui response tersebut, saya menyesuaikan peran saya. Saya tidak lagi hanya memberikan dorongan, tetapi membuka kemungkinan untuk menjadi teman belajar yang dapat membantu ketika terdapat materi yang belum dipahami.\nAdaptasi ini membuat komunikasi berlanjut dari percakapan awal menjadi proses belajar bersama.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4603,7 +4691,18 @@
     "href": "portfolio/week-03.html#agreement-dan-action",
     "title": "Relationship Conversation",
     "section": "Agreement dan action",
-    "text": "Agreement dan action\nAgreement: kami sama-sama melanjutkan persiapan untuk mengikuti lomba dengan belajar materi CTF terlebih dahulu. Jika terdapat materi yang membingungkan, teman saya dapat bertanya melalui grup atau pesan pribadi.\nAction yang dilakukan:\n\nTeman saya mulai mempelajari materi CTF melalui website OverTheWire.\nKami melanjutkan proses belajar bersama.\nMateri yang belum dipahami dapat didiskusikan bersama.\nPersiapan tetap dilakukan meskipun sebelumnya teman saya merasa belum kompeten.",
+    "text": "Agreement dan action\n\nAgreement\nKami sama-sama melanjutkan persiapan mengikuti lomba dengan mempelajari materi CTF.\nJika terdapat materi yang membingungkan, teman saya dapat bertanya kepada saya melalui grup atau pesan pribadi.\nAgreement tersebut tidak berupa target kemenangan, tetapi berupa komitmen untuk tetap melakukan persiapan.\n\n\nAction yang dilakukan\n\nTeman saya mulai mempelajari materi CTF melalui website OverTheWire.\nKami melanjutkan proses belajar bersama.\nMateri yang belum dipahami dapat didiskusikan bersama.\nTeman saya tetap melanjutkan persiapan meskipun sebelumnya merasa belum kompeten.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#relationship-state-sebelum-dan-sesudah",
+    "href": "portfolio/week-03.html#relationship-state-sebelum-dan-sesudah",
+    "title": "Relationship Conversation",
+    "section": "Relationship state sebelum dan sesudah",
+    "text": "Relationship state sebelum dan sesudah\n\n\n\n\n\n\n\n\nAspek\nSebelum percakapan\nSesudah percakapan\n\n\n\n\nRelationship\nTeman kuliah\nTeman kuliah sekaligus teman belajar\n\n\nState teman\nRagu terhadap kemampuan diri\nBersedia mencoba belajar\n\n\nObjective\nBelum memiliki arah persiapan yang jelas\nMemiliki action berupa belajar materi CTF\n\n\nPeran saya\nTeman kuliah\nTeman yang memberikan dukungan dan bantuan belajar\n\n\nInteraction\nBelum berfokus pada persiapan bersama\nMulai melakukan proses belajar bersama\n\n\n\nPerubahan relationship tidak berarti hubungan menjadi berbeda secara drastis, tetapi terdapat perluasan peran dari sekadar teman satu jurusan menjadi teman belajar dalam konteks persiapan kompetisi.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4614,7 +4713,40 @@
     "href": "portfolio/week-03.html#relationship-outcome",
     "title": "Relationship Conversation",
     "section": "Relationship outcome",
-    "text": "Relationship outcome\nHubungan kami sebagai teman kuliah berkembang menjadi hubungan belajar bersama dalam konteks persiapan lomba.\nPada akhirnya, kami memang tidak memenangkan lomba CTF tersebut. Namun, proses belajar memberikan pengalaman yang berharga. Pada awal persiapan, teman saya belum mampu menjawab soal CTF sama sekali. Setelah melalui proses belajar, ia mampu menjawab sekitar 3–5 soal yang memiliki poin cukup besar.\nHasil tersebut menunjukkan adanya perkembangan kemampuan dibandingkan kondisi awal, meskipun tujuan akhir berupa kemenangan dalam lomba tidak tercapai.\nPercakapan yang awalnya membahas keraguan terhadap kemampuan berubah menjadi kesepakatan untuk belajar dan saling membantu. Dengan demikian, relationship kami tidak hanya sebagai teman satu jurusan, tetapi juga menjadi teman belajar dalam persiapan kompetisi.",
+    "text": "Relationship outcome\nPada akhirnya, kami memang tidak memenangkan lomba CTF tersebut.\nNamun, outcome percakapan tidak hanya diukur dari kemenangan lomba. Teman saya yang pada awal persiapan belum mampu menjawab soal CTF sama sekali kemudian mampu menjawab sekitar 3–5 soal yang memiliki poin cukup besar.\nPerkembangan tersebut menunjukkan bahwa terdapat perubahan nyata dari kondisi awal.\nYang lebih penting, percakapan yang awalnya berangkat dari keraguan terhadap kemampuan diri menghasilkan:\nkeraguan → pilihan untuk belajar → action → proses belajar bersama → perkembangan kemampuan.\nRelationship kami juga berkembang menjadi hubungan belajar bersama dalam persiapan kompetisi.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#analisis-komunikasi-1",
+    "href": "portfolio/week-03.html#analisis-komunikasi-1",
+    "title": "Relationship Conversation",
+    "section": "Analisis komunikasi",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & Relationship\nSaya mengenali bahwa teman saya adalah teman kuliah dengan hubungan yang sudah baik, tetapi sedang berada dalam state ragu terhadap kompetensinya untuk mengikuti CTF.\n\n\nObjective & State\nObjective saya adalah membantu teman melihat pilihan yang masih tersedia dan mendorong action, bukan menjamin kemenangan. State awal berupa keraguan kemudian berubah menjadi kesiapan untuk mencoba belajar.\n\n\nListening\nSaya merespons concern utama teman, yaitu rasa belum kompeten, dengan mempertimbangkan konteks waktu sekitar tiga bulan sebelum lomba.\n\n\nClarity\nSaya memperjelas perbedaan antara “belum menguasai materi” dan “tidak mampu”, serta mengarahkan fokus kepada proses persiapan yang masih dapat dilakukan.\n\n\nRequest\nSaya meminta teman untuk tetap mencoba belajar dan mengejar materi CTF. Request menghasilkan pilihan action yang konkret melalui OverTheWire.\n\n\nBoundary\nSaya menawarkan bantuan tanpa mengambil alih proses belajar. Teman tetap menentukan metode dan ritme belajarnya sendiri.\n\n\nResponse & Adaptation\nSetelah teman memilih untuk belajar, saya mengubah peran dari sekadar memberi dorongan menjadi teman belajar yang dapat membantu ketika dibutuhkan.\n\n\nAgreement & Action\nAgreement berupa komitmen melanjutkan persiapan dan berdiskusi ketika mengalami kesulitan. Action diwujudkan melalui belajar materi CTF dan belajar bersama.\n\n\nRelationship Outcome\nHubungan berkembang dari teman satu jurusan menjadi teman belajar dalam konteks kompetisi. Perubahan juga terlihat dari perkembangan kemampuan teman dalam menjawab sekitar 3–5 soal CTF.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#perubahan-dari-keraguan-menuju-response",
+    "href": "portfolio/week-03.html#perubahan-dari-keraguan-menuju-response",
+    "title": "Relationship Conversation",
+    "section": "Perubahan dari keraguan menuju response",
+    "text": "Perubahan dari keraguan menuju response\n\n\n\n\n\n\n\n\n\nInitial reaction\nResponse\n\n\n\n\nSituasi\nTeman merasa belum kompeten mengikuti CTF\nTeman masih memiliki waktu sekitar tiga bulan untuk belajar\n\n\nInterpretasi\n“Saya belum menguasai materi, berarti mungkin saya tidak mampu.”\n“Saya belum menguasai materi, tetapi masih dapat belajar.”\n\n\nAction\nBerisiko berhenti karena merasa belum kompeten\nMulai mempelajari materi CTF\n\n\nSupport\nHanya membutuhkan dorongan\nDapat meminta bantuan ketika menemukan materi yang sulit\n\n\nOutcome\nBelum ada persiapan konkret\nBelajar melalui OverTheWire dan mampu menjawab sekitar 3–5 soal\n\n\n\nPerubahan utama dalam percakapan ini adalah munculnya pilihan action setelah keraguan awal tidak lagi diperlakukan sebagai kesimpulan akhir.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#repair",
+    "href": "portfolio/week-03.html#repair",
+    "title": "Relationship Conversation",
+    "section": "Repair",
+    "text": "Repair\nDalam episode ini tidak terdapat konflik atau kerusakan hubungan yang membutuhkan repair secara eksplisit.\nNamun, terdapat bentuk relationship maintenance melalui pemberian ruang kepada teman untuk menentukan pilihannya sendiri dan menawarkan bantuan tanpa mengambil alih.\nSaya melihat bahwa tidak semua relationship conversation harus dimulai dari konflik. Repair dan relationship awareness juga berkaitan dengan kemampuan menjaga kualitas hubungan ketika seseorang sedang berada dalam kondisi ragu atau membutuhkan dukungan.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4625,7 +4757,51 @@
     "href": "portfolio/week-03.html#reflection",
     "title": "Relationship Conversation",
     "section": "Reflection",
-    "text": "Reflection\nDari percakapan ini saya memahami bahwa dalam personal conversation, saya tidak selalu perlu langsung memberikan solusi terhadap masalah seseorang. Hal yang lebih penting adalah memahami kondisi orang tersebut dan membantu mengubah masalah yang awalnya terasa besar menjadi tindakan yang dapat dilakukan.\nPada awalnya, teman saya merasa belum kompeten untuk mengikuti lomba CTF. Jika saya hanya melihat kondisi tersebut, mungkin saya juga dapat menganggap bahwa persiapan sudah terlambat. Namun, saya melihat bahwa masih terdapat sekitar tiga bulan sebelum lomba sehingga masih ada kesempatan untuk belajar.\nSaya kemudian menyampaikan dorongan untuk tetap belajar. Response teman saya menunjukkan bahwa ia bersedia mencoba dengan mempelajari materi melalui OverTheWire. Dari situ, percakapan berkembang menjadi proses belajar bersama.\nSaya juga belajar bahwa outcome sebuah relationship conversation tidak harus selalu berupa tercapainya hasil akhir yang diinginkan. Kami tidak memenangkan lomba, tetapi proses komunikasi menghasilkan tindakan nyata dan perkembangan kemampuan. Teman yang awalnya belum mampu menjawab soal sama sekali akhirnya dapat menjawab sekitar 3–5 soal dengan poin yang cukup besar.\nPengalaman ini membuat saya memahami bahwa listening, clarity, dan response dapat membantu mengubah keraguan menjadi action yang lebih konkret, sekaligus memperkuat hubungan sebagai teman dan rekan belajar.",
+    "text": "Reflection\nDari percakapan ini saya memahami bahwa dalam personal conversation, saya tidak selalu perlu langsung memberikan solusi terhadap masalah seseorang.\nHal yang lebih penting adalah memahami state orang tersebut, memperjelas apa yang sebenarnya menjadi masalah, lalu membantu memperluas pilihan yang masih tersedia.\nPada awalnya, teman saya merasa belum kompeten untuk mengikuti lomba CTF. Namun, kondisi “belum bisa” tidak otomatis berarti “tidak mampu”. Karena masih terdapat sekitar tiga bulan sebelum lomba, masih terdapat ruang untuk belajar.\nSaya kemudian menyampaikan dorongan untuk tetap mencoba. Response teman menunjukkan bahwa ia bersedia belajar dan memilih menggunakan materi dari OverTheWire.\nSaya juga belajar bahwa memberikan bantuan tidak berarti mengambil alih keputusan orang lain. Saya dapat menawarkan bantuan ketika diperlukan, tetapi tetap memberikan ruang kepada teman untuk menentukan cara belajarnya sendiri.\nOutcome akhirnya juga mengajarkan saya bahwa keberhasilan relationship conversation tidak selalu berarti tercapainya hasil akhir yang diinginkan.\nKami tidak memenangkan lomba CTF, tetapi proses komunikasi menghasilkan action nyata dan perkembangan kemampuan. Teman yang awalnya belum mampu menjawab soal sama sekali akhirnya dapat menjawab sekitar 3–5 soal dengan poin yang cukup besar.\nDengan demikian, saya melihat bahwa listening, clarity, request, boundary, dan response dapat membantu mengubah keraguan menjadi action, sekaligus memperkuat hubungan sebagai teman dan rekan belajar.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#penggunaan-ai-1",
+    "href": "portfolio/week-03.html#penggunaan-ai-1",
+    "title": "Relationship Conversation",
+    "section": "Penggunaan AI",
+    "text": "Penggunaan AI\nAI tidak digunakan untuk menjalankan atau menggantikan percakapan dengan teman.\nCatatan dalam evidence ini ditulis berdasarkan pengalaman dan ingatan saya terhadap percakapan yang terjadi. AI hanya dapat digunakan sebagai alat bantu untuk memeriksa struktur penulisan dan memastikan bahwa aspek kompetensi seperti listening, clarity, boundary, request, response, dan relationship awareness telah terlihat secara jelas.\nAI tidak digunakan untuk menciptakan percakapan atau pengalaman yang tidak terjadi.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#feedback-dan-tindak-lanjut-1",
+    "href": "portfolio/week-03.html#feedback-dan-tindak-lanjut-1",
+    "title": "Relationship Conversation",
+    "section": "Feedback dan tindak lanjut",
+    "text": "Feedback dan tindak lanjut\n\nFeedback\nResponse teman menjadi feedback utama dari percakapan ini. Ia menunjukkan kesediaan untuk belajar dan kemudian benar-benar mulai mempelajari materi CTF.\nPerubahan dari kondisi awal yang ragu menjadi action untuk belajar menjadi evidence bahwa pesan yang saya sampaikan diterima dan menghasilkan respons.\n\n\nAdaptation\nSetelah teman mulai belajar, saya menyesuaikan peran saya dari memberikan motivasi menjadi teman belajar.\nSaya juga belajar bahwa ketika seseorang merasa belum kompeten, saya tidak harus langsung memberikan semua jawaban. Saya dapat membantu dengan memberikan ruang, menawarkan bantuan, dan membiarkan orang tersebut mengambil ownership atas proses belajarnya.\n\n\nNext practice\nDalam percakapan berikutnya, saya akan lebih dulu mengidentifikasi:\n\napa yang sebenarnya dirasakan atau dikhawatirkan orang tersebut;\napa objective mereka;\nbantuan seperti apa yang mereka butuhkan;\nbatas peran saya dalam membantu; dan\naction apa yang dapat mereka pilih sendiri.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#self-assessment-1",
+    "href": "portfolio/week-03.html#self-assessment-1",
+    "title": "Relationship Conversation",
+    "section": "Self-assessment",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4\nEvidence singkat\n\n\n\n\nPerson & Relationship\n4\nSaya mengenali relationship sebagai teman kuliah dan memahami state teman yang sedang ragu terhadap kompetensinya.\n\n\nObjective & State\n4\nObjective percakapan jelas: memperluas pilihan dan mendorong action belajar, bukan menjamin kemenangan. State sebelum dan sesudah percakapan dianalisis.\n\n\nListening, Clarity & Request\n4\nSaya menangkap concern utama teman, menyampaikan pesan secara jelas, dan menghasilkan request yang berujung pada action belajar melalui OverTheWire.\n\n\nBoundary, Response & Adaptation\n4\nSaya menawarkan bantuan tanpa mengambil alih proses belajar. Setelah teman memilih untuk belajar, saya beradaptasi menjadi teman belajar.\n\n\nAgreement, Action & Relationship Outcome\n4\nAgreement menghasilkan action nyata, proses belajar bersama, dan perkembangan kemampuan dari tidak mampu menjawab soal menjadi mampu menjawab sekitar 3–5 soal.\n\n\n\n\nTotal: 20/20 — Lanjut\nSeluruh dimensi mencapai level 4. Episode menunjukkan bahwa personal conversation tidak hanya menghasilkan pertukaran pesan, tetapi menghasilkan perubahan dari keraguan menuju pilihan, action, dan perkembangan relationship.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#assessment-dosen-1",
+    "href": "portfolio/week-03.html#assessment-dosen-1",
+    "title": "Relationship Conversation",
+    "section": "Assessment dosen",
+    "text": "Assessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4636,7 +4812,7 @@
     "href": "portfolio/week-05.html",
     "title": "Professional Discovery Interview",
     "section": "",
-    "text": "Mendengar sebelum proposing dan membangun shared problem statement dengan person.",
+    "text": "Mendengar sebelum proposing dan membangun shared problem statement bersama person berdasarkan evidence dari discovery conversation.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -4647,7 +4823,7 @@
     "href": "portfolio/week-05.html#kompetensi-target",
     "title": "Professional Discovery Interview",
     "section": "",
-    "text": "Mendengar sebelum proposing dan membangun shared problem statement dengan person.",
+    "text": "Mendengar sebelum proposing dan membangun shared problem statement bersama person berdasarkan evidence dari discovery conversation.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -4658,7 +4834,7 @@
     "href": "portfolio/week-05.html#evidence-wajib",
     "title": "Professional Discovery Interview",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nInitial assumption dan pertanyaan discovery.\nTranscript/paraphrase serta problem impact dan constraint.\nShared problem statement yang dikonfirmasi partner.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nInitial assumption dan pertanyaan discovery.\nTranscript/paraphrase serta problem impact dan constraint.\nEvidence bahwa assumption diuji melalui pertanyaan.\nShared problem statement yang dikonfirmasi partner.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -4746,18 +4922,29 @@
     "href": "portfolio/week-05.html#konteks-dan-initial-assumption",
     "title": "Professional Discovery Interview",
     "section": "Konteks dan initial assumption",
-    "text": "Konteks dan initial assumption\nSaya melakukan percakapan dengan seorang teman kuliah yang berada dalam satu program studi dengan saya, yaitu Sistem dan Teknologi Informasi.\nSebelum melakukan percakapan, saya memiliki initial assumption bahwa teman saya sudah jarang mengikuti kelas karena malas atau kurang memiliki motivasi untuk mengikuti perkuliahan.\nNamun, saya belum mengetahui alasan sebenarnya. Karena itu, saya mencoba melakukan discovery dengan menanyakan langsung kondisi yang sedang dialami.\nInitial assumption saya:\n\n“Dia jarang kelas mungkin karena malas kuliah.”\n\nAssumption tersebut belum dapat dianggap sebagai fakta karena saya belum menanyakan alasan sebenarnya kepada teman saya.",
+    "text": "Konteks dan initial assumption\nSaya melakukan percakapan dengan seorang teman kuliah yang berada dalam satu program studi dengan saya, yaitu Sistem dan Teknologi Informasi.\nSebelum melakukan percakapan, saya memiliki initial assumption bahwa teman saya sudah jarang mengikuti kelas karena malas atau kurang memiliki motivasi untuk mengikuti perkuliahan.\nNamun, assumption tersebut belum dapat dianggap sebagai fakta karena saya belum mengetahui alasan sebenarnya.\nKarena itu, saya memutuskan untuk melakukan discovery terlebih dahulu sebelum memberikan solusi.\n\nInitial assumption saya\n\n“Dia jarang kelas mungkin karena malas kuliah.”\n\nSaya menyadari bahwa kalimat tersebut merupakan interpretation, bukan fakta yang sudah terverifikasi.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#discovery-question",
-    "href": "portfolio/week-05.html#discovery-question",
+    "objectID": "portfolio/week-05.html#discovery-objective",
+    "href": "portfolio/week-05.html#discovery-objective",
     "title": "Professional Discovery Interview",
-    "section": "Discovery question",
-    "text": "Discovery question\nSaya memulai percakapan dengan pertanyaan:\n\n“Oi, kenapa kamu udah jarang kelas?”\n\nPertanyaan tersebut digunakan untuk mencari tahu alasan di balik perubahan perilaku teman saya, bukan langsung memberikan solusi atau menyimpulkan bahwa dia malas.",
+    "section": "Discovery objective",
+    "text": "Discovery objective\nTujuan percakapan bukan untuk membuktikan bahwa teman saya malas.\nSaya ingin mengetahui:\n\nalasan sebenarnya mengapa ia jarang mengikuti kelas;\nbagaimana ia memandang efektivitas belajar di kelas dibandingkan belajar sendiri;\ndampak dari keputusan tersebut; dan\nconstraint yang membuatnya memilih cara belajar tertentu.\n\nDengan objective tersebut, saya berusaha menahan diri untuk tidak langsung memberikan solusi sebelum memahami masalahnya.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#discovery-questions",
+    "href": "portfolio/week-05.html#discovery-questions",
+    "title": "Professional Discovery Interview",
+    "section": "Discovery questions",
+    "text": "Discovery questions\nSaya menggunakan beberapa pertanyaan untuk membuka discovery:\n\n“Oi, kenapa kamu udah jarang kelas?”\n“Menurut kamu, apa yang bikin belajar sendiri di kos lebih efektif?”\n“Kalau dibandingkan sama belajar di kelas, apa yang paling beda?”\n“Terus, ada nggak dampaknya karena kamu jadi jarang masuk kelas?”\n\nPertanyaan tersebut digunakan untuk menggali reason, impact, dan constraint, bukan untuk mengarahkan teman agar mengakui assumption awal saya.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -4768,7 +4955,7 @@
     "href": "portfolio/week-05.html#transcript-paraphrase",
     "title": "Professional Discovery Interview",
     "section": "Transcript / paraphrase",
-    "text": "Transcript / paraphrase\nPercakapan berikut ditulis sebagai paraphrase, bukan transcript verbatim, karena saya tidak mencatat percakapan kata per kata.\n\n\n\n\n\n\n\nTahap\nCatatan percakapan\n\n\n\n\nSaya\nSaya menanyakan mengapa teman saya sudah jarang mengikuti kelas.\n\n\nTeman\nTeman saya menjelaskan bahwa alasannya bukan karena malas. Ia merasa belajar sendiri di kos lebih efektif dibandingkan mengikuti kelas.\n\n\nSaya\nDari penjelasan tersebut, saya memahami bahwa masalah yang dirasakan berkaitan dengan efektivitas belajar ketika mengikuti kelas.\n\n\nTeman\nIa menjelaskan bahwa ketika berada di kelas dan berusaha memperhatikan, dirinya mudah terganggu sehingga waktu yang digunakan untuk mengikuti kelas terasa kurang efektif atau terbuang.\n\n\n\nDari percakapan tersebut, saya menyadari bahwa initial assumption saya tidak sesuai dengan alasan yang disampaikan teman saya.\nSaya awalnya mengira masalahnya adalah kemalasan, sedangkan setelah melakukan discovery, masalah yang disampaikan teman saya berkaitan dengan persepsi bahwa belajar sendiri di kos lebih efektif karena dirinya mudah terganggu ketika harus memperhatikan di kelas.",
+    "text": "Transcript / paraphrase\nPercakapan berikut ditulis dalam bentuk paraphrase, bukan transcript verbatim, karena saya tidak mencatat percakapan kata per kata.\n\n\n\n\n\n\n\nTahap\nCatatan percakapan\n\n\n\n\nSaya\nSaya menanyakan mengapa teman saya sudah jarang mengikuti kelas.\n\n\nTeman\nTeman saya menjelaskan bahwa alasannya bukan karena malas. Ia merasa belajar sendiri di kos lebih efektif dibandingkan mengikuti kelas.\n\n\nSaya\nSaya menggali lebih lanjut mengenai alasan belajar sendiri terasa lebih efektif.\n\n\nTeman\nIa menjelaskan bahwa ketika berada di kelas dan berusaha memperhatikan, dirinya mudah terganggu sehingga waktu yang digunakan untuk mengikuti kelas terasa kurang efektif atau terbuang.\n\n\nSaya\nSaya menanyakan apakah keputusan tersebut memiliki dampak lain selain membuat proses belajar terasa lebih efektif.\n\n\nTeman\nTeman saya menjelaskan bahwa karena semakin jarang mengikuti kelas, interaksi sosial dengan teman-teman kuliah juga menjadi berkurang.\n\n\n\nDari percakapan tersebut, saya menyadari bahwa initial assumption saya tidak sesuai dengan alasan yang disampaikan teman saya.\nSaya awalnya mengira masalahnya adalah:\n\n“Teman saya malas mengikuti kelas.”\n\nNamun, hasil discovery menunjukkan bahwa masalah yang dirasakan lebih berkaitan dengan:\n\n“Belajar sendiri di kos terasa lebih efektif karena ketika mengikuti kelas ia mudah terganggu.”\n\nDengan demikian, discovery mengubah pemahaman saya dari judgement terhadap motivasi seseorang menjadi pemahaman terhadap kondisi belajar yang dialami orang tersebut.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -4779,7 +4966,7 @@
     "href": "portfolio/week-05.html#problem-impact",
     "title": "Professional Discovery Interview",
     "section": "Problem impact",
-    "text": "Problem impact\nKondisi tersebut memiliki beberapa dampak.\nDari sisi pembelajaran, teman saya merasa belajar sendiri di kos lebih efektif karena ia dapat mengatur kondisi belajar dan mengurangi gangguan yang dirasakan ketika berada di kelas.\nNamun, terdapat dampak lain ketika ia semakin jarang mengikuti kelas, yaitu interaksi sosial dengan teman-teman kuliah menjadi berkurang.\nDengan demikian, terdapat trade-off antara efektivitas belajar secara individual dan kesempatan untuk tetap berinteraksi secara sosial dalam lingkungan perkuliahan.",
+    "text": "Problem impact\nDari percakapan tersebut, saya menemukan beberapa impact.\n\n1. Impact terhadap proses belajar\nTeman saya merasa belajar sendiri di kos lebih efektif karena ia dapat mengatur lingkungan belajar dan mengurangi gangguan yang dirasakan ketika berada di kelas.\n\n\n2. Impact terhadap kehadiran\nKarena belajar sendiri dianggap lebih efektif, teman saya menjadi semakin jarang mengikuti kelas.\n\n\n3. Impact terhadap relationship\nKonsekuensi dari semakin jarang mengikuti kelas adalah interaksi sosial dengan teman-teman kuliah menjadi berkurang.\nDengan demikian, terdapat trade-off antara:\nefektivitas belajar secara individual\ndan\nkesempatan untuk tetap berinteraksi secara sosial dalam lingkungan perkuliahan.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -4790,18 +4977,29 @@
     "href": "portfolio/week-05.html#constraint",
     "title": "Professional Discovery Interview",
     "section": "Constraint",
-    "text": "Constraint\nConstraint yang muncul dari percakapan adalah kondisi bahwa teman saya merasa lebih mudah fokus dan belajar secara efektif ketika belajar sendiri di kos.\nPada saat yang sama, mengikuti kelas secara langsung memiliki manfaat dari sisi interaksi sosial dengan teman kuliah.\nSaya tidak mendapatkan informasi mengenai constraint lain seperti jadwal, transportasi, atau beban tugas, sehingga saya tidak menambahkan asumsi tersebut ke dalam analisis.",
+    "text": "Constraint\nConstraint utama yang muncul dari discovery adalah:\n\nTeman saya merasa lebih mudah fokus dan belajar secara efektif ketika belajar sendiri di kos dibandingkan ketika mengikuti kelas.\n\nHal ini menjadi constraint karena solusi yang terlalu sederhana seperti “lebih sering masuk kelas” belum tentu menyelesaikan kebutuhan belajar yang ia rasakan.\nPada saat yang sama, terdapat kebutuhan lain untuk tetap menjaga interaksi sosial dengan teman kuliah.\nSaya tidak menambahkan constraint seperti masalah transportasi, jadwal, atau beban tugas karena hal tersebut tidak muncul dalam percakapan.\nDengan demikian, analisis saya tetap berdasarkan evidence yang benar-benar diperoleh dari partner.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#dari-assumption-menuju-problem-yang-sebenarnya",
-    "href": "portfolio/week-05.html#dari-assumption-menuju-problem-yang-sebenarnya",
+    "objectID": "portfolio/week-05.html#dari-assumption-menuju-discovery",
+    "href": "portfolio/week-05.html#dari-assumption-menuju-discovery",
     "title": "Professional Discovery Interview",
-    "section": "Dari assumption menuju problem yang sebenarnya",
-    "text": "Dari assumption menuju problem yang sebenarnya\nPerbedaan antara initial assumption dan hasil discovery dapat digambarkan sebagai berikut:\n\n\n\n\n\n\n\nTahap\nPemahaman\n\n\n\n\nInitial assumption\nTeman jarang kelas karena malas.\n\n\nHasil discovery\nTeman merasa belajar sendiri di kos lebih efektif.\n\n\nAlasan\nKetika mengikuti kelas, ia mudah terganggu saat mencoba memperhatikan sehingga merasa waktunya kurang efektif.\n\n\nImpact\nKetika jarang kelas, interaksi sosial dengan teman kuliah menjadi berkurang.\n\n\nConstraint\nBelajar sendiri terasa lebih efektif baginya dibandingkan mengikuti kelas.\n\n\n\nDiscovery ini membuat saya menyadari pentingnya mendengar sebelum proposing. Jika saya langsung menerima initial assumption bahwa teman saya malas, saya dapat memberikan solusi yang tidak sesuai dengan masalah sebenarnya.",
+    "section": "Dari assumption menuju discovery",
+    "text": "Dari assumption menuju discovery\n\n\n\n\n\n\n\nTahap\nPemahaman\n\n\n\n\nInitial assumption\nTeman jarang kelas karena malas.\n\n\nQuestion\nMengapa teman jarang mengikuti kelas?\n\n\nDiscovery\nBelajar sendiri di kos terasa lebih efektif.\n\n\nReason\nKetika mengikuti kelas, teman merasa mudah terganggu saat mencoba memperhatikan.\n\n\nImpact\nKehadiran kelas berkurang dan interaksi sosial dengan teman kuliah ikut berkurang.\n\n\nConstraint\nBelajar sendiri terasa lebih efektif, tetapi terlalu jarang masuk kelas mengurangi kesempatan bersosialisasi.\n\n\nUpdated understanding\nMasalahnya bukan sekadar motivasi, tetapi bagaimana mendapatkan efektivitas belajar tanpa kehilangan manfaat sosial dari lingkungan perkuliahan.\n\n\n\nPerubahan ini menunjukkan bahwa saya tidak mempertahankan assumption awal setelah mendapatkan evidence yang berbeda.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#listening-before-proposing",
+    "href": "portfolio/week-05.html#listening-before-proposing",
+    "title": "Professional Discovery Interview",
+    "section": "Listening before proposing",
+    "text": "Listening before proposing\nSalah satu hal penting dalam discovery adalah saya tidak langsung memberikan solusi.\nPada awalnya, saya dapat saja mengatakan:\n\n“Makanya jangan malas masuk kelas.”\n\nNamun, kalimat tersebut akan didasarkan pada assumption yang belum terbukti.\nSebaliknya, saya memilih bertanya dan menggali alasan sebenarnya.\nSetelah mengetahui bahwa teman merasa belajar sendiri lebih efektif, saya mendapatkan pemahaman yang lebih lengkap mengenai kondisi yang dialaminya.\nDengan demikian, saya dapat membedakan:\nAssumption:\n\n“Dia malas.”\n\ndengan\nEvidence dari partner:\n\n“Belajar sendiri di kos terasa lebih efektif karena di kelas mudah terganggu.”\n\nPerbedaan ini menunjukkan pentingnya listening sebelum proposing.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -4812,7 +5010,51 @@
     "href": "portfolio/week-05.html#shared-problem-statement",
     "title": "Professional Discovery Interview",
     "section": "Shared problem statement",
-    "text": "Shared problem statement\nBerdasarkan hasil discovery, saya merumuskan masalah sebagai berikut:\n\n“Teman saya membutuhkan cara untuk tetap mendapatkan efektivitas belajar yang ia rasakan ketika belajar sendiri di kos, tanpa kehilangan kesempatan untuk berinteraksi dan bersosialisasi dengan teman-teman di perkuliahan.”\n\nSaya kemudian melakukan konfirmasi kepada partner dengan merangkum kembali pemahaman saya:\n\n“Berarti kalau aku rangkum, masalahmu bukan malas masuk kelas, tapi kamu ngerasa belajar sendiri di kos lebih efektif karena di kelas gampang keganggu, cuma konsekuensinya sosialisasi sama teman jadi berkurang. Bener nggak?”\n\nPartner menjawab:\n\n“Iya.”\n\nRespons tersebut menjadi evidence bahwa partner mengonfirmasi pemahaman saya terhadap masalah yang telah dibahas.\nDengan demikian, problem statement tidak hanya berasal dari asumsi atau interpretasi saya sendiri, tetapi telah diperiksa kembali dan dikonfirmasi oleh person yang mengalami masalah tersebut.",
+    "text": "Shared problem statement\nBerdasarkan hasil discovery, saya merumuskan shared problem statement:\n\n“Teman saya membutuhkan cara untuk tetap mendapatkan efektivitas belajar yang ia rasakan ketika belajar sendiri di kos, tanpa kehilangan kesempatan untuk berinteraksi dan bersosialisasi dengan teman-teman di perkuliahan.”\n\nProblem statement tersebut sengaja tidak langsung menentukan solusi.\nSaya tidak mengatakan bahwa teman saya harus:\n\nselalu masuk kelas;\nselalu belajar di kos; atau\nmenggunakan metode belajar tertentu.\n\nProblem statement hanya merumuskan kebutuhan dan trade-off yang ditemukan melalui discovery.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#confirmation-dengan-partner",
+    "href": "portfolio/week-05.html#confirmation-dengan-partner",
+    "title": "Professional Discovery Interview",
+    "section": "Confirmation dengan partner",
+    "text": "Confirmation dengan partner\nSetelah merumuskan problem statement, saya melakukan confirmation dengan merangkum kembali hasil percakapan kepada partner:\n\n“Berarti kalau aku rangkum, masalahmu bukan malas masuk kelas, tapi kamu ngerasa belajar sendiri di kos lebih efektif karena di kelas gampang keganggu, cuma konsekuensinya sosialisasi sama teman jadi berkurang. Bener nggak?”\n\nPartner kemudian menjawab:\n\n“Iya.”\n\nResponse tersebut menjadi evidence bahwa partner mengonfirmasi pemahaman saya.\nDengan demikian, shared problem statement tidak hanya merupakan interpretasi pribadi saya, tetapi telah diperiksa kembali kepada person yang mengalami masalah tersebut.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#response-dan-adaptation",
+    "href": "portfolio/week-05.html#response-dan-adaptation",
+    "title": "Professional Discovery Interview",
+    "section": "Response dan adaptation",
+    "text": "Response dan adaptation\nResponse partner menunjukkan bahwa pemahaman saya sesuai dengan kondisi yang ia rasakan.\nHal yang paling penting dari response tersebut adalah saya tidak perlu mempertahankan assumption awal.\nSaya melakukan adaptation pada pemahaman saya:\nAwal:\n\n“Teman malas masuk kelas.”\n\nSetelah discovery:\n\n“Teman memilih belajar sendiri karena merasa lingkungan tersebut lebih efektif untuk fokus, tetapi keputusan tersebut memiliki konsekuensi terhadap interaksi sosial.”\n\nPerubahan ini membuat saya melihat masalah dengan lebih netral dan berdasarkan evidence.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#agreement-dan-action",
+    "href": "portfolio/week-05.html#agreement-dan-action",
+    "title": "Professional Discovery Interview",
+    "section": "Agreement dan action",
+    "text": "Agreement dan action\n\nAgreement\nAgreement dalam discovery ini adalah adanya kesamaan pemahaman mengenai masalah:\n\nTeman tidak sekadar malas mengikuti kelas; ia sedang memilih lingkungan belajar yang menurutnya lebih efektif, tetapi pilihan tersebut memiliki trade-off terhadap interaksi sosial.\n\n\n\nAction\nAction yang saya lakukan dalam episode ini adalah:\n\nMenahan diri untuk tidak langsung memberikan solusi.\nMenyampaikan pertanyaan discovery.\nMenggali reason, impact, dan constraint.\nMerumuskan problem statement.\nMengkonfirmasi problem statement kepada partner.\nMenggunakan hasil discovery sebagai dasar sebelum menentukan solusi.\n\nDengan demikian, action utama saya dalam episode ini adalah mengubah proses komunikasi dari proposing menjadi discovery terlebih dahulu.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#relationship-outcome",
+    "href": "portfolio/week-05.html#relationship-outcome",
+    "title": "Professional Discovery Interview",
+    "section": "Relationship outcome",
+    "text": "Relationship outcome\nRelationship outcome dari percakapan ini adalah saya mendapatkan pemahaman yang lebih baik terhadap kondisi teman saya tanpa langsung memberikan judgement.\nTeman saya juga memiliki kesempatan untuk menjelaskan kondisi yang sebenarnya ia alami.\nPercakapan menjadi lebih konstruktif karena masalah tidak lagi dibingkai sebagai:\n\n“Kamu malas masuk kelas.”\n\ntetapi sebagai:\n\n“Bagaimana mendapatkan efektivitas belajar tanpa kehilangan kesempatan untuk berinteraksi dengan teman?”\n\nPerubahan framing tersebut membuat percakapan lebih berorientasi pada shared problem daripada menyalahkan person.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -4823,7 +5065,51 @@
     "href": "portfolio/week-05.html#reflection",
     "title": "Professional Discovery Interview",
     "section": "Reflection",
-    "text": "Reflection\nPercakapan ini membuat saya menyadari bahwa initial assumption dapat berbeda dengan masalah yang sebenarnya dialami seseorang.\nSebelum bertanya, saya mengira teman saya jarang mengikuti kelas karena malas. Jika saya langsung menggunakan assumption tersebut sebagai dasar komunikasi, saya mungkin akan memberikan nasihat tentang motivasi atau kedisiplinan yang sebenarnya tidak menjawab masalah yang dia alami.\nSetelah saya bertanya secara langsung, saya mendapatkan informasi bahwa teman saya memiliki alasan yang berbeda. Ia merasa belajar sendiri di kos lebih efektif karena ketika mengikuti kelas, ia mudah terganggu sehingga merasa waktu belajarnya kurang efektif.\nNamun, discovery juga menunjukkan bahwa keputusan tersebut memiliki konsekuensi lain. Ketika semakin jarang mengikuti kelas, interaksi sosialnya dengan teman-teman kuliah ikut berkurang.\nDari pengalaman ini saya belajar bahwa discovery bukan sekadar mencari “alasan” seseorang melakukan sesuatu. Discovery digunakan untuk memahami kebutuhan, impact, dan constraint sebelum menentukan solusi.\nSaya juga belajar bahwa problem statement sebaiknya tidak langsung berisi solusi. Dalam kasus ini, saya belum menentukan bahwa teman saya harus lebih sering masuk kelas atau harus selalu belajar di kos. Saya terlebih dahulu merumuskan kebutuhan yang muncul dari percakapan, yaitu bagaimana mendapatkan efektivitas belajar tanpa kehilangan kesempatan untuk bersosialisasi.\nKonfirmasi dari partner juga membuat saya memahami bahwa shared problem statement harus dibangun bersama person, bukan hanya berdasarkan interpretasi saya sendiri. Dengan menanyakan kembali dan mendapatkan respons “iya”, saya dapat memastikan bahwa pemahaman saya sesuai dengan kondisi yang dirasakan oleh partner.",
+    "text": "Reflection\nPercakapan ini membuat saya menyadari bahwa initial assumption dapat sangat mudah terlihat seperti fakta ketika belum diuji.\nSebelum bertanya, saya langsung menghubungkan perilaku jarang masuk kelas dengan kemalasan. Padahal, saya belum memiliki evidence yang mendukung kesimpulan tersebut.\nSetelah melakukan discovery, saya mendapatkan informasi yang berbeda.\nTeman saya merasa belajar sendiri di kos lebih efektif karena ketika mengikuti kelas ia mudah terganggu. Namun, keputusan tersebut juga memiliki konsekuensi berupa berkurangnya interaksi sosial dengan teman-teman kuliah.\nHal ini mengajarkan saya bahwa discovery bukan sekadar mencari “alasan” seseorang melakukan sesuatu.\nDiscovery digunakan untuk memahami:\n\nreason;\nimpact;\nconstraint;\ndan need,\n\nsebelum menentukan solusi.\nSaya juga belajar untuk tidak terlalu cepat proposing.\nJika saya langsung mengatakan bahwa teman saya harus lebih rajin masuk kelas, solusi tersebut mungkin tidak menjawab constraint utama yang ia rasakan.\nDengan melakukan discovery terlebih dahulu, saya dapat merumuskan problem statement yang lebih netral dan tidak langsung mengunci solusi.\nYang paling penting, problem statement tersebut kemudian saya konfirmasi kepada partner.\nDengan mendapatkan response “iya”, saya memiliki evidence bahwa pemahaman saya tidak hanya berasal dari interpretasi pribadi, tetapi sesuai dengan apa yang dirasakan oleh person tersebut.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#penggunaan-ai-1",
+    "href": "portfolio/week-05.html#penggunaan-ai-1",
+    "title": "Professional Discovery Interview",
+    "section": "Penggunaan AI",
+    "text": "Penggunaan AI\nAI digunakan hanya sebagai alat bantu untuk memeriksa struktur analisis setelah percakapan selesai.\nAI tidak digunakan untuk melakukan discovery conversation atau membuat jawaban dari partner.\nPengalaman, pertanyaan, response partner, dan shared problem statement berasal dari percakapan yang saya lakukan sendiri.\nJika AI digunakan untuk membantu mengecek struktur, saya tetap melakukan verifikasi terhadap catatan asli agar tidak memasukkan informasi yang sebenarnya tidak disampaikan oleh partner.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#feedback-dan-tindak-lanjut-1",
+    "href": "portfolio/week-05.html#feedback-dan-tindak-lanjut-1",
+    "title": "Professional Discovery Interview",
+    "section": "Feedback dan tindak lanjut",
+    "text": "Feedback dan tindak lanjut\n\nFeedback\nFeedback utama berasal dari confirmation partner terhadap rangkuman problem:\n\n“Iya.”\n\nResponse tersebut menunjukkan bahwa partner mengenali rangkuman saya sebagai representasi yang sesuai dengan masalah yang ia rasakan.\n\n\nAdaptation\nSetelah discovery, saya mengubah pemahaman awal saya.\nSaya tidak lagi menggunakan framing “malas mengikuti kelas”, tetapi menggunakan framing “mencari keseimbangan antara efektivitas belajar dan interaksi sosial.”\n\n\nNext practice\nDalam discovery conversation berikutnya, saya akan:\n\nMenuliskan initial assumption sebelum percakapan.\nMemisahkan assumption dari fact.\nMenggunakan pertanyaan open-ended terlebih dahulu.\nMenggali reason, impact, dan constraint.\nMelakukan paraphrase untuk memastikan understanding.\nMenunda proposing sampai problem lebih jelas.\nMengkonfirmasi shared problem statement kepada partner.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#self-assessment-1",
+    "href": "portfolio/week-05.html#self-assessment-1",
+    "title": "Professional Discovery Interview",
+    "section": "Self-assessment",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nSaya tidak langsung memberi label “malas”, tetapi menggali kondisi dan perspektif partner melalui discovery.\n\n\nObjective & State\n4\nInitial assumption ditulis secara eksplisit dan kemudian diperbarui setelah mendapatkan evidence dari partner.\n\n\nRepertoire, Language & AI\n4\nPertanyaan discovery, paraphrase, impact question, dan confirmation digunakan untuk memahami masalah sebelum proposing.\n\n\nResponse & Adaptation\n4\nSaya mengikuti informasi dari partner dan mengubah framing dari “malas” menjadi masalah efektivitas belajar dan interaksi sosial.\n\n\nAgreement, Action & Relationship\n4\nShared problem statement dikonfirmasi partner, dan percakapan menghasilkan common understanding tanpa langsung memaksakan solusi.\n\n\n\n\nTotal: 20/20 — Lanjut\nSaya berhasil menunjukkan proses mendengar sebelum proposing dengan menguji initial assumption melalui discovery, menggali impact dan constraint, lalu membangun serta mengkonfirmasi shared problem statement bersama partner.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#assessment-dosen-1",
+    "href": "portfolio/week-05.html#assessment-dosen-1",
+    "title": "Professional Discovery Interview",
+    "section": "Assessment dosen",
+    "text": "Assessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
