@@ -20,6 +20,8 @@ Mampu memisahkan **event, fact, story, emotion, internal character, choice, dan 
 - Perubahan dari reaction menuju response.
 - Outcome dari pilihan tindakan yang dilakukan.
 
+---
+
 ## Episode
 
 ### Konteks
@@ -159,15 +161,29 @@ Namun, pengalaman, keputusan, dan interpretation dalam episode tetap berasal dar
 
 ### Feedback
 
-Feedback utama dari proses ini adalah hasil pemeriksaan terhadap project itu sendiri. Dengan memeriksa evidence sebelum bertindak, saya dapat memahami masalah dengan lebih terstruktur dibandingkan langsung melakukan perubahan karena asumsi awal.
+Feedback utama dari proses ini berasal dari hasil pemeriksaan dan pengujian terhadap project browser C. Setelah memeriksa implementasi F07 Back/Forward, saya mendapatkan pemahaman yang lebih jelas mengenai bagian yang perlu disesuaikan daripada langsung mengikuti asumsi awal bahwa implementasi saya yang bermasalah.
+
+### Action dan Outcome
+
+Setelah memisahkan fact, story, dan emotion, saya melakukan beberapa tindakan pada implementasi F07:
+
+1. Memeriksa kembali implementasi `Back Stack` dan `Forward Stack`.
+2. Memeriksa alur perpindahan halaman ketika melakukan `back` dan `forward`.
+3. Memeriksa hubungan implementasi F07 dengan struktur project lainnya.
+4. Membandingkan kondisi implementasi sebelum dan sesudah perubahan.
+5. Menyesuaikan bagian implementasi yang perlu diperbaiki berdasarkan hasil pemeriksaan.
+
+Setelah perubahan dilakukan, saya menjalankan kembali project dan melakukan pengujian terhadap alur Back/Forward.
+
+**Outcome:** F07 dapat digunakan kembali sesuai dengan alur navigasi yang dirancang dan proses integrasi dapat dilanjutkan tanpa perlu melakukan perubahan yang tidak berkaitan dengan masalah. Dari proses tersebut saya juga mendapatkan pembelajaran bahwa masalah integrasi tidak selalu berarti implementasi saya salah.
 
 ### Adaptation
 
 Saya menerapkan pola yang sama untuk pengerjaan berikutnya:
 
-> **Fact → Story → Alternative → Evidence → Choice → Action**
+> **Fact → Story → Alternative → Evidence → Choice → Action → Outcome**
 
-Pola tersebut menjadi semacam checklist pribadi ketika saya menghadapi masalah dalam project atau kerja kelompok.
+Pola tersebut menjadi checklist pribadi ketika saya menghadapi masalah dalam project atau kerja kelompok.
 
 ### Next practice
 
@@ -178,7 +194,8 @@ Ketika menemukan masalah yang memicu reaksi kuat, saya akan:
 3. Membuat minimal dua kemungkinan explanation.
 4. Memeriksa evidence.
 5. Memilih response berdasarkan evidence.
-6. Mengevaluasi outcome setelah tindakan dilakukan.
+6. Melakukan tindakan.
+7. Mengevaluasi outcome setelah tindakan dilakukan.
 
 ---
 

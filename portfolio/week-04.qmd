@@ -21,6 +21,8 @@ Mengadaptasi **repertoire** dan **language** sesuai person atau character tanpa 
 
 {{< include ../includes/evidence-template.md >}}
 
+---
+
 ## Evidence
 
 ### Konteks komunikasi
@@ -130,17 +132,38 @@ Dengan demikian, response tersebut menjadi evidence bahwa core meaning dapat dip
 
 ## Feedback dan adaptation
 
+### Feedback
+
 Feedback yang saya dapatkan berasal dari response teman setelah penjelasan.
 
 Awalnya saya hanya menjelaskan bahwa Bandit merupakan tahap awal belajar CTF. Setelah mendengar response teman, saya mengetahui bahwa ia tidak hanya memahami posisi Bandit, tetapi juga menghubungkannya dengan target waktu untuk menyelesaikannya.
 
 Hal tersebut menunjukkan bahwa pesan yang saya sampaikan sudah cukup jelas untuk menghasilkan pemahaman dan action.
 
-Jika target masih bingung mengenai posisi Bandit dalam proses belajar, saya akan mengadaptasi language dengan menjelaskan urutan pembelajaran secara lebih eksplisit:
+### Adaptation / Replay
 
-**Bandit → selesai → lanjut ke tahap berikutnya.**
+Berdasarkan feedback tersebut, saya melakukan replay terhadap pesan dengan membuat target waktu dan urutan tindakan menjadi lebih eksplisit.
 
-Adaptasi tersebut tetap mempertahankan core meaning.
+**Sebelum feedback:**
+
+> "Mulai belajar CTF dari Bandit di OverTheWire dan selesaikan tahap tersebut terlebih dahulu sebelum melanjutkan ke tahap berikutnya."
+
+**Setelah feedback:**
+
+> "Untuk 2 minggu ke depan, fokus dulu menyelesaikan Bandit di OverTheWire. Setelah Bandit selesai, baru lanjut ke tahap CTF berikutnya."
+
+### Perbandingan sebelum dan sesudah
+
+| Aspek | Sebelum | Sesudah |
+|---|---|---|
+| **Target** | Menyelesaikan Bandit | Menyelesaikan Bandit |
+| **Waktu** | Belum disebutkan secara eksplisit | 2 minggu |
+| **Urutan** | Bandit → tahap berikutnya | Bandit → tahap berikutnya |
+| **Language** | Instruksi umum | Lebih konkret dan berorientasi pada tindakan |
+
+Perubahan tersebut tidak mengubah core meaning. Bandit tetap menjadi tahap awal, OverTheWire tetap menjadi sumber latihan, dan Bandit tetap harus diselesaikan sebelum melanjutkan ke tahap berikutnya.
+
+Feedback tersebut juga menunjukkan bahwa adaptasi language dapat dilakukan setelah melihat bagaimana target memahami pesan. Dengan membuat target waktu lebih eksplisit, pesan menjadi lebih mudah diterjemahkan menjadi tindakan.
 
 ---
 
@@ -215,12 +238,12 @@ Penyusunan core meaning, pemilihan target, alasan adaptasi, dan evidence underst
 | **Person & Character** | 4 | Lima target dibedakan berdasarkan relationship, shared vocabulary, konteks, dan kebutuhan informasi. |
 | **Objective & State** | 4 | Core meaning ditetapkan terlebih dahulu sehingga tujuan komunikasi tetap konsisten di semua versi. |
 | **Repertoire, Language & AI** | 4 | Repertoire, formalitas, istilah teknis, dan tingkat detail disesuaikan dengan setiap target tanpa mengubah meaning. |
-| **Response & Adaptation** | 4 | Response teman menunjukkan understanding dan menghasilkan action; kemungkinan adaptasi jika target masih bingung juga ditentukan. |
+| **Response & Adaptation** | 4 | Response teman menunjukkan understanding dan menghasilkan action; replay setelah feedback juga menunjukkan adaptasi konkret pada pesan. |
 | **Agreement, Action & Relationship** | 4 | Pesan menghasilkan action konkret berupa target menyelesaikan Bandit, sementara relationship dan context digunakan sebagai dasar adaptasi language. |
 
 ### **Total: 20/20 — Lanjut**
 
-Kelima versi berhasil mempertahankan **core meaning** yang sama sambil menyesuaikan **repertoire dan language** berdasarkan person, relationship, shared vocabulary, dan context. Evidence dari response target menunjukkan bahwa pesan dapat dipahami dan diterjemahkan menjadi action.
+Kelima versi berhasil mempertahankan **core meaning** yang sama sambil menyesuaikan **repertoire dan language** berdasarkan person, relationship, shared vocabulary, dan context. Evidence dari response target menunjukkan bahwa pesan dapat dipahami dan diterjemahkan menjadi action. Replay sebelum dan sesudah feedback juga menunjukkan adanya proses adaptasi terhadap cara penyampaian pesan.
 
 ---
 
