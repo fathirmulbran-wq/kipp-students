@@ -279,6 +279,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#feedback-dan-tindak-lanjut" id="toc-feedback-dan-tindak-lanjut" class="nav-link" data-scroll-target="#feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</a>
   <ul class="collapse">
   <li><a href="#feedback" id="toc-feedback" class="nav-link" data-scroll-target="#feedback">Feedback</a></li>
+  <li><a href="#action-dan-outcome" id="toc-action-dan-outcome" class="nav-link" data-scroll-target="#action-dan-outcome">Action dan Outcome</a></li>
   <li><a href="#adaptation" id="toc-adaptation" class="nav-link" data-scroll-target="#adaptation">Adaptation</a></li>
   <li><a href="#next-practice" id="toc-next-practice" class="nav-link" data-scroll-target="#next-practice">Next practice</a></li>
   </ul></li>
@@ -334,6 +335,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Perubahan dari reaction menuju response.</li>
 <li>Outcome dari pilihan tindakan yang dilakukan.</li>
 </ul>
+<hr>
 </section>
 <section id="episode" class="level2">
 <h2 class="anchored" data-anchor-id="episode">Episode</h2>
@@ -551,15 +553,28 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
 <section id="feedback" class="level3">
 <h3 class="anchored" data-anchor-id="feedback">Feedback</h3>
-<p>Feedback utama dari proses ini adalah hasil pemeriksaan terhadap project itu sendiri. Dengan memeriksa evidence sebelum bertindak, saya dapat memahami masalah dengan lebih terstruktur dibandingkan langsung melakukan perubahan karena asumsi awal.</p>
+<p>Feedback utama dari proses ini berasal dari hasil pemeriksaan dan pengujian terhadap project browser C. Setelah memeriksa implementasi F07 Back/Forward, saya mendapatkan pemahaman yang lebih jelas mengenai bagian yang perlu disesuaikan daripada langsung mengikuti asumsi awal bahwa implementasi saya yang bermasalah.</p>
+</section>
+<section id="action-dan-outcome" class="level3">
+<h3 class="anchored" data-anchor-id="action-dan-outcome">Action dan Outcome</h3>
+<p>Setelah memisahkan fact, story, dan emotion, saya melakukan beberapa tindakan pada implementasi F07:</p>
+<ol type="1">
+<li>Memeriksa kembali implementasi <code>Back Stack</code> dan <code>Forward Stack</code>.</li>
+<li>Memeriksa alur perpindahan halaman ketika melakukan <code>back</code> dan <code>forward</code>.</li>
+<li>Memeriksa hubungan implementasi F07 dengan struktur project lainnya.</li>
+<li>Membandingkan kondisi implementasi sebelum dan sesudah perubahan.</li>
+<li>Menyesuaikan bagian implementasi yang perlu diperbaiki berdasarkan hasil pemeriksaan.</li>
+</ol>
+<p>Setelah perubahan dilakukan, saya menjalankan kembali project dan melakukan pengujian terhadap alur Back/Forward.</p>
+<p><strong>Outcome:</strong> F07 dapat digunakan kembali sesuai dengan alur navigasi yang dirancang dan proses integrasi dapat dilanjutkan tanpa perlu melakukan perubahan yang tidak berkaitan dengan masalah. Dari proses tersebut saya juga mendapatkan pembelajaran bahwa masalah integrasi tidak selalu berarti implementasi saya salah.</p>
 </section>
 <section id="adaptation" class="level3">
 <h3 class="anchored" data-anchor-id="adaptation">Adaptation</h3>
 <p>Saya menerapkan pola yang sama untuk pengerjaan berikutnya:</p>
 <blockquote class="blockquote">
-<p><strong>Fact → Story → Alternative → Evidence → Choice → Action</strong></p>
+<p><strong>Fact → Story → Alternative → Evidence → Choice → Action → Outcome</strong></p>
 </blockquote>
-<p>Pola tersebut menjadi semacam checklist pribadi ketika saya menghadapi masalah dalam project atau kerja kelompok.</p>
+<p>Pola tersebut menjadi checklist pribadi ketika saya menghadapi masalah dalam project atau kerja kelompok.</p>
 </section>
 <section id="next-practice" class="level3">
 <h3 class="anchored" data-anchor-id="next-practice">Next practice</h3>
@@ -570,6 +585,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Membuat minimal dua kemungkinan explanation.</li>
 <li>Memeriksa evidence.</li>
 <li>Memilih response berdasarkan evidence.</li>
+<li>Melakukan tindakan.</li>
 <li>Mengevaluasi outcome setelah tindakan dilakukan.</li>
 </ol>
 <hr>
