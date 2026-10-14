@@ -1,0 +1,205 @@
+---
+title: "UTS KIPP-2 — Sesi 3a"
+subtitle: "Membangun Kepercayaan melalui Eksperimen Terukur"
+author: "Fathir — 18225019 — K-01"
+format:
+  html:
+    toc: true
+    number-sections: true
+lang: id
+---
+
+## 1. Identitas dan Konteks Pembelajaran
+
+- **Nama:** Fathir
+- **NIM:** 18225019
+- **Kelas:** K-01
+- **Sesi:** 3a
+- **Kasus:** Menghadapi keraguan dan membangun kepercayaan terhadap solusi pengolahan data
+- **Lawan bicara:** Ali
+- **Fokus:** Empati, eksperimen kecil (*micro-action*), indikator keberhasilan, keputusan *go/no-go*, integritas data, dan transparansi atas keterbatasan analisis.
+
+Simulasi berfokus pada cara membantu seseorang yang ragu terhadap solusi dengan mengurangi risiko melalui percobaan terbatas, indikator objektif, pemeriksaan hasil, serta pengungkapan keterbatasan secara jujur.
+
+## 2. Transkrip Percakapan
+
+### Memahami keraguan Ali
+
+**Ali:**
+
+> Terima kasih sudah menjelaskan solusi yang kamu tawarkan. Tapi, jujur, aku masih belum yakin solusi ini benar-benar bisa menyelesaikan masalahku. Aku takut sudah menghabiskan waktu dan tenaga, tetapi hasilnya ternyata tidak sesuai harapan.
+
+**Fathir:**
+
+> Aku sangat paham kekhawatiranmu, Li. Sangat wajar kalau kamu ragu, apalagi di situasi kritis dengan tenggat yang sudah dekat. Rasanya menakutkan kalau kita pertaruhkan sisa waktu dan tenaga untuk sesuatu yang belum pasti berhasil.
+>
+> Biar kamu tidak harus mengambil risiko besar sekaligus, kita tidak perlu langsung *all-in* menerapkan solusi ini ke seluruh bagian tugas. Gimana kalau kita coba **langkah eksperimen kecil (*micro-action*) selama 15–20 menit saja** dulu?
+>
+> Kita ambil satu bagian paling kecil dari masalahmu, lalu kita uji solusi ini di bagian itu saja. Kalau dalam 20 menit itu ada progres yang kelihatan dan bikin kamu lebih tenang, kita bisa lanjutkan. Tapi kalau ternyata tidak efektif, kita langsung stop tanpa kehilangan banyak waktu dan tenaga, lalu kita cari alternatif lain.
+>
+> Menurutmu, bagian terkecil mana yang bisa kita coba uji sekarang?
+
+### Memilih eksperimen yang representatif
+
+**Ali:**
+
+> Hmm, aku mulai paham maksudmu, Fathir. Kalau cuma 15–20 menit, rasanya memang lebih ringan daripada harus langsung menerapkan semuanya.
+>
+> Tapi, aku masih bingung menentukan bagian terkecil yang harus dicoba. Masalahku saling berkaitan, jadi aku takut eksperimen kecil itu malah tidak menggambarkan kondisi sebenarnya. Misalnya, kalau hasil uji cobanya berhasil, belum tentu solusi itu berhasil ketika diterapkan ke seluruh tugas.
+>
+> **Bagaimana cara kita menentukan eksperimen kecil yang benar-benar bisa menunjukkan apakah solusi ini layak dilanjutkan, tanpa membuatku salah menyimpulkan hasilnya?**
+
+**Fathir:**
+
+> Pertanyaan yang kritis banget, Li. Kamu benar, uji coba kecil yang salah pilih bisa memberikan “kepastian palsu”—baik itu *false hope* atau *false alarm*.
+>
+> Supaya eksperimen 15–20 menit ini benar-benar mewakili dan hasilnya tidak disalahartikan, kita bisa tentukan dengan **3 kriteria eksperimen terukur**:
+>
+> 1. **Pilih *bottleneck* utama, bukan kasus tergampang:** pilih satu komponen yang menjadi sumbatan paling parah, misalnya logika pembersihan pada satu sampel data yang paling berantakan.
+> 2. **Tetapkan indikator keberhasilan objektif (*success metric*):** sebelum timer dinyalakan, tentukan target konkret, misalnya fungsi bisa memproses 10 baris sampel tanpa error.
+> 3. **Batasi kesimpulan (*scope of inference*):** eksperimen ini bukan membuktikan solusi 100% sempurna untuk seluruh tugas, melainkan menguji apakah pendekatan layak diteruskan.
+>
+> Jika indikator tercapai, kita punya dasar untuk melanjutkan. Jika gagal, kita bisa menemukan kelemahan tanpa menghabiskan waktu berjam-jam.
+>
+> Dari seluruh masalah yang kamu pegang sekarang, mana satu sumbatan paling kritis yang mau kita jadikan bahan uji coba 20 menit ini?
+
+### Menentukan kriteria lanjut atau berhenti
+
+**Ali:**
+
+> Kalau dipikir-pikir, sumbatan paling kritis yang sedang aku hadapi adalah proses membersihkan data sebelum dianalisis. Datanya punya beberapa nilai kosong dan format yang tidak konsisten, jadi aku terus memperbaiki satu bagian, lalu menemukan masalah baru di bagian lain.
+>
+> Aku ingin mencoba idemu dengan mengambil 10 baris data yang paling bermasalah. Targetnya, dalam 20 menit, kita bisa membuat aturan pembersihan yang jelas dan memproses sampel tersebut tanpa error.
+>
+> Tapi, ada satu kendala lagi, Fathir. Kalau 10 baris itu berhasil dibersihkan, tetapi ketika diterapkan ke seluruh dataset ternyata muncul format data lain yang belum kita antisipasi, kita tidak punya banyak waktu untuk terus bereksperimen.
+>
+> **Bagaimana kita menentukan kapan harus melanjutkan solusi ke seluruh dataset dan kapan harus berhenti untuk mencari alternatif?**
+
+**Fathir:**
+
+> Skenario yang kamu angkat itu tepat banget, Li! Kalau kita harus mengantisipasi semua anomali data di awal, kita pasti bakal terjebak *analysis paralysis* lagi.
+>
+> Supaya kita punya kepastian dan tidak terus-terusan bereksperimen, kita tetapkan aturan ***Go/No-Go Criteria*** yang objektif berdasarkan batas risiko:
+>
+> 1. **Kriteria *Go*:** sampel 10 baris terburuk berhasil dibersihkan dalam 20 menit dan aturan mampu menangani minimal 80% pola kesalahan utama, seperti nilai kosong dan format tanggal/angka standar. Jika terpenuhi, skrip bisa dijalankan ke seluruh dataset dengan pemantauan; anomali baru dipisahkan untuk diperiksa, bukan otomatis dihapus.
+> 2. **Kriteria *No-Go*:** jika logika dasar masih error atau terlalu rumit setelah 20 menit, hentikan pendekatan tersebut dan pilih alternatif yang lebih sederhana, misalnya membatasi variabel yang dianalisis jika memang sesuai tujuan laporan.
+>
+> Dengan kriteria ini, kita tidak perlu membuktikan bahwa kode bebas *bug* 100%; kita perlu bukti bahwa pendekatan cukup kuat untuk dilanjutkan dengan risiko yang terukur.
+>
+> Gimana, Li? Apakah kriteria ini cukup jelas untuk memulai timer 20 menit?
+
+### Menangani anomali tanpa membiaskan hasil
+
+**Ali:**
+
+> Ya, Fathir, sekarang aku merasa lebih tenang karena kita sudah punya batas keputusan yang jelas. Aku setuju untuk mulai dengan timer 20 menit dan menguji aturan pembersihan pada 10 baris yang paling bermasalah.
+>
+> Tapi, aku ingin memastikan satu hal sebelum kita menjalankannya. Kalau ternyata 20% data memiliki anomali yang tidak terduga, aku agak khawatir kalau kita langsung menghapus baris-baris tersebut. Bisa saja justru data itu penting untuk hasil analisis kita.
+>
+> **Bagaimana kita menentukan apakah baris yang bermasalah boleh dihapus, harus diperbaiki, atau perlu dipisahkan untuk diperiksa manual, tanpa membuat hasil analisis menjadi bias?**
+
+**Fathir:**
+
+> Pertanyaan yang sangat penting dan kritis, Li. Menghapus data secara asal-asalan memang berisiko tinggi membiaskan hasil analisis (*selection bias*).
+>
+> Supaya kita tetap bisa mengejar tenggat tanpa mengorbankan integritas data, kita bisa gunakan **Aturan Penanganan Anomali Tiga Jalur (*Three-Path Anomaly Protocol*)**:
+>
+> 1. **Jalur 1 — *Auto-Fix*:** perbaiki otomatis kesalahan format yang pola perbaikannya jelas dan tidak mengubah informasi.
+> 2. **Jalur 2 — *Isolate & Impute*:** data dengan nilai kosong atau nilai ekstrem pada variabel kunci dipisahkan terlebih dahulu. Jangan langsung menghapusnya; evaluasi konteks dan metode penanganan yang sesuai.
+> 3. **Jalur 3 — *Drop/Exclude*:** data duplikat sempurna atau data yang kehilangan nilai pada variabel sekunder boleh dikecualikan hanya jika sesuai tujuan analisis, dengan alasan yang dicatat transparan.
+>
+> Dengan protokol ini, kita tidak menghapus data secara buta demi mengejar waktu. Yuk, kita mulai timer 20 menit untuk sampel pertama.
+
+### Verifikasi hasil dan integritas data
+
+**Ali:**
+
+> Baik, Fathir. Aku setuju kita mulai eksperimen 20 menit dengan 10 baris sampel tadi. Aku akan mencatat jumlah baris yang berhasil dibersihkan, jenis anomali yang ditemukan, dan apakah ada data yang perlu diperiksa manual.
+>
+> Tapi, setelah kita menjalankan skrip pada seluruh dataset, bagaimana kita memastikan hasil akhirnya tetap konsisten dan tidak berubah secara tidak sengaja? Aku khawatir skrip yang terlihat berhasil di awal justru mengubah data penting di bagian lain.
+>
+> **Apa langkah verifikasi paling penting yang harus kita lakukan sebelum hasil analisis dimasukkan ke laporan akhir?**
+
+**Fathir:**
+
+> Skrip pembersihan yang berjalan tanpa error belum tentu menghasilkan data yang benar secara substansi. Karena itu, kita perlu melakukan **3 langkah verifikasi cepat** setelah skrip selesai:
+>
+> 1. **Pemeriksaan jumlah baris dan volume:** bandingkan jumlah baris awal dan akhir; hitung baris yang diperbaiki, dipisahkan, dan dikecualikan. Jika jumlah yang terbuang atau terpisah melonjak, hentikan penggunaan hasil sampai penyebabnya diperiksa.
+> 2. **Pemeriksaan nilai ekstrem dan tipe data:** cek ringkasan statistik variabel angka penting dan pastikan tipe data tiap kolom sesuai.
+> 3. **Uji silang sampel acak:** ambil 5–10 baris hasil pembersihan dan bandingkan dengan data mentah untuk memastikan nilai tidak bergeser antar kolom.
+>
+> Jika pemeriksaan ini lolos, kita punya bukti yang lebih baik bahwa dataset konsisten dan layak dianalisis, meskipun tetap perlu menilai keterbatasannya.
+
+### Menentukan kelayakan hasil akhir
+
+**Ali:**
+
+> Ini pertanyaan yang sangat dewasa secara teknis, Li! [Catatan: pada giliran ini nama sapaan seharusnya Ali; percakapan aslinya memuat salah sebut.]
+>
+> Kalau semua pemeriksaan teknis sudah lolos, tetapi waktu kita tinggal sedikit dan masih ada beberapa anomali yang belum bisa dijelaskan, bagaimana kamu menentukan apakah hasil analisis sudah cukup layak untuk dimasukkan ke laporan akhir?
+
+**Fathir:**
+
+> Situasi seperti ini sering terjadi ketika mayoritas data sudah siap, tetapi waktu terbatas dan masih ada anomali yang belum terjelaskan.
+>
+> Keputusan paling profesional adalah memasukkan hasil analisis hanya dengan **tiga prinsip transparansi**:
+>
+> 1. **Evaluasi risiko:** nilai apakah anomali tersebut berpotensi mengubah arah kesimpulan utama. Persentase kecil saja tidak otomatis berarti aman; konteks dan pentingnya variabel tetap harus diperiksa.
+> 2. **Kejujuran akademik:** jelaskan anomali yang diisolasi dan keterbatasannya di bagian metodologi atau keterbatasan penelitian. Jangan menyajikan hasil yang belum terverifikasi seolah-olah sudah pasti.
+> 3. **Rekomendasi pengembangan:** catat pemeriksaan lanjutan yang diperlukan untuk penelitian atau pengembangan skrip berikutnya.
+>
+> Dengan cara ini, kita menjaga tenggat tanpa menyembunyikan keterbatasan dan tetap mempertahankan integritas akademik.
+
+**Ali:**
+
+> Terima kasih banyak atas diskusi kritisnya, Fathir! Awalnya aku takut mencoba solusi karena khawatir gagal. Sekarang aku belajar bahwa eksperimen kecil dengan indikator keberhasilan yang jelas, aturan *go/no-go*, dan pemeriksaan hasil bisa membantu kita mengambil keputusan dengan lebih terukur.
+>
+> Aku juga memahami bahwa hasil yang lolos pemeriksaan teknis belum tentu sempurna. Kita tetap perlu menilai risiko anomali dan menyampaikan keterbatasan secara jujur. Sekarang aku merasa lebih siap melanjutkan pekerjaan dengan langkah yang jelas dan terukur.
+
+## 3. Evaluasi Kinerja
+
+### Kekuatan yang terlihat
+
+1. **Empati dan validasi:** Fathir mengakui kekhawatiran Ali tentang risiko membuang waktu dan tenaga sebelum menawarkan solusi.
+2. **Eksperimen bertahap:** *Micro-action* 15–20 menit mengurangi beban awal dan memberi kesempatan menguji pendekatan sebelum menerapkannya secara luas.
+3. **Indikator objektif:** target 10 baris sampel, batas waktu, serta kriteria *go/no-go* mengubah kekhawatiran menjadi keputusan yang dapat dievaluasi.
+4. **Adaptasi terhadap risiko:** ketika Ali mengangkat kemungkinan anomali dan bias, Fathir menambahkan jalur penanganan data serta pemeriksaan integritas.
+5. **Transparansi:** Fathir menekankan pentingnya mengungkap keterbatasan dan tidak menyembunyikan hasil yang belum terverifikasi.
+
+### Hal yang perlu dijaga
+
+- Keberhasilan 10 baris sampel tidak otomatis membuktikan seluruh dataset aman; penerapan luas perlu pemantauan dan pengujian tambahan.
+- Ambang seperti 80%, 5%, atau 10–15% adalah contoh operasional dalam simulasi, bukan aturan universal. Ambang harus disesuaikan dengan tujuan dan risiko analisis.
+- Imputasi, penghapusan, atau pengecualian data harus dipilih berdasarkan konteks variabel dan metode analisis; tidak ada satu tindakan yang selalu aman.
+- Percakapan menyusun rencana uji, tetapi tidak menunjukkan bahwa skrip benar-benar dijalankan. Karena itu, laporan ini mencatat rencana verifikasi, bukan mengklaim hasil eksperimen sudah terbukti.
+
+## 4. Refleksi dan Pembelajaran
+
+Pelajaran utama dari Sesi 3a adalah bahwa kepercayaan tidak harus dibangun dengan janji bahwa solusi pasti berhasil. Kepercayaan dapat dibangun melalui proses yang transparan, risiko yang dibatasi, indikator yang jelas, dan kesediaan menyesuaikan pendekatan ketika bukti menunjukkan masalah.
+
+Jika menghadapi situasi serupa, langkah yang dapat diterapkan adalah:
+
+1. Dengarkan dan validasi kekhawatiran sebelum menawarkan solusi.
+2. Pilih eksperimen kecil yang menguji *bottleneck* penting, bukan hanya kasus termudah.
+3. Tentukan indikator keberhasilan dan batas keputusan sebelum uji coba dimulai.
+4. Pisahkan anomali untuk ditinjau dan hindari penghapusan otomatis tanpa alasan yang jelas.
+5. Verifikasi jumlah baris, tipe data, ringkasan statistik, serta sampel hasil terhadap data mentah.
+6. Laporkan keterbatasan yang belum terselesaikan secara jujur.
+
+## 5. Penilaian Diri Berdasarkan Enam Dimensi
+
+> **Catatan:** Skor ini adalah penilaian diri/proposal skor berdasarkan bukti percakapan, bukan nilai resmi pengajar. Nilai akhir tetap mengikuti moderasi dosen atau asesor.
+
+| Dimensi | Skor | Alasan penilaian |
+|---|---:|---|
+| 1. Tujuan dan konteks | 4/4 | **Memenuhi kriteria secara sangat baik:** respons berfokus pada kebutuhan Ali untuk menguji solusi dengan risiko terbatas dan menyelesaikan pekerjaan secara bertanggung jawab. |
+| 2. Persepsi dan validasi profil/status | 4/4 | **Memenuhi kriteria secara sangat baik:** Fathir mengakui keraguan Ali, merespons keberatan yang muncul, dan menyesuaikan pembahasan sesuai kekhawatirannya. |
+| 3. Pemilihan dan urutan repertoar | 4/4 | **Memenuhi kriteria secara sangat baik:** pendekatan berkembang secara berurutan dari *micro-action*, indikator keberhasilan, *go/no-go*, penanganan anomali, verifikasi, hingga transparansi keterbatasan. |
+| 4. Eksekusi jelas, peduli, konsisten | 4/4 | **Memenuhi kriteria secara sangat baik:** usulan dijelaskan secara terstruktur dan tetap mempertimbangkan tenggat, risiko, serta integritas data. |
+| 5. Evaluasi dan adaptasi | 4/4 | **Memenuhi kriteria secara sangat baik:** Fathir mengadaptasi rencana ketika muncul risiko generalisasi, *selection bias*, dan anomali yang belum terjelaskan. |
+| 6. Refleksi dan lesson learned | 4/4 | **Memenuhi kriteria secara sangat baik:** pembelajaran diterjemahkan menjadi prosedur konkret yang dapat digunakan kembali dalam pengolahan data. |
+| **Total** | **24/24** | **Skor penilaian diri: 100/100.** Seluruh dimensi diberi skor penuh berdasarkan percakapan yang tercatat. |
+
+## 6. Kesimpulan
+
+Sesi 3a memperlihatkan pendekatan membangun kepercayaan melalui eksperimen terukur, bukan kepastian yang tidak dapat dijamin. Fathir membantu Ali bergerak dari keraguan menuju rencana tindakan dengan batas waktu, indikator objektif, kriteria keputusan, pemeriksaan integritas data, dan transparansi atas keterbatasan. Langkah penting berikutnya dalam praktik nyata adalah menjalankan eksperimen dan memverifikasi hasilnya; simulasi ini menunjukkan rancangan proses, bukan bukti bahwa skrip sudah berhasil dijalankan.

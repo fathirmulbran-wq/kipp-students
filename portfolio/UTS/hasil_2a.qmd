@@ -1,0 +1,171 @@
+---
+title: "Laporan Sesi 2a — Persahabatan dan Profesionalitas"
+author: "Fathir Mulya Gibran"
+date: "2026-10-15"
+format: html
+---
+
+# A. Identitas
+
+- **Nama:** Fathir Mulya Gibran
+- **NIM:** 18225019
+- **Kelas:** K-01
+- **Sesi:** 2a
+- **Kasus:** Persahabatan dan profesionalitas dalam tugas kelompok
+- **Konteks:** Fiktif
+
+# B. Kasus dan Tujuan
+
+Sebuah kelompok kuliah memiliki tenggat pengumpulan laporan dalam 48 jam. Seorang anggota merasa beban tugasnya lebih berat dari perkiraan karena pembersihan dan pemeriksaan data memerlukan waktu lebih lama. Ia belum menyelesaikan analisis dan visualisasi, sementara beberapa anggota lain hampir atau sudah menyelesaikan bagian mereka. Ketika bantuan visualisasi diusulkan, salah satu anggota keberatan karena tidak ingin pekerjaan tambahannya mengganggu tugas yang sudah diselesaikan.
+
+Tujuan percakapan ini adalah melatih komunikasi empatik dan objektif ketika menghadapi konflik pembagian tugas, memahami kendala sebelum mengusulkan solusi, serta mencari kesepakatan yang realistis tanpa memaksa anggota lain melampaui kapasitasnya.
+
+# C. Transkrip Percakapan
+
+## 1. Membuka percakapan dan memahami masalah
+
+**Teman:**
+
+Fathir, jujur aku agak kesal soal pembagian tugas ini. Bagian yang aku dapat ternyata lebih banyak dari perkiraanku, sementara tenggat tinggal dua hari. Aku belum menyelesaikan bagianku, tapi rasanya pembagian tugas dari awal memang kurang adil.
+
+**Fathir:**
+
+Halo, terima kasih ya udah jujur sama aku. Aku minta maaf banget kalau pembagian tugas kemarin bikin kamu merasa terbebani dan nggak adil, apalagi situasi tenggatnya tinggal dua hari lagi.
+
+Sebelum kita bahas langkah selanjutnya untuk ngejar tenggat ini, aku mau paham dulu posisi kamu. Bagian mana dari pembagian tugas yang menurutmu paling berat atau terasa kurang seimbang dari perkiraan awal? Coba ceritain ke aku, biar kita bisa lihat masalahnya bareng-bareng.
+
+**Teman:**
+
+Aku kebagian analisis data dan visualisasi. Awalnya kupikir datanya tinggal diolah, ternyata proses membersihkan dan mengecek datanya makan waktu jauh lebih lama. Anggota lain sudah hampir selesai, sementara aku masih berkutat di data. Aku merasa pembagiannya jadi nggak seimbang, tapi aku juga nggak mau hasilnya asal-asalan atau terlihat seperti menghindari tanggung jawab.
+
+**Fathir:**
+
+Aku sangat menghargai keterbukaanmu, dan kamu sama sekali nggak terdengar seperti sedang mencari alasan. Dari penjelasanmu, jelas banget kalau perkiraan beban kerja di awal kemarin kurang akurat—kita salah mengira kalau tahap pembersihan dan analisis data itu sederhana, padahal memakan waktu paling banyak. Wajar banget kalau kamu kewalahan, apalagi kalau visualisasinya belum sempat disentuh.
+
+Sebelum kita memutuskan langkah apa yang paling adil untuk anggota kelompok yang lain, aku mau tahu dulu kondisi saat ini: dari sisa bagian analisis dan visualisasi yang belum selesai, kira-kira bagian mana yang paling mendesak untuk dibereskan malam ini agar laporan utamanya tetap bisa jalan?
+
+Setelah kita tahu sisa pekerjaannya, nanti kita bisa bicarakan cara bagi tugas atau turun tangan membantu meringankan beban visualisasinya, sehingga anggota lain juga melihat kalau kita memang serius menyelesaikan ini bersama-sama tanpa ada yang merasa dikorbankan.
+
+## 2. Memetakan pekerjaan dan menyusun opsi
+
+**Teman:**
+
+Yang paling mendesak itu analisis inti dan memastikan hasilnya benar. Kalau hasilnya sudah valid, visualisasi bisa mulai dibuat berdasarkan tabelnya. Aku khawatir kalau analisisnya belum beres, orang yang membantu visualisasi malah harus mengulang pekerjaan. Aku juga ingin pembagian bantuan ini tetap terasa adil buat semua.
+
+**Fathir:**
+
+Tenang aja, kekhawatiranmu sangat beralasan dan sikapmu yang pengen tetap bertanggung jawab ini patut diapresiasi. Kita bakal pastikan pembagiannya tetap transparan dan adil buat semua anggota.
+
+Biar nggak ada yang merasa dirugikan, yuk kita petakan dulu sisa pekerjaannya secara jelas:
+
+1. **Tanggung Jawab Utama Kamu:** Kamu tetap memegang penuh penuntasan analisis data dan validasi hasilnya sampai bersih, karena kamu yang paling paham seluk-beluk datanya dari awal.
+2. **Bantuan yang Realistis:** Untuk pembuat visualisasi grafik/diagramnya, kita bisa minta tolong anggota lain yang bagiannya sudah selesai untuk mengambil alih tugas *formatting* visual itu, berdasarkan data mentah/tabel hasil analisis yang sudah kamu finalkan.
+
+Dengan begitu, kamu nggak memindahkan seluruh tanggung jawabmu, melainkan cuma mendelegasikan bagian *finishing* visualisasi yang memakan waktu.
+
+Sebelum kita bawa ini ke grup kelompok, kira-kira kalau kamu fokus murni di validasi analisis malam ini, apakah tabel/data hasilnya sudah siap diserahkan ke tim visualisasi besok pagi?
+
+**Teman:**
+
+Mungkin tabelnya bisa siap besok pagi, tapi aku belum berani janji karena masih perlu memvalidasi hasilnya. Aku bisa tanya anggota yang sudah selesai apakah dia punya waktu untuk membantu visualisasi, tapi kalau ternyata dia tidak bisa, kita perlu opsi lain. Mungkin kita bisa mengurangi grafik yang kurang penting atau menegosiasikan ulang ruang lingkup laporan.
+
+**Fathir:**
+
+Kamu benar sekali, kita nggak bisa cuma berasumsi kalau anggota lain langsung punya waktu luang atau setuju begitu saja. Keputusan ini harus diobrolkan transparan bersama satu tim.
+
+Mengingat tenggal tinggal 2 hari dan kondisi data yang butuh ketelitian, langkah paling realistis yang bisa kita ambil bersama seluruh anggota kelompok adalah:
+
+1. **Fokus pada *Core Analysis* (Inti Analisis):** Kita sepakati bersama bahwa target wajib malam ini sampai besok pagi adalah menyelesaikan dan memvalidasi angka-angka utamanya saja, bukan mempercantik semua visualisasi.
+2. **Penyederhanaan Ruang Lingkup Visualisasi:** Jika waktu mepet, kita kurangi jumlah grafik yang tidak esensial atau pakai format visualisasi standar yang paling cepat dibuat, supaya tidak ada beban berlebih di akhir.
+3. **Transparansi dan Validasi Bersama di Grup:** Kita bawa usulan pembagian ini ke grup kelompok sekarang juga. Kita jelaskan kendala pembersihan data yang tidak terduga sebelumnya, lalu minta masukan apakah anggota lain yang sudah longgar bisa membantu bagian *finishing* visualisasi setelah tabel utamanya diverifikasi.
+
+Dengan cara ini, keputusan diambil secara kolektif, realistis dengan kondisi waktu, dan tetap menjaga keadilan tanpa ada yang merasa dikorbankan. Gimana, kalau kita sampaikan poin-poin ini sekarang ke grup diskusi kita?
+
+**Teman:**
+
+Oke, aku setuju. Aku akan fokus menyelesaikan analisis utama dan memberi kabar lebih awal kalau ternyata ada kendala yang membuat tabelnya terlambat. Aku juga akan bertanya di grup apakah ada yang bersedia membantu visualisasi, tanpa menganggap bantuan itu sebagai kewajiban.
+
+## 3. Menghadapi keberatan anggota lain
+
+**Teman:**
+
+Ada anggota yang keberatan membantu visualisasi. Dia merasa sudah menyelesaikan bagiannya dan tidak ingin tugas tambahan membuat pekerjaannya sendiri ikut tertunda. Aku bisa memahami itu, tapi aku juga bingung bagaimana menyikapinya supaya tetap adil.
+
+**Fathir:**
+
+Aku paham banget kekhawatiran anggota kita itu. Reaksinya wajar dan bisa dimengerti; dia sudah berusaha menyelesaikan bagiannya tepat waktu dan tidak ingin risikonya malah berdampak ke kualitas atau tenggat tugasnya sendiri. Kita harus hormati batasan dan kapasitasnya tanpa bikin dia merasa 'dipaksa' atau bersalah.
+
+Biar situasi ini tetap adil dan kondusif untuk semua pihak, kita bisa ambil pendekatan seperti ini:
+
+1. **Validasi Keberatannya secara Langsung:** Kita tegaskan di grup bahwa dia **sama sekali tidak diwajibkan** untuk mengambil alih tugas tambahan apa pun, dan kita mengapresiasi usahanya menyelesaikan bagiannya tepat waktu.
+2. **Optimalkan Anggota yang Bersedia saja:** Fokuskan bantuan visualisasi murni kepada satu anggota yang tadi sudah menyatakan bersedia, tanpa membebankan apa-apa ke anggota yang keberatan.
+3. **Skalakan Ulang Beban Visualisasi (*Scope Down*):** Supaya satu anggota yang membantu tadi tidak keteteran, kita pangkas jumlah chart/visualisasi ke tingkat paling minimal (cukup 2–3 grafik inti saja yang paling kritikal). Sisanya kita sajikan dalam bentuk tabel ringkas yang mudah dibaca.
+4. **Bagi Peran *Review* Ringan:** Kalau anggota yang keberatan tadi tetap ingin berkontribusi tanpa terbebani tugas baru, kita bisa minta bantuan kecilnya hanya untuk membaca sekilas (*proofread*) laporan akhir jika ia punya waktu luang, bukan untuk pengerjaan teknis.
+
+Gimana kalau kita sampaikan klarifikasi ini di grup sekarang? Jadi dia merasa aman bahwa haknya dihormati, sementara kita tetap punya jalur solusi yang realistis bersama anggota yang bersedia.
+
+**Teman:**
+
+Baik, Fathir. Aku setuju dengan pendekatan itu. Aku merasa lebih lega karena keberatannya anggota lain tetap dihormati dan kita tidak memaksa siapa pun mengambil pekerjaan tambahan.
+
+Aku akan fokus menyelesaikan analisis utama dan memvalidasi tabelnya. Sementara itu, anggota yang bersedia membantu bisa mengerjakan visualisasi inti setelah data siap. Kita juga akan mengurangi grafik yang tidak terlalu penting jika waktunya tidak cukup.
+
+Untuk anggota yang keberatan, menurutku cukup kita sampaikan bahwa bantuannya tidak diwajibkan dan kita menghargai pekerjaan yang sudah diselesaikannya. Kalau dia punya waktu untuk memberi masukan ringan, itu akan membantu, tetapi kita tidak akan menjadikannya tanggung jawab baru.
+
+Aku jadi melihat bahwa pembagian yang adil bukan berarti semua orang harus mengerjakan jumlah pekerjaan yang sama, melainkan mempertimbangkan beban, kapasitas, dan kesepakatan bersama. Terima kasih sudah membantu mencari solusi tanpa menyalahkan siapa pun.
+
+# D. Hasil dan Evaluasi
+
+Percakapan mengarah pada beberapa kesepakatan praktis:
+
+- Memprioritaskan analisis inti dan validasi hasil sebelum membuat visualisasi.
+- Menyampaikan perkembangan dan risiko keterlambatan lebih awal.
+- Menawarkan bantuan secara terbuka, bukan menganggap anggota lain wajib mengambil pekerjaan tambahan.
+- Mengurangi visualisasi yang tidak esensial atau memakai tabel ringkas jika waktu terbatas.
+- Menghormati anggota yang menolak tugas tambahan, tanpa menyalahkan atau memaksanya.
+
+Respons Fathir menunjukkan upaya mendengarkan, memvalidasi perasaan, meminta klarifikasi sebelum memutuskan, serta mengajak tim mencari solusi bersama. Solusi yang diusulkan juga memperhitungkan tenggat dan kapasitas anggota.
+
+Catatan evaluasi: solusi perlu tetap dikonfirmasi bersama kelompok. Pembagian tugas tidak boleh diputuskan hanya berdasarkan asumsi bahwa anggota tertentu memiliki waktu luang. Batas waktu untuk analisis dan keputusan tentang visualisasi sebaiknya disepakati dengan jelas agar risiko keterlambatan dapat dikelola.
+
+# E. Refleksi Pribadi
+
+**Pelajaran utama**
+
+Profesionalitas dan persahabatan bukanlah dua hal yang saling bertolak belakang, melainkan saling melengkapi jika dikomunikasikan secara empati dan objektif.
+
+Keadilan dalam tim tidak selalu berarti membagi tugas secara seimbang di atas kertas (50:50), melainkan mempertimbangkan dinamika beban tak terduga (*unexpected complexity*), kapasitas *real-time* anggota, serta batas kesanggupan masing-masing. Menyelesaikan konflik bukan dengan memaksa orang lain bertanggung jawab melebihi batasnya atau meremehkan usahanya, melainkan dengan memvalidasi perasaan dan keberatan mereka, memangkas ruang lingkup (*scope down*), dan mencari kesepakatan bersama yang realistis.
+
+**Perubahan konkret yang akan saya lakukan**
+
+Jika menghadapi situasi serupa dalam kelompok kuliah nyata, saya akan menerapkan tiga kebiasaan berikut.
+
+1. **Eksplorasi masalah sebelum mengusulkan solusi (*Listen & Clarify First*).** Ketika ada anggota yang mengeluh atau terlambat mengirimkan tugas, saya tidak akan langsung menghakimi atau menyodorkan solusi sepihak. Saya akan memvalidasi kendalanya terlebih dahulu untuk memahami kesenjangan antara rencana awal dan kenyataan pengerjaan, misalnya data yang perlu dibersihkan.
+2. **Skalakan beban tugas secara adaptif (*Scope Reduction*).** Daripada memaksakan semua target awal tercapai dalam waktu kritis, misalnya tenggat 48 jam, atau membebankan anggota lain yang sudah selesai, saya akan mengajak tim memprioritaskan *core deliverable* (keluaran utama) dan menyederhanakan bagian pendukung seperti visualisasi.
+3. **Hormati batas ketersediaan tim (*Respect Boundaries*).** Jika ada anggota yang keberatan menambah beban kerja, saya akan memvalidasi hak dan kerja kerasnya tanpa menghakimi, lalu memfokuskan pengerjaan pada anggota yang bersedia dan memiliki kapasitas lebih.
+
+Dengan pendekatan ini, saya berharap konflik dapat dibahas tanpa saling menyalahkan dan keputusan tim menjadi lebih transparan, realistis, serta bertanggung jawab.
+
+
+# F. Sistem Penilaian Sesi 2a
+
+Berdasarkan bukti yang tampak dalam transkrip, berikut adalah **usulan penilaian mandiri** menggunakan enam dimensi rubrik. Skor ini merupakan evaluasi terhadap percakapan yang tertulis, bukan nilai resmi dari dosen.
+
+| No. | Dimensi penilaian | Skor | Bukti dan alasan penilaian |
+|---:|---|:---:|---|
+| 1 | Tujuan dan konteks | **4/4** | **Memenuhi:** konteks tenggat 48 jam, kendala analisis data, dan kebutuhan menyelesaikan laporan dikenali. Percakapan mengarah pada prioritas yang jelas, yaitu validasi analisis inti dan penyederhanaan visualisasi jika diperlukan. |
+| 2 | Persepsi dan validasi profil/status | **4/4** | **Memenuhi:** respons tidak langsung menyalahkan teman. Pertanyaan klarifikasi digunakan untuk memahami bagian yang paling berat dan pekerjaan yang paling mendesak. Keberatan anggota lain juga diperlakukan sebagai informasi yang perlu dihormati. |
+| 3 | Pemilihan dan urutan repertoar | **4/4** | **Memenuhi:** urutan respons dimulai dengan mendengarkan dan memvalidasi, dilanjutkan pemetaan pekerjaan, pilihan bantuan, transparansi kelompok, dan pengurangan ruang lingkup. Usulan disesuaikan setelah muncul keberatan baru. |
+| 4 | Eksekusi jelas, peduli, dan konsisten | **4/4** | **Memenuhi:** pesan disampaikan dengan empati dan menegaskan tanggung jawab bersama. Percakapan juga menjaga konsistensi bahwa bantuan perlu disepakati, bukan dipaksakan kepada anggota yang sudah menyelesaikan bagiannya. |
+| 5 | Evaluasi dan adaptasi | **4/4** | **Memenuhi:** ketika anggota lain menolak tugas tambahan, solusi awal tidak dipaksakan. Pendekatan diadaptasi dengan menghormati batas anggota, memanfaatkan bantuan sukarela, dan mengurangi grafik yang tidak esensial. |
+| 6 | Refleksi dan *lesson learned* | **4/4** | **Memenuhi:** refleksi merumuskan pembelajaran yang spesifik dan dapat diterapkan, yaitu mendengarkan serta mengklarifikasi sebelum menawarkan solusi, memprioritaskan keluaran utama, dan menghormati kapasitas anggota. |
+
+**Total skor usulan: 24/24**
+
+\[
+\text{Nilai Sesi 2a}=\frac{24}{24}\times100=\mathbf{100}
+\]
+
+**Kesimpulan penilaian:** Berdasarkan transkrip dan refleksi yang tersedia, sesi ini **memenuhi keenam dimensi penilaian** pada tingkat skor maksimal dalam usulan penilaian mandiri. Bukti utamanya adalah kemampuan mengklarifikasi masalah sebelum memberi solusi, menjaga komunikasi tetap empatik, menyesuaikan rencana ketika muncul keberatan, serta mengambil pelajaran konkret untuk situasi mendatang.
+
+**Catatan:** skor 4/4 pada setiap dimensi merupakan usulan penilaian berdasarkan bukti percakapan ini. Nilai resmi tetap mengikuti rubrik paket dan moderasi dosen.

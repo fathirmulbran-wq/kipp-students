@@ -1,0 +1,220 @@
+---
+title: "UTS KIPP-2 — Sesi 3b"
+subtitle: "Evaluasi Solusi, Prioritas Data, dan Eksekusi di Bawah Tenggat"
+author: "Fathir — 18225019 — K-01"
+format:
+  html:
+    toc: true
+    number-sections: true
+lang: id
+---
+
+## 1. Identitas dan Konteks Pembelajaran
+
+- **Nama:** Fathir
+- **NIM:** 18225019
+- **Kelas:** K-01
+- **Sesi:** 3b
+- **Kasus:** Menghadapi kekecewaan terhadap solusi, mengevaluasi pendekatan, dan mengubah strategi menjadi rencana eksekusi
+- **Lawan bicara:** Ali
+- **Fokus:** Empati, keputusan *no-go*, pengurangan ruang lingkup, validitas data, prioritas kerja, dan penyelesaian laporan di bawah tenggat.
+
+## 2. Transkrip Percakapan
+
+### Mengevaluasi hasil yang belum sesuai harapan
+
+**Ali:**
+
+> Fathir, aku sudah mencoba pendekatan yang kamu sarankan sebelumnya. Awalnya aku merasa lebih yakin karena langkah-langkahnya jelas. Tapi, setelah dicoba, hasilnya ternyata belum sesuai harapan. Aku jadi berpikir mungkin pendekatan ini memang tidak cocok untuk masalahku.
+>
+> Jujur, aku mulai kehilangan motivasi karena waktu yang tersisa semakin sedikit. Menurutmu, apakah aku harus tetap melanjutkan pendekatan ini atau sebaiknya berhenti dan mencari cara lain?
+
+**Fathir:**
+
+> Aku paham banget kekecewaanmu, Li. Wajar banget kalau kamu merasa *down* dan kehilangan motivasi. Kamu sudah meluangkan waktu dan tenaga buat mencoba pendekatan ini dengan harapan dapat titik terang, tapi ternyata hasilnya belum sesuai ekspektasi—ditambah lagi bayang-bayang tenggat yang makin dekat. Rasa frustrasi itu sangat valid.
+>
+> Tapi ingat, tujuan dari eksperimen 20 menit kita tadi memang untuk **menguji secara cepat**, bukan untuk memaksakan bahwa solusi ini pasti 100% benar. Hasil yang belum sesuai harapan ini bukanlah “kegagalan”, melainkan informasi objektif yang berharga.
+>
+> Biar kita nggak terjebak dalam kekecewaan atau mengambil keputusan berdasarkan emosi semata, yuk kita evaluasi hasil percobaannya secara objektif:
+>
+> 1. **Evaluasi *Go/No-Go Criteria*:** cari hambatan utamanya—apakah kode mengalami error mendasar atau pola anomali data lebih kompleks dari perkiraan.
+> 2. **Hindari *sunk cost fallacy*:** jika eksperimen tidak memenuhi kriteria *Go*, jangan memaksakan pendekatan hanya karena sudah menghabiskan waktu.
+> 3. **Beralih ke alternatif yang lebih sederhana:** pertimbangkan menyederhanakan variabel dan fokus pada variabel utama.
+>
+> Coba ceritakan bagian mana yang paling menghambat agar kita bisa menentukan apakah perlu memperbaiki logika atau beralih ke alternatif.
+
+### Menentukan variabel yang harus diprioritaskan
+
+**Ali:**
+
+> Kalau aku evaluasi lagi, Fathir, hambatan terbesarnya ternyata bukan sekadar kode yang error. Ada beberapa format data yang berbeda dari perkiraan awal, dan aturan pembersihan yang kita buat belum bisa menangani semuanya. Akibatnya, sebagian data masih harus diperiksa secara manual.
+>
+> Aku setuju kita tidak boleh terus mempertahankan solusi hanya karena sudah menghabiskan waktu untuk membuatnya. Tapi, aku juga khawatir kalau kita memangkas terlalu banyak variabel, hasil analisisnya justru tidak bisa menjawab pertanyaan utama laporan.
+>
+> Kalau waktu kita tinggal beberapa jam, bagaimana kita menentukan variabel mana yang masih wajib dipertahankan dan bagian mana yang boleh disederhanakan, tanpa mengubah tujuan utama analisis?
+
+**Fathir:**
+
+> Mengidentifikasi bahwa masalah utamanya ada di variasi format data yang membutuhkan pemeriksaan manual—bukan sekadar skrip error—adalah temuan penting. Itu berarti kita berada pada kriteria *No-Go* untuk pembersihan otomatis secara penuh.
+>
+> Cara sistematis untuk menentukan prioritas adalah menggunakan **Matriks Prioritas Variabel (*Must-Have vs Nice-to-Have*)**:
+>
+> 1. **Must-Have:** variabel yang menjadi jawaban langsung atas rumusan masalah. Pertahankan dan fokuskan upaya pembersihan pada variabel ini.
+> 2. **Nice-to-Have:** variabel pendukung yang tidak menentukan jawaban utama. Sederhanakan atau keluarkan jika sesuai tujuan analisis.
+> 3. **Pivot:** daripada memperbaiki banyak kolom sekaligus, kunci 2–3 kolom inti. Untuk data yang belum bersih, jangan memaksakan transformasi yang mengubah makna variabel.
+>
+> Dari seluruh kolom, mana 2–3 variabel yang paling wajib untuk menjawab pertanyaan utama?
+
+### Mengunci rumusan masalah dan menilai kualitas variabel
+
+**Ali:**
+
+> Aku baru sadar kita belum benar-benar menyepakati rumusan masalah utama. Kalau langsung memilih 2–3 kolom, aku takut kita justru menghilangkan variabel yang penting.
+>
+> Bagaimana kalau kita menentukan prioritas berdasarkan rumusan masalah, lalu mengecek setiap variabel dengan tiga pertanyaan: apakah variabel ini dibutuhkan untuk menjawab rumusan masalah, apakah datanya cukup dapat dipercaya, dan apakah masih realistis diolah dalam waktu yang tersisa?
+>
+> Kalau suatu variabel penting tetapi datanya belum bisa dipercaya, apakah kita harus tetap menggunakannya dengan menjelaskan keterbatasannya, atau mengubah ruang lingkup analisis?
+
+**Fathir:**
+
+> Tanpa rumusan masalah yang terkunci, menentukan variabel *Must-Have* berisiko salah sasaran. Tiga pertanyaanmu—kebutuhan rumusan masalah, kepercayaan data, dan kelayakan waktu—merupakan kerangka yang solid.
+>
+> Jika variabel penting tetapi kualitas datanya belum memadai, keputusan bergantung pada tingkat kerusakan:
+>
+> 1. **Cacat yang dapat ditangani:** jika masalahnya berupa format tidak konsisten atau sedikit nilai kosong, pertimbangkan perbaikan yang dapat dipertanggungjawabkan. Perubahan skala atau kategorisasi hanya dilakukan jika tetap sesuai tujuan analisis.
+> 2. **Cacat yang membuat data tidak dapat dipercaya:** jangan memaksakan variabel tersebut sebagai dasar kesimpulan. Ubah ruang lingkup secara transparan atau sajikan keterbatasannya.
+>
+> Kita perlu menyepakati satu rumusan masalah utama dan menguji kolom berdasarkan tiga pertanyaan tadi.
+
+### Memutuskan nasib tiga kolom
+
+**Ali:**
+
+> Rumusan masalah yang paling masuk akal menurutku adalah: “Apakah faktor-faktor utama dalam dataset ini memiliki hubungan dengan hasil yang ingin kita analisis?”
+>
+> Aku masih ragu terhadap tiga kolom: `tanggal_transaksi`, karena format tanggalnya tidak konsisten; `jumlah_pembelian`, karena ada nilai kosong dan angka yang terlihat tidak wajar; serta `kategori_produk`, karena beberapa nama kategori ditulis berbeda padahal mungkin merujuk pada hal yang sama.
+>
+> Bagaimana cara kita memastikan rumusan masalah tetap sesuai tujuan awal, lalu memutuskan kolom mana yang harus dipertahankan, diperbaiki, atau dikeluarkan?
+
+**Fathir:**
+
+> Rumusan masalah itu perlu dibuat lebih spesifik tanpa membelokkan tujuan awal. Salah satu rumusan sementara yang diusulkan adalah: **“Bagaimana hubungan antara kategori produk dan volume jumlah pembelian terhadap pola transaksi yang terjadi?”**
+>
+> Berdasarkan rumusan sementara itu:
+>
+> - **`kategori_produk`:** standardisasi variasi penulisan yang benar-benar merujuk pada kategori yang sama.
+> - **`jumlah_pembelian`:** periksa nilai kosong dan angka yang tidak wajar sebelum menentukan penanganannya.
+> - **`tanggal_transaksi`:** jika relevan dengan pertanyaan penelitian, pertimbangkan mengekstrak bulan; jika tidak, jadikan variabel pendukung.
+>
+> Rumusan tersebut tetap perlu dicocokkan dengan tujuan tugas yang sebenarnya sebelum dipakai sebagai rumusan final.
+
+### Membedakan nilai ekstrem dan kesalahan data
+
+**Ali:**
+
+> Aku setuju untuk memprioritaskan `kategori_produk` dan memeriksa `jumlah_pembelian`. Namun, angka pembelian yang terlihat ekstrem belum tentu salah—bisa saja memang ada transaksi dalam jumlah besar. Selain itu, mengubah jumlah pembelian menjadi kategori rendah, sedang, dan tinggi bisa menghilangkan informasi.
+>
+> Bagaimana kita menentukan apakah suatu nilai ekstrem benar-benar kesalahan data, dan kapan pengelompokan jumlah pembelian masih bisa dibenarkan?
+
+**Fathir:**
+
+> Kita perlu membedakan kesalahan data dari nilai ekstrem yang valid:
+>
+> 1. **Pemeriksaan konteks/domain:** nilai negatif atau angka yang melampaui batas yang masuk akal perlu diperiksa, tetapi jangan langsung dianggap salah tanpa konteks. Transaksi besar bisa valid, misalnya transaksi grosir.
+> 2. **Penanganan sesuai bukti:** jika terbukti kesalahan input, perbaiki berdasarkan sumber yang dapat dipercaya atau keluarkan dengan alasan yang terdokumentasi. Jika nilai ekstrem valid, pertahankan dan pertimbangkan statistik yang lebih tahan terhadap nilai ekstrem, seperti median dan IQR.
+> 3. **Kategorisasi hanya jika sesuai tujuan:** jika laporan ingin melihat pola, pengelompokan bisa membantu, tetapi batas kelompok harus ditentukan secara objektif dan dijelaskan. Kategorisasi mengurangi detail numerik sehingga tidak boleh dilakukan hanya demi kemudahan.
+>
+> Langkah praktisnya adalah memeriksa ringkasan statistik, nilai minimum dan maksimum, serta median sebelum memutuskan metode analisis.
+
+### Mengubah strategi menjadi rencana eksekusi
+
+**Ali:**
+
+> Kita sudah sepakat bahwa `kategori_produk` perlu distandardisasi, `jumlah_pembelian` perlu diperiksa, dan `tanggal_transaksi` mungkin cukup digunakan untuk melihat pola bulanan. Namun, kita belum benar-benar menjalankan semua perbaikan itu, sementara tenggat tinggal beberapa jam.
+>
+> Aku takut kita terlalu sibuk menyusun strategi sampai lupa menghasilkan laporan yang bisa dikumpulkan.
+>
+> Kalau kamu menjadi koordinator tim sekarang, apa tiga tindakan pertama yang akan kamu lakukan dalam satu jam ke depan agar laporan benar-benar selesai, hasilnya tetap dapat dipertanggungjawabkan, dan anggota tim tidak kembali terjebak dalam diskusi panjang?
+
+**Fathir:**
+
+> Strategi harus segera diubah menjadi tindakan. Sebagai koordinator, aku akan menjalankan tiga tahap dalam 60 menit:
+>
+> **1. Menit 00–15 — Perbaikan data prioritas**
+>
+> - Standardisasi `kategori_produk` dengan pemetaan yang sudah diverifikasi.
+> - Periksa `jumlah_pembelian`; jangan menghapus nilai ekstrem hanya karena besar, dan jangan mengategorikan data tanpa dasar yang jelas.
+> - Ekstrak bulan dari `tanggal_transaksi` hanya jika formatnya dapat ditafsirkan secara andal.
+> - Ali bertanggung jawab menjalankan skrip atau rumus, lalu membagikan ringkasan hasil kepada tim.
+>
+> **2. Menit 15–45 — Penyusunan laporan secara paralel**
+>
+> - Fathir menulis metodologi, catatan pembersihan data, dan keterbatasan.
+> - Ali memasukkan tabel atau grafik yang benar-benar dihasilkan serta menyusun temuan dan kesimpulan yang didukung data.
+> - Anggota lain menyusun pendahuluan, merapikan visualisasi, dan melakukan pemeriksaan bahasa.
+> - Diskusi tambahan dihentikan sementara kecuali ada hambatan yang menghalangi penyelesaian.
+>
+> **3. Menit 45–60 — Verifikasi dan pengumpulan**
+>
+> - Periksa jumlah baris, konsistensi grafik dengan narasi, serta status data yang belum terverifikasi.
+> - Ekspor ke format yang diminta dan pastikan berkas dapat dibuka.
+> - Unggah setelah pemeriksaan minimum selesai, tanpa mengklaim bahwa pemeriksaan yang belum dilakukan sudah berhasil.
+>
+> Prinsip utamanya adalah menyelesaikan laporan yang layak, transparan, dan tepat waktu—bukan mengorbankan validitas demi terlihat sempurna.
+
+**Ali:**
+
+> Poin yang sangat tepat dan menyengat, Fathir. Strategi sebagus apa pun tidak ada artinya kalau tidak menjadi file laporan yang siap dikumpulkan. Terima kasih sudah mengingatkan kita untuk segera berpindah dari *mode perencanaan* ke *mode eksekusi*.
+>
+> Sebagai koordinator tim, ini tiga tindakan konkret dalam 60 menit: perbaikan data prioritas, pengerjaan laporan secara paralel, lalu verifikasi dan pengumpulan. Kita harus menjaga tenggat sekaligus jujur tentang hasil yang belum terverifikasi.
+>
+> Timer 60 menit kita mulai sekarang. Yuk, kita mulai eksekusi!
+
+## 3. Evaluasi Kinerja
+
+### Kekuatan yang terlihat
+
+1. **Empati dan pengakuan emosi:** Fathir mengakui kekecewaan Ali dan memisahkan hasil eksperimen yang belum sesuai dari penilaian personal atas kemampuan Ali.
+2. **Menghindari *sunk cost fallacy*:** Fathir mendorong keputusan berdasarkan hasil uji, bukan karena waktu telah diinvestasikan.
+3. **Prioritas berbasis tujuan:** Fathir mengarahkan diskusi ke variabel *Must-Have* dan *Nice-to-Have* serta menekankan perlunya rumusan masalah yang jelas.
+4. **Pertimbangan kualitas data:** Fathir membedakan kesalahan data dari nilai ekstrem yang mungkin valid dan memperhatikan risiko kehilangan informasi akibat kategorisasi.
+5. **Perencanaan eksekusi:** rencana 60 menit membagi pekerjaan ke dalam tahap yang jelas, dengan pembagian tanggung jawab dan pemeriksaan sebelum pengumpulan.
+6. **Transparansi:** Fathir menyatakan bahwa data yang belum terverifikasi tidak boleh dipresentasikan seolah-olah sudah pasti.
+
+### Hal yang perlu dijaga
+
+- Rumusan masalah tentang hubungan kategori produk, jumlah pembelian, dan pola transaksi masih berupa usulan dalam simulasi; rumusan final harus sesuai dengan tujuan tugas sebenarnya.
+- Tidak ada dataset nyata atau hasil eksekusi skrip yang disediakan dalam percakapan ini. Karena itu, laporan tidak menyatakan bahwa data benar-benar telah dibersihkan atau laporan telah benar-benar diunggah.
+- Batas waktu 15/30/15 menit merupakan rencana kerja, bukan bukti bahwa seluruh pekerjaan dapat diselesaikan dalam durasi tersebut.
+- Kategorisasi, imputasi, atau pengeluaran data harus mengikuti tujuan analisis dan alasan metodologis yang jelas, bukan dilakukan hanya untuk mengejar tenggat.
+
+## 4. Refleksi dan Pembelajaran
+
+Pelajaran utama Sesi 3b adalah bahwa respons terhadap solusi yang tidak berhasil bukanlah mempertahankannya tanpa bukti atau langsung menyerah. Hasil uji harus dievaluasi, tujuan analisis perlu dijaga, dan ruang lingkup dapat disesuaikan secara transparan ketika kualitas data atau waktu menjadi kendala.
+
+Dalam situasi serupa, langkah yang dapat diterapkan adalah:
+
+1. Akui kekecewaan dan identifikasi hambatan yang benar-benar terjadi.
+2. Gunakan kriteria *go/no-go* untuk memutuskan apakah pendekatan dilanjutkan atau dihentikan.
+3. Prioritaskan variabel berdasarkan rumusan masalah, kepercayaan data, dan kelayakan waktu.
+4. Jangan menganggap semua nilai ekstrem sebagai kesalahan; periksa konteksnya.
+5. Susun rencana eksekusi dengan pemilik tugas dan tenggat yang jelas.
+6. Verifikasi hasil yang benar-benar tersedia dan dokumentasikan keterbatasan sebelum mengumpulkan laporan.
+
+## 5. Penilaian Diri Berdasarkan Enam Dimensi
+
+> **Catatan:** Skor ini adalah penilaian diri/proposal skor berdasarkan bukti percakapan, bukan nilai resmi pengajar. Nilai akhir tetap mengikuti moderasi dosen atau asesor.
+
+| Dimensi | Skor | Alasan penilaian |
+|---|---:|---|
+| 1. Tujuan dan konteks | 4/4 | **Memenuhi kriteria secara sangat baik:** Fathir menjaga fokus pada penyelesaian laporan, tujuan analisis, kualitas data, dan tenggat yang semakin dekat. |
+| 2. Persepsi dan validasi profil/status | 4/4 | **Memenuhi kriteria secara sangat baik:** Fathir memvalidasi kekecewaan Ali dan menanggapi kekhawatirannya tentang kehilangan informasi serta validitas analisis. |
+| 3. Pemilihan dan urutan repertoar | 4/4 | **Memenuhi kriteria secara sangat baik:** pembahasan bergerak dari evaluasi *no-go*, prioritas variabel, pemeriksaan outlier, hingga rencana eksekusi 60 menit. |
+| 4. Eksekusi jelas, peduli, konsisten | 4/4 | **Memenuhi kriteria secara sangat baik:** usulan disusun menjadi tahapan, pembagian tugas, batas waktu, dan langkah verifikasi yang konkret. |
+| 5. Evaluasi dan adaptasi | 4/4 | **Memenuhi kriteria secara sangat baik:** Fathir bersedia mengubah pendekatan ketika pembersihan otomatis tidak memadai dan menekankan penyesuaian ruang lingkup berdasarkan bukti. |
+| 6. Refleksi dan lesson learned | 4/4 | **Memenuhi kriteria secara sangat baik:** pelajaran diterjemahkan menjadi prosedur prioritas, transparansi data, pembagian tugas, dan verifikasi sebelum pengumpulan. |
+| **Total** | **24/24** | **Skor penilaian diri: 100/100.** Seluruh enam dimensi diberi skor penuh berdasarkan bukti percakapan yang tercatat. |
+
+## 6. Kesimpulan
+
+Sesi 3b menunjukkan kemampuan merespons kekecewaan, mengevaluasi pendekatan secara objektif, menjaga tujuan analisis, dan mengubah strategi menjadi rencana eksekusi. Pendekatan ini mengutamakan penyelesaian yang realistis dan transparan: keputusan dibuat berdasarkan bukti, variabel penting dijaga, dan keterbatasan tidak disembunyikan. Simulasi menghasilkan rencana kerja yang konkret, tetapi pelaksanaan pembersihan data dan pengumpulan laporan tetap perlu dilakukan di luar percakapan ini.

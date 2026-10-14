@@ -1,0 +1,191 @@
+---
+title: "Makalah UTS KIPP-2: MBTI dan Komunikasi Efektif"
+author: "Fathir Mulya G"
+date: "2026-10-15"
+lang: id
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+# Pendahuluan
+
+## Latar Belakang
+
+Komunikasi tidak hanya berkaitan dengan pesan yang disampaikan, tetapi juga dengan cara pesan tersebut diterima dan ditafsirkan. Dua orang dapat mendengar kalimat yang sama, tetapi memahaminya secara berbeda karena memiliki pengalaman, kebutuhan, kebiasaan, dan preferensi komunikasi yang berbeda. Perbedaan tersebut dapat menimbulkan salah paham dalam komunikasi interpersonal, misalnya ketika berdiskusi dengan teman atau anggota kelompok, maupun dalam komunikasi publik, seperti presentasi dan kegiatan pembelajaran.
+
+Memahami perbedaan individu dapat membantu seseorang memilih cara penyampaian yang lebih sesuai, mendengarkan secara aktif, dan menanggapi orang lain dengan empati. Salah satu kerangka yang sering digunakan untuk membahas preferensi kepribadian adalah *Myers-Briggs Type Indicator* (MBTI). MBTI membahas empat pasangan preferensi, yaitu Extraversion–Introversion, Sensing–Intuition, Thinking–Feeling, dan Judging–Perceiving. Kerangka ini dapat digunakan sebagai bahan refleksi untuk memahami perbedaan gaya komunikasi, tetapi tidak seharusnya dipakai untuk menghakimi atau memberi label tetap kepada seseorang.
+
+Selain memahami preferensi kepribadian, komunikasi efektif juga membutuhkan kemampuan mengevaluasi diri dan mengembangkan respons yang tepat. Dalam makalah ini, SWOT Like dan PASK dibahas sebagai kerangka refleksi dan pengembangan diri. Istilah dan penerapannya tetap perlu diselaraskan dengan definisi yang digunakan dalam materi perkuliahan.
+
+## Tujuan Penulisan
+
+Makalah ini bertujuan untuk:
+
+1. Menjelaskan kategori personalitas MBTI dan kaitannya dengan pola komunikasi.
+2. Menguraikan strategi komunikasi yang dapat disesuaikan dengan preferensi lawan bicara.
+3. Menjelaskan cara mengamati kecenderungan komunikasi melalui percakapan tanpa membuat kesimpulan yang terburu-buru.
+4. Membahas SWOT Like dan PASK sebagai kerangka untuk mengevaluasi serta mengembangkan kualitas komunikasi.
+
+# 1. Kategori Personalitas MBTI dan Pengaruhnya terhadap Komunikasi
+
+## 1.1 Pengertian MBTI
+
+*Myers-Briggs Type Indicator* (MBTI) merupakan instrumen yang dikembangkan oleh Katharine Cook Briggs dan Isabel Briggs Myers berdasarkan gagasan mengenai tipe psikologis yang dikemukakan Carl Gustav Jung. MBTI menggambarkan preferensi seseorang dalam memperoleh energi, menerima informasi, membuat keputusan, dan menjalani kehidupan sehari-hari. Kombinasi preferensi tersebut menghasilkan kode empat huruf, misalnya ENFP atau ISTJ, yang dikenal sebagai 16 tipe MBTI.
+
+MBTI sebaiknya dipahami sebagai salah satu kerangka untuk melakukan refleksi, bukan sebagai ukuran kemampuan, kecerdasan, moralitas, atau nilai seseorang. Seseorang yang memiliki preferensi tertentu tetap dapat berperilaku berbeda sesuai tuntutan situasi, pengalaman, dan keterampilan yang dimilikinya. Selain itu, penggunaan MBTI juga memiliki keterbatasan dan mendapat kritik dalam literatur psikologi. Oleh karena itu, hasil MBTI perlu diperlakukan secara hati-hati dan tidak dijadikan satu-satunya dasar untuk mengambil keputusan penting tentang orang lain.
+
+## 1.2 Empat Dimensi MBTI
+
+| Dimensi | Pasangan preferensi | Gambaran umum |
+|:--|:--|:--|
+| Sumber energi | Extraversion (E) dan Introversion (I) | E cenderung nyaman memproses gagasan melalui interaksi; I cenderung nyaman memiliki waktu untuk berpikir dan refleksi. |
+| Cara menerima informasi | Sensing (S) dan Intuition (N) | S cenderung memperhatikan fakta, detail, dan pengalaman konkret; N cenderung memperhatikan pola, makna, dan kemungkinan. |
+| Cara mengambil keputusan | Thinking (T) dan Feeling (F) | T cenderung menekankan konsistensi logis dan kriteria; F cenderung mempertimbangkan nilai serta dampak keputusan terhadap orang. |
+| Cara menghadapi struktur kehidupan | Judging (J) dan Perceiving (P) | J cenderung menyukai rencana dan kepastian; P cenderung menyukai fleksibilitas dan pilihan yang tetap terbuka. |
+
+Gambaran tersebut menunjukkan kecenderungan umum, bukan aturan mutlak. Tidak semua orang dalam satu kategori akan menunjukkan perilaku yang sama. Karena itu, preferensi MBTI tidak boleh digunakan untuk memprediksi perilaku seseorang secara pasti.
+
+## 1.3 Pengaruh MBTI terhadap Pola Komunikasi
+
+Perbedaan preferensi dapat terlihat dalam cara seseorang berdiskusi, menerima penjelasan, atau menyampaikan pendapat.
+
+- **Extraversion dan Introversion.** Orang yang cenderung E mungkin nyaman mengembangkan gagasan melalui diskusi lisan. Orang yang cenderung I mungkin lebih nyaman memikirkan gagasan terlebih dahulu sebelum berbicara. Dalam diskusi kelompok, menyediakan waktu berpikir sebelum sesi berbagi dapat membantu keduanya berpartisipasi.
+- **Sensing dan Intuition.** Orang yang cenderung S mungkin lebih mudah mengikuti penjelasan yang disertai fakta, contoh, dan langkah konkret. Orang yang cenderung N mungkin lebih tertarik pada gambaran besar, hubungan antargagasan, dan kemungkinan yang dapat dikembangkan. Penjelasan yang menggabungkan gambaran besar dan contoh konkret dapat menjangkau beragam kebutuhan.
+- **Thinking dan Feeling.** Orang yang cenderung T mungkin menekankan alasan, konsistensi, dan kriteria yang jelas. Orang yang cenderung F mungkin memberi perhatian besar pada nilai dan dampak keputusan terhadap orang lain. Komunikasi yang baik dapat menggabungkan alasan yang jelas dengan perhatian terhadap dampak manusiawi.
+- **Judging dan Perceiving.** Orang yang cenderung J mungkin menyukai agenda, tenggat, dan keputusan yang jelas. Orang yang cenderung P mungkin ingin mempertahankan ruang untuk mengeksplorasi pilihan atau menyesuaikan rencana. Tim dapat mengakomodasi keduanya dengan menetapkan tenggat dan hasil minimum, sekaligus menyediakan ruang untuk memperbaiki cara kerja.
+
+Salah paham dapat muncul ketika seseorang menganggap gaya komunikasinya sendiri sebagai satu-satunya cara yang benar. Dengan menyadari adanya perbedaan, seseorang dapat memeriksa kembali asumsi, mengajukan pertanyaan klarifikasi, dan menyesuaikan cara penyampaian tanpa mengubah fakta atau maksud pesan.
+
+# 2. Strategi Berkomunikasi dengan Profil MBTI Tertentu
+
+## 2.1 Pendekatan terhadap Setiap Dimensi
+
+Strategi komunikasi sebaiknya didasarkan pada perilaku dan kebutuhan yang benar-benar terlihat, bukan hanya dugaan tipe MBTI.
+
+| Preferensi yang mungkin terlihat | Strategi komunikasi |
+|:--|:--|
+| E | Beri kesempatan berdiskusi dan menyampaikan gagasan secara lisan, sambil memastikan setiap orang mendapat giliran. |
+| I | Beri waktu untuk berpikir, bagikan bahan diskusi lebih awal jika memungkinkan, dan jangan langsung menafsirkan diam sebagai tanda tidak setuju. |
+| S | Gunakan fakta, contoh konkret, data yang relevan, dan urutan langkah yang jelas. |
+| N | Mulai dari tujuan atau gambaran besar, jelaskan hubungan antargagasan, lalu sediakan detail pendukung. |
+| T | Jelaskan alasan, kriteria, dan konsekuensi keputusan secara runtut. |
+| F | Sampaikan pesan dengan empati, jelaskan dampak keputusan terhadap pihak terkait, dan tetap berikan umpan balik yang jujur. |
+| J | Sediakan agenda, tenggat, pembagian tanggung jawab, dan kesimpulan yang jelas. |
+| P | Jelaskan tujuan dan batas waktu, tetapi beri ruang untuk mengeksplorasi pilihan serta menyesuaikan langkah jika ada informasi baru. |
+
+Tabel ini merupakan panduan umum, bukan resep yang berlaku untuk setiap individu. Cara terbaik untuk mengetahui kebutuhan seseorang adalah dengan bertanya, mendengarkan jawabannya, dan mengamati apakah pendekatan yang digunakan membantu komunikasi.
+
+## 2.2 Contoh Penerapan dalam Komunikasi Sehari-hari
+
+**1. Diskusi kelompok.** Dalam kelompok yang terdiri atas anggota dengan gaya komunikasi berbeda, fasilitator dapat meminta semua anggota menulis ide secara mandiri selama beberapa menit sebelum berdiskusi. Setelah itu, anggota bergiliran menyampaikan gagasan. Cara ini memberi ruang bagi orang yang ingin berpikir terlebih dahulu sekaligus tetap membuka kesempatan berdiskusi secara langsung.
+
+**2. Memberi umpan balik.** Ketika memberikan koreksi, sampaikan hal yang diamati, dampaknya, dan usulan perbaikannya. Contohnya: “Bagian analisis ini sudah memuat data utama. Namun, alasan pemilihan metode belum dijelaskan, sehingga pembaca mungkin kesulitan mengikuti kesimpulannya. Bagaimana kalau kita menambahkan alasan tersebut?” Pendekatan ini lebih jelas daripada melabeli seseorang sebagai terlalu emosional atau terlalu kaku.
+
+**3. Presentasi di depan kelas.** Presenter dapat menggabungkan gambaran besar, data atau contoh konkret, penjelasan alasan, dan relevansi bagi audiens. Susunan yang jelas serta sesi tanya jawab juga membantu audiens dengan kebutuhan yang beragam.
+
+**4. Pembagian tugas.** Kelompok dapat menetapkan hasil yang harus diselesaikan, penanggung jawab, dan tenggat. Anggota tetap dapat mengusulkan cara kerja yang sesuai selama hasil minimum dan waktu penyelesaian disepakati bersama.
+
+Prinsip utama dari contoh tersebut adalah menyesuaikan cara menyampaikan pesan agar lebih mudah dipahami, tanpa mengorbankan kejujuran, kejelasan, dan tujuan komunikasi.
+
+# 3. Mendeteksi Profil MBTI melalui Pola Percakapan
+
+## 3.1 Indikator yang Dapat Diamati
+
+Pola percakapan dapat memberi petunjuk tentang preferensi komunikasi, tetapi tidak cukup untuk memastikan tipe MBTI seseorang. Beberapa hal yang dapat diamati antara lain:
+
+- **Kecenderungan E atau I:** apakah seseorang terlihat nyaman mengembangkan ide melalui diskusi spontan atau lebih memilih waktu untuk berpikir sebelum memberi tanggapan.
+- **Kecenderungan S atau N:** apakah seseorang sering merujuk pada pengalaman dan detail konkret atau lebih banyak membahas pola, konsep, serta kemungkinan.
+- **Kecenderungan T atau F:** apakah seseorang lebih sering menjelaskan keputusan melalui kriteria logis atau menekankan nilai dan dampaknya pada orang yang terlibat.
+- **Kecenderungan J atau P:** apakah seseorang lebih menekankan rencana dan keputusan yang sudah ditetapkan atau ingin menjaga pilihan tetap terbuka selama proses berlangsung.
+
+Pengamatan ini harus dilakukan dengan hati-hati. Seseorang dapat menjadi lebih banyak berbicara karena sudah mengenal peserta diskusi, lebih diam karena lelah, atau lebih terstruktur karena tuntutan tugas. Perilaku sesaat tidak selalu mencerminkan preferensi kepribadian.
+
+## 3.2 Cara Menggali Informasi melalui Pertanyaan
+
+Pertanyaan terbuka dan netral dapat membantu memahami kebutuhan komunikasi seseorang. Contohnya:
+
+- “Kamu lebih nyaman memikirkan masalah sendiri terlebih dahulu atau langsung mendiskusikannya bersama?”
+- “Saat mempelajari hal baru, kamu lebih terbantu oleh contoh nyata atau penjelasan konsep terlebih dahulu?”
+- “Ketika membuat keputusan, hal apa saja yang biasanya kamu pertimbangkan?”
+- “Kamu lebih nyaman jika rencana sudah ditetapkan sejak awal atau jika masih ada ruang untuk menyesuaikan?”
+
+Pertanyaan tersebut bukan tes resmi MBTI dan tidak boleh digunakan untuk menetapkan tipe secara pasti. Tujuannya adalah membuka percakapan mengenai preferensi dan mencari cara berkomunikasi yang lebih sesuai. Jika seseorang ingin mengetahui tipe MBTI-nya, ia perlu diberi kebebasan untuk melakukan refleksi atau menggunakan instrumen yang relevan secara mandiri.
+
+## 3.3 Keterbatasan dan Etika Penilaian Kepribadian
+
+Ada beberapa hal yang perlu diperhatikan ketika membahas MBTI:
+
+1. **Bukan diagnosis klinis.** MBTI tidak dimaksudkan untuk mendiagnosis gangguan psikologis atau menentukan kualitas seseorang.
+2. **Hindari stereotip.** Perilaku dipengaruhi oleh konteks, budaya, pengalaman, dan situasi. Satu percakapan tidak cukup untuk menyimpulkan tipe kepribadian.
+3. **Jangan melabeli atau mendiskriminasi.** Dugaan tipe tidak seharusnya digunakan untuk membatasi kesempatan, menentukan kemampuan, atau menilai kinerja seseorang tanpa bukti yang relevan.
+4. **Hormati privasi dan pilihan individu.** Jangan memaksa orang mengungkapkan hasil tes atau menerima label tertentu.
+5. **Gunakan pengamatan untuk memperbaiki komunikasi.** Fokuskan perhatian pada kebutuhan yang dinyatakan dan perilaku yang dapat dibahas secara konkret, bukan pada dugaan mengenai identitas seseorang.
+
+Dengan demikian, pengamatan pola percakapan lebih bermanfaat sebagai awal untuk bertanya dan memahami orang lain daripada sebagai cara untuk menebak tipe secara pasti.
+
+# 4. SWOT Like dan Pengembangan PASK
+
+## 4.1 Pengertian SWOT Like dan PASK
+
+Dalam makalah ini, **SWOT Like** digunakan sebagai kerangka refleksi diri yang mengadaptasi gagasan SWOT: *strengths* (kekuatan), *weaknesses* (kelemahan), *opportunities* (peluang), dan *threats* (ancaman). Kerangka ini dapat membantu seseorang mengenali hal yang sudah menjadi kekuatan dalam komunikasinya, aspek yang perlu diperbaiki, peluang untuk berlatih, dan hambatan yang mungkin muncul.
+
+Adapun **PASK** dibahas melalui empat unsur pengembangan diri: **Persepsi, Attitude, Skill, dan Knowledge**. Persepsi berkaitan dengan cara seseorang memahami situasi; *attitude* berkaitan dengan sikap; *skill* berkaitan dengan keterampilan yang dipraktikkan; dan *knowledge* berkaitan dengan pengetahuan yang menjadi dasar tindakan.
+
+Definisi di atas merupakan kerangka kerja yang digunakan dalam makalah ini. Karena istilah “SWOT Like” dan penggunaan PASK dapat mengikuti terminologi khusus perkuliahan, rumusan akhirnya perlu dicocokkan dengan materi resmi yang diberikan dosen.
+
+## 4.2 Refleks, Reaktif, Responsif, dan Apresiatif
+
+Empat istilah berikut dapat digunakan untuk merefleksikan kualitas respons dalam komunikasi:
+
+| Bentuk respons | Gambaran | Contoh |
+|:--|:--|:--|
+| Refleks | Tanggapan spontan yang muncul sebelum seseorang sempat mempertimbangkan situasi. | Langsung membalas dengan nada tinggi ketika dikritik. |
+| Reaktif | Tanggapan yang dipicu oleh tindakan orang lain dan cenderung defensif. | Menyangkal kritik sebelum memahami maksudnya. |
+| Responsif | Tanggapan yang diberikan setelah mendengarkan dan mempertimbangkan situasi. | Meminta contoh, memeriksa fakta, lalu menjawab dengan tenang. |
+| Apresiatif | Tanggapan yang menghargai kontribusi atau sudut pandang orang lain dan mencari hal yang dapat dipelajari. | Berterima kasih atas masukan, mengakui bagian yang benar, lalu memperbaiki pekerjaan. |
+
+Kategori ini digunakan sebagai alat refleksi, bukan sebagai penilaian mutlak terhadap karakter seseorang. Dalam situasi nyata, respons seseorang dapat berbeda-beda sesuai kondisi dan tekanan yang dihadapi.
+
+## 4.3 Strategi Mengembangkan Persepsi, Attitude, Skill, dan Knowledge
+
+**1. Persepsi.** Latih diri untuk tidak langsung menganggap perbedaan sebagai serangan pribadi. Sebelum menyimpulkan maksud seseorang, pertimbangkan beberapa kemungkinan dan ajukan pertanyaan klarifikasi. Misalnya, anggota kelompok yang diam belum tentu tidak peduli; ia mungkin sedang memikirkan jawaban atau belum memahami pertanyaannya.
+
+**2. Attitude.** Kembangkan sikap terbuka, empati, tanggung jawab, dan kesediaan menerima masukan. Sikap ini dapat dilatih dengan mendengarkan tanpa memotong pembicaraan, mengakui kesalahan ketika memang terjadi, serta membedakan kritik terhadap pekerjaan dari penilaian terhadap diri seseorang.
+
+**3. Skill.** Latih keterampilan komunikasi secara langsung, seperti mendengarkan aktif, mengajukan pertanyaan terbuka, merangkum pendapat orang lain, menyampaikan keberatan secara sopan, dan memberi umpan balik yang spesifik. Setelah diskusi atau presentasi, mintalah masukan mengenai hal yang sudah efektif dan hal yang masih perlu diperbaiki.
+
+**4. Knowledge.** Pelajari konsep komunikasi dan kepribadian dari sumber yang dapat dipertanggungjawabkan. Pengetahuan perlu disertai sikap kritis agar teori tidak digunakan secara berlebihan atau dijadikan alasan untuk mengotakkan orang lain.
+
+Pengembangan PASK akan lebih terarah jika disertai target yang dapat diamati. Sebagai contoh, pada diskusi berikutnya seseorang dapat menargetkan untuk mengajukan setidaknya satu pertanyaan klarifikasi sebelum menanggapi kritik. Setelah diskusi, ia dapat mengevaluasi apakah pertanyaan tersebut membantu memperjelas masalah.
+
+## 4.4 Contoh Penerapan dalam Edukasi dan Komunikasi
+
+Seorang pengajar menghadapi kelas dengan kebutuhan komunikasi yang beragam. Ia dapat memulai pembelajaran dengan menjelaskan tujuan, lalu menyampaikan contoh konkret dan gambaran besar materi. Ia juga memberi kesempatan kepada mahasiswa untuk bertanya secara lisan maupun menuliskan pertanyaan terlebih dahulu. Dengan demikian, pendekatan tidak hanya bergantung pada dugaan tipe kepribadian, tetapi juga menyediakan beberapa cara bagi peserta untuk memahami dan berpartisipasi.
+
+Ketika menerima kritik dari mahasiswa, pengajar dapat menghindari respons spontan yang defensif. Ia mendengarkan sampai selesai, meminta contoh yang lebih jelas, memeriksa masukan tersebut, dan mengucapkan terima kasih atas hal yang dapat membantu perbaikan. Setelah itu, ia dapat melakukan refleksi SWOT Like: kekuatan apa yang perlu dipertahankan, kelemahan apa yang perlu diperbaiki, peluang apa yang dapat digunakan untuk berkembang, serta hambatan apa yang perlu diantisipasi.
+
+PASK dapat diterapkan melalui langkah berikut: memperbaiki persepsi dengan memeriksa asumsi, membangun sikap terbuka, melatih keterampilan mendengarkan dan menanggapi, serta memperdalam pengetahuan yang relevan. Proses ini tidak menuntut seseorang selalu memberi respons sempurna, tetapi membantunya belajar dari pengalaman secara bertahap.
+
+# Kesimpulan
+
+MBTI menjelaskan preferensi kepribadian melalui empat pasangan dimensi, yaitu E/I, S/N, T/F, dan J/P. Pemahaman terhadap perbedaan tersebut dapat membantu seseorang memilih cara komunikasi yang lebih jelas dan sesuai dengan kebutuhan lawan bicara. Strategi yang dapat digunakan antara lain memberi waktu berpikir, menggabungkan gambaran besar dengan contoh konkret, menjelaskan alasan keputusan, menunjukkan empati, serta menyepakati agenda dan tenggat.
+
+Namun, MBTI memiliki keterbatasan dan tidak boleh digunakan untuk memberi label tetap, membuat diagnosis, atau menentukan kemampuan seseorang. Pola percakapan hanya dapat menjadi petunjuk awal, bukan bukti yang cukup untuk memastikan tipe kepribadian. Komunikasi yang efektif tetap memerlukan pertanyaan terbuka, mendengarkan aktif, dan penghormatan terhadap perbedaan individu.
+
+SWOT Like dan PASK dapat digunakan sebagai kerangka refleksi untuk mengenali kekuatan, aspek yang perlu dikembangkan, dan langkah latihan yang konkret. Dengan melatih persepsi, sikap, keterampilan, dan pengetahuan, seseorang dapat belajar mengurangi respons spontan atau defensif dan lebih sering memberikan tanggapan yang responsif serta apresiatif. Intinya, komunikasi efektif tidak hanya bergantung pada pemahaman terhadap orang lain, tetapi juga pada kemauan untuk mengevaluasi dan memperbaiki diri.
+
+# Daftar Pustaka
+
+DeVito, J. A. (2019). *The Interpersonal Communication Book* (15th ed.). Pearson.
+
+Jung, C. G. (1971). *Psychological Types*. Princeton University Press.
+
+McCrae, R. R., & Costa, P. T., Jr. (1989). Reinterpreting the Myers-Briggs Type Indicator from the perspective of the five-factor model of personality. *Journal of Personality, 57*(1), 17–40.
+
+Myers, I. B., McCaulley, M. H., Quenk, N. L., & Hammer, A. L. (1998). *MBTI Manual: A Guide to the Development and Use of the Myers-Briggs Type Indicator* (3rd ed.). Consulting Psychologists Press.
+
+Pittenger, D. J. (1993). Measuring the MBTI... and coming up short. *Journal of Career Planning and Employment, 54*(1), 48–52.
+
+Pittenger, D. J. (2005). Cautionary comments regarding the Myers-Briggs Type Indicator. *Consulting Psychology Journal: Practice and Research, 57*(3), 210–221.

@@ -1,0 +1,159 @@
+---
+title: "UTS KIPP-2 — Sesi 2b"
+subtitle: "Resolusi Konflik dan Kolaborasi Tim Akademik"
+author: "Fathir — 18225019 — K-01"
+format:
+  html:
+    toc: true
+    number-sections: true
+lang: id
+---
+
+## 1. Identitas dan Konteks Pembelajaran
+
+- **Nama:** Fathir
+- **NIM:** 18225019
+- **Kelas:** K-01
+- **Sesi:** 2b
+- **Kasus:** Resolusi konflik dan kolaborasi tim akademik di bawah tenggat 48 jam
+- **Fokus:** Efisiensi komunikasi, keadilan pembagian kerja, tanggung jawab anggota, dan rencana cadangan ketika anggota tidak merespons.
+
+Simulasi ini menguji kemampuan menjaga fokus pada penyelesaian tugas tanpa mengabaikan kendala nyata anggota kelompok. Pendekatan yang digunakan adalah menyampaikan kendala secara spesifik, membatasi durasi diskusi, menentukan keluaran minimum, dan menyiapkan tindakan cadangan.
+
+## 2. Transkrip Percakapan
+
+### Pembukaan: Fokus pada penyelesaian tugas
+
+**Teman:**
+
+> Aku mau ngomong soal tugas kelompok kita. Menurutku, pembagian tugas kemarin sebenarnya sudah jelas. Aku cuma merasa beberapa anggota terlalu banyak mempermasalahkan hal kecil, padahal tenggat kita sudah dekat. Menurutku, lebih baik kita fokus menyelesaikan tugas daripada membahas perasaan masing-masing.
+
+**Fathir:**
+
+> Aku paham banget, makasih ya udah ngajak kita fokus ke penyelesaian tugas karena memang tenggatnya sudah sangat mepet. Aku juga setuju tujuan utama kita sekarang adalah menyelesaikan laporan ini tepat waktu.
+>
+> Tapi, alasan kenapa tadi sempat kita bahas sedikit bukan buat memperumit masalah atau sekadar ngurusin perasaan, melainkan buat mastiin beban kerja di sisa waktu ini benar-benar realistis dan adil buat yang ngerjain, supaya pas dikumpulkan nanti hasilnya nggak ada yang bolong atau setengah-setengah.
+>
+> Menurutmu, dengan sisa waktu yang ada sekarang, bagian mana yang paling krusial buat kita selesaikan bareng-bareng supaya tugasnya bisa beres tepat waktu tanpa ada yang keteteran?
+
+**Teman:**
+
+> Aku mengerti maksudmu, Fathir. Aku juga ingin tugasnya selesai tepat waktu. Menurutku, bagian yang paling krusial sekarang adalah menyelesaikan isi laporan dan memastikan semua data serta kesimpulannya sudah benar.
+>
+> Tapi, jujur, aku masih merasa kalau kita terlalu lama membahas pembagian kerja, waktu untuk mengerjakan tugasnya malah habis. Kalau memang ada anggota yang merasa bebannya terlalu berat, menurutku mereka seharusnya langsung menyampaikan bagian mana yang belum sanggup diselesaikan, bukan memperpanjang diskusi.
+>
+> Menurutmu, bagaimana kita bisa memastikan semua orang tetap bertanggung jawab tanpa membuat diskusi ini semakin panjang?
+
+### Menyusun protokol komunikasi yang efisien
+
+**Fathir:**
+
+> Aku setuju banget sama poinmu, pembahasan yang terlalu berlarut-larut emang malah memakan waktu efektif yang seharusnya dipakai buat pengerjaan teknis.
+>
+> Biar diskusinya nggak memperpanjang waktu dan kita bisa langsung *action*, kita bisa pakai prinsip **ketetapan objektif (*clear cutoff*)**:
+>
+> 1. **Pernyataan *gap* yang spesifik:** Kita minta setiap anggota yang mengalami kendala untuk cuma menyampaikan dua hal dalam satu pesan ringkas: bagian spesifik mana yang mentok dan apa luaran minimal yang bisa dia serahkan besok pagi. Tidak perlu diskusi panjang.
+> 2. **Batas waktu keputusan (*time-box discussion*):** Kita batasi diskusi perombakan ini maksimal 10–15 menit saja di grup. Setelah itu, keputusan diambil berdasarkan opsi yang paling realistis dan diskusi langsung ditutup.
+> 3. **Fokus ke *output* inti:** Kita kunci fokus murni ke kebenaran isi laporan dan data utamanya dulu.
+>
+> Dengan cara gini, kebutuhan anggota yang kendala tetap terakomodasi secara ringkas, sementara fokus utama kita untuk langsung *eksekusi* pengerjaan tidak terdistraksi. Menurutmu, kalau aturan main diskusinya kita bikin se-efisien itu, oke nggak?
+
+**Teman:**
+
+> Oke, Fathir. Kalau aturannya seperti itu, aku setuju. Batas 10–15 menit menurutku cukup supaya kita nggak terjebak dalam diskusi yang terlalu panjang.
+>
+> Aku juga suka idemu meminta setiap anggota menyampaikan kendala spesifik dan hasil minimal yang bisa diselesaikan besok pagi. Jadi, kita mengambil keputusan berdasarkan kondisi nyata, bukan asumsi.
+>
+> Tapi, aku mau menguji sedikit usulanmu.
+>
+> **Bagaimana kalau setelah 15 menit, ada satu anggota yang belum merespons sama sekali, padahal bagian analisis datanya sangat penting untuk laporan?**
+>
+> Kalau kita langsung menutup diskusi, ada risiko bagian itu tidak selesai. Namun, kalau kita terus menunggu, batas waktu yang sudah disepakati jadi tidak berarti.
+>
+> Menurutmu, keputusan apa yang paling adil dan profesional dalam situasi tersebut?
+
+### Menyiapkan rencana cadangan
+
+**Fathir:**
+
+> Pertanyaan bagus banget, dan ini skenario paling dilematis kalau kita pakai tenggat waktu yang kaku. Kalau kita tungguin terus, jadwal hancur; tapi kalau kita tinggal, laporan utamanya bisa kosong.
+>
+> Menurutku, langkah paling profesional dan adil dalam situasi itu adalah **mengambil tindakan darurat berbasis delegasi darurat (*fail-safe contingency*), bukan memperpanjang diskusi**:
+>
+> 1. **Batas waktu tunggu tambahan yang tegas (misalnya 5 menit):** Kita tandai bahwa waktu 15 menit habis, lalu berikan notifikasi langsung (*mention*) ke anggota tersebut dengan batas toleransi 5 menit terakhir.
+> 2. **Aktivasi rencana cadangan (*contingency plan*):** Jika setelah batas tambahan itu tetap tidak ada respons, kita tidak menunggu lebih lama, melainkan membagi tugas darurat. Anggota lain yang jadwalnya paling longgar mengambil alih file mentah atau draf awal yang sudah ada untuk diselesaikan sesuai batas minimal.
+> 3. **Pemisahan evaluasi personal:** Laporan utama harus tetap berjalan demi menyelamatkan tenggat kelompok. Urusan komunikasi atau tanggung jawab anggota yang tidak merespons dibahas secara personal setelah tugas terkumpul, supaya tidak mengorbankan nilai satu kelompok.
+>
+> Jadi, prinsipnya: **sistem dan laporan harus tetap selamat (*fail-safe*), sementara evaluasi individunya menyusul belakangan.** Gimana, menurutmu cara itu cukup aman untuk mengantisipasi anggota yang "hilang kontak" di detik-detik akhir?
+
+**Teman:**
+
+> Oke, Fathir. Menurutku, pendekatanmu cukup aman karena kita punya batas waktu yang jelas dan rencana cadangan kalau anggota tersebut tidak bisa dihubungi. Aku setuju bahwa tenggat kelompok harus tetap dijaga, sementara evaluasi kontribusi individu bisa dilakukan setelah laporan dikumpulkan.
+>
+> Tapi, ada satu hal yang perlu kita pastikan. Kalau anggota lain harus mengambil alih analisis data secara mendadak, jangan sampai pembagian darurat itu justru membuat mereka kewalahan atau menghasilkan analisis yang tidak akurat.
+>
+> Jadi, bagaimana kalau kita menetapkan **luaran minimum yang wajib ada**, lalu membagi ulang pekerjaan berdasarkan kapasitas anggota yang benar-benar tersedia? Bagian analisis yang belum sempat diselesaikan bisa kita tandai secara transparan, daripada memaksakan hasil yang belum terverifikasi.
+>
+> **Menurutmu, bagaimana cara menentukan luaran minimum tersebut agar laporan tetap layak dikumpulkan, tetapi kita juga tidak mengorbankan kualitas dan kejujuran akademik?**
+
+### Menjaga kualitas dan integritas akademik
+
+**Fathir:**
+
+> Menurutku, luaran minimum perlu ditentukan dari bagian yang wajib ada agar laporan tetap menjawab tujuan tugas: data utama yang sudah diperiksa, metode atau langkah analisis yang benar-benar dilakukan, serta kesimpulan yang didukung oleh data tersebut. Bagian tambahan bisa disederhanakan atau ditunda jika tidak menentukan inti jawaban.
+>
+> Untuk pembagian ulang, kita perlu melihat kapasitas anggota yang tersedia dan waktu yang tersisa, bukan otomatis memberikan semua pekerjaan kepada orang yang paling cepat. Hasil yang belum sempat diverifikasi harus ditandai dengan jelas dan tidak boleh ditulis seolah-olah sudah terbukti. Dengan begitu, kita tetap mengejar tenggat tanpa mengorbankan kualitas dan kejujuran akademik.
+
+**Teman:**
+
+> Itu penyelesaian yang sangat masuk akal, Fathir. Menurutku, memisahkan penanganan darurat proyek dari evaluasi individu adalah keputusan yang profesional. Laporan tetap aman, anggota lain tidak ikut dikorbankan, dan kita punya kepastian tindakan tanpa perlu bingung menunggu giliran respons yang tidak pasti.
+>
+> Sekarang aku bisa melihat bahwa diskusi atau penyelarasan tim tidak selalu berarti membuang-buang waktu, asalkan dari awal kita membatasi durasinya dan menetapkan *contingency plan* jika terjadi ketidakpastian. Dengan begini, aku jadi lebih percaya diri bahwa kita bisa menyelesaikan tugas ini tepat waktu tanpa drama atau perdebatan yang meluas.
+
+## 3. Evaluasi Kinerja
+
+### Hal yang sudah dilakukan dengan baik
+
+1. **Mengakui tujuan bersama.** Fathir menyepakati bahwa tenggat dan penyelesaian laporan tetap menjadi prioritas, tanpa langsung menolak kekhawatiran teman tentang diskusi yang terlalu panjang.
+2. **Mengubah keluhan menjadi prosedur.** Kendala diminta dalam format singkat: bagian yang terhambat dan luaran minimal yang bisa diserahkan.
+3. **Menetapkan batas diskusi.** Batas 10–15 menit membantu mencegah pembahasan melebar dan mendorong keputusan berbasis kondisi nyata.
+4. **Menyiapkan rencana cadangan.** Tambahan toleransi 5 menit dan pengalihan pekerjaan mencegah kelompok menunggu tanpa kepastian.
+5. **Memisahkan penyelesaian proyek dan evaluasi individu.** Tim dapat menyelamatkan tenggat lebih dahulu, lalu membahas tanggung jawab personal setelah pengumpulan.
+6. **Menjaga kualitas dan integritas akademik.** Luaran minimum harus menjawab tujuan tugas, didukung data yang diperiksa, dan tidak menyajikan hasil yang belum diverifikasi sebagai fakta.
+
+### Hal yang perlu dijaga saat diterapkan
+
+- Batas toleransi 5 menit adalah contoh aturan operasional, bukan angka yang selalu cocok untuk semua situasi.
+- Sebelum mengalihkan analisis, periksa apakah berkas, metode, dan konteks pekerjaan cukup tersedia untuk diteruskan.
+- Pembagian ulang harus mempertimbangkan kapasitas anggota yang tersedia, bukan hanya siapa yang paling cepat atau paling mudah diminta.
+- Bagian yang belum diverifikasi harus ditandai secara transparan dan kesimpulan tidak boleh melampaui bukti yang tersedia.
+
+## 4. Refleksi dan Pembelajaran
+
+Pembelajaran utama dari simulasi ini adalah bahwa profesionalitas tidak berarti menghindari pembahasan kendala. Diskusi tetap berguna apabila memiliki tujuan, durasi, dan keluaran yang jelas. Keadilan juga tidak harus berarti pembagian kerja sama rata; pembagian yang lebih realistis mempertimbangkan kapasitas aktual, urgensi, serta kualitas hasil yang dibutuhkan.
+
+Dalam situasi serupa, langkah yang dapat diterapkan adalah:
+
+1. **Dengarkan dan klarifikasi:** minta anggota menyebutkan kendala yang spesifik tanpa langsung menyalahkan.
+2. **Tetapkan batas waktu:** sepakati durasi diskusi dan kapan keputusan harus dibuat.
+3. **Tentukan luaran minimum:** prioritaskan data utama, analisis yang valid, dan kesimpulan yang didukung bukti.
+4. **Aktifkan rencana cadangan:** jika anggota tidak merespons setelah batas yang disepakati, lakukan alokasi ulang berdasarkan kapasitas.
+5. **Jaga transparansi:** catat keterbatasan dan hasil yang belum terverifikasi; evaluasi kontribusi individu dilakukan terpisah setelah tenggat utama tertangani.
+
+## 5. Penilaian Diri Berdasarkan Enam Dimensi
+
+> **Catatan:** Skor berikut merupakan penilaian diri/proposal skor berdasarkan bukti percakapan, bukan nilai resmi pengajar. Penilaian akhir tetap mengikuti moderasi dosen atau asesor.
+
+| Dimensi | Skor | Alasan penilaian |
+|---|---:|---|
+| 1. Tujuan dan konteks | 4/4 | **Memenuhi kriteria secara sangat baik:** Fathir konsisten mengarahkan percakapan pada penyelesaian laporan tepat waktu, keadilan beban kerja, dan kualitas hasil. |
+| 2. Persepsi dan validasi profil/status | 4/4 | **Memenuhi kriteria secara sangat baik:** Fathir mengakui kekhawatiran teman tentang waktu yang terbuang dan menyesuaikan usulan agar lebih berorientasi tindakan. |
+| 3. Pemilihan dan urutan repertoar | 4/4 | **Memenuhi kriteria secara sangat baik:** Respons bergerak dari klarifikasi kendala, batas diskusi, rencana cadangan, hingga penetapan luaran minimum dan integritas akademik. |
+| 4. Eksekusi jelas, peduli, konsisten | 4/4 | **Memenuhi kriteria secara sangat baik:** Usulan disampaikan dengan struktur yang jelas, menghormati kekhawatiran rekan, dan tetap konsisten pada tujuan bersama. |
+| 5. Evaluasi dan adaptasi | 4/4 | **Memenuhi kriteria secara sangat baik:** Fathir menyesuaikan rencana ketika muncul risiko anggota tidak merespons dan risiko analisis darurat yang tidak akurat. |
+| 6. Refleksi dan lesson learned | 4/4 | **Memenuhi kriteria secara sangat baik:** Pembelajaran dapat diterjemahkan menjadi langkah konkret untuk diskusi, pembagian ulang, verifikasi hasil, dan evaluasi setelah pengumpulan. |
+| **Total** | **24/24** | **Skor penilaian diri: 100/100.** Seluruh enam dimensi diberi skor penuh berdasarkan bukti percakapan yang tercatat. |
+
+## 6. Kesimpulan
+
+Sesi 2b menunjukkan pendekatan resolusi konflik yang menggabungkan empati, efisiensi, pembagian kerja adaptif, rencana cadangan, dan integritas akademik. Kesepakatan yang dicapai bukan sekadar menutup diskusi secepat mungkin, melainkan memastikan diskusi menghasilkan keputusan yang dapat dijalankan. Dengan batas waktu yang jelas, keluaran minimum yang terukur, dan transparansi atas keterbatasan analisis, kelompok dapat menjaga tenggat tanpa mengabaikan tanggung jawab maupun kualitas laporan.
