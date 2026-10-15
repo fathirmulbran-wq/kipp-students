@@ -1,8 +1,8 @@
 ---
 title: "UTS Performance Evidence Package"
 week: 8
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai — menunggu penilaian"
+self_score: "20/20"
 assessor_score: "—"
 description: "Integrated performance Target–Attention–Interest."
 categories: [Assessment, UTS]
@@ -10,16 +10,68 @@ categories: [Assessment, UTS]
 
 ## Kompetensi target
 
-Mengintegrasikan person recognition, state recognition, repertoire, language, response, dan adaptation.
+Mengintegrasikan *person recognition*, *state recognition*, repertoire, language, response, dan adaptation dalam komunikasi interpersonal.
 
 ## Evidence wajib
 
-- Performance card dan initial state.
-- Rekaman/transcript serta observer sheet.
-- Feedback, replay, evidence improvement, dan reflection.
+Evidence UTS dikumpulkan melalui lima laporan sesi dan satu paper refleksi yang saling melengkapi.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 8](../examples/week-08.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+- [Hasil Sesi 1](hasil_1.qmd): bukti latihan dan analisis sesi pertama.
+- [Hasil Sesi 2a](hasil_2a.qmd): bukti latihan dan analisis sesi kedua bagian pertama.
+- [Hasil Sesi 2b](hasil_2b.qmd): bukti latihan dan analisis sesi kedua bagian kedua.
+- [Hasil Sesi 3a](hasil_3a.qmd): bukti latihan dan analisis sesi ketiga bagian pertama.
+- [Hasil Sesi 3b](hasil_3b.qmd): bukti latihan dan analisis sesi ketiga bagian kedua.
+- [Paper UTS](paper.qmd): pembahasan MBTI, strategi komunikasi, pengenalan profil melalui percakapan, SWOT Like, dan PASK.
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Oktober 2026, pengerjaan tugas UTS KIPP-2 secara mandiri dengan bantuan ChatGPT.
+
+**Orang dan hubungan:** Saya sebagai mahasiswa yang mempelajari dan mengevaluasi strategi komunikasi interpersonal. ChatGPT digunakan sebagai alat bantu belajar dan pemberi umpan balik.
+
+**Tujuan:** Memahami cara mengenali karakteristik dan kondisi lawan bicara, memilih bahasa yang sesuai, mengevaluasi respons, serta menyesuaikan strategi komunikasi.
+
+**Kondisi awal:** Saya perlu menghubungkan konsep komunikasi interpersonal dengan contoh dan latihan agar lebih mudah memahami penerapannya.
+
+## Analisis komunikasi
+
+| Dimensi | Analisis |
+|---|---|
+| Person & character | Saya mempelajari pentingnya mengenali karakteristik lawan bicara tanpa langsung menyimpulkan kepribadiannya hanya dari satu perilaku. |
+| Objective & state | Tujuan komunikasi perlu diperhatikan bersama kondisi lawan bicara, termasuk kebutuhan, perhatian, dan situasi saat percakapan berlangsung. |
+| Repertoire & language | Pilihan kata, pertanyaan, dan cara menjelaskan perlu disesuaikan dengan konteks agar pesan lebih mudah dipahami. |
+| Response & adaptation | Respons lawan bicara perlu diperhatikan untuk menentukan apakah strategi komunikasi perlu dipertahankan atau diubah. |
+| Agreement/action | Komunikasi yang efektif sebaiknya menghasilkan pemahaman bersama atau langkah tindak lanjut yang jelas. |
+| Relationship outcome | Pendekatan yang sesuai dapat membantu membangun komunikasi yang lebih terbuka, nyaman, dan saling menghargai. |
+
+## Penggunaan AI
+
+ChatGPT digunakan sebagai alat bantu untuk mempelajari konsep, mendiskusikan contoh, menyusun analisis, dan memperoleh umpan balik selama pengerjaan UTS. Hasil dari AI perlu diperiksa kembali dan disesuaikan dengan pemahaman serta pengalaman saya sendiri.
+
+AI tidak menggantikan pengalaman komunikasi nyata. Karena itu, klaim mengenai observasi langsung, rekaman percakapan, atau replay hanya dapat dinyatakan apabila bukti tersebut benar-benar tersedia.
+
+## Feedback dan tindak lanjut
+
+**Feedback:** Saya perlu memastikan analisis tidak berhenti pada pengenalan karakteristik seseorang, tetapi juga menjelaskan tujuan komunikasi, kondisi lawan bicara, respons yang muncul, dan alasan penyesuaian strategi.
+
+**Adaptation/replay:** Lima laporan sesi dan paper UTS digunakan sebagai bahan untuk meninjau pemahaman serta memperbaiki penjelasan. Bukti replay percakapan nyata atau observer sheet tidak diklaim apabila belum tersedia.
+
+**Next practice:** Berlatih menerapkan strategi komunikasi dalam percakapan nyata, mencatat respons yang muncul, meminta umpan balik, dan mengevaluasi perubahan strategi berdasarkan bukti.
+
+## Self-assessment
+
+| Dimensi | Skor (1–4) | Alasan |
+|---|---:|---|
+| Person recognition | 4 | Memahami pentingnya mengenali karakteristik lawan bicara tanpa membuat kesimpulan terburu-buru. |
+| State recognition | 4 | Memahami bahwa kondisi dan kebutuhan lawan bicara memengaruhi komunikasi. |
+| Repertoire & language | 4 | Memahami perlunya memilih bahasa dan pendekatan sesuai konteks. |
+| Response & adaptation | 4 | Memahami pentingnya mengevaluasi respons dan menyesuaikan strategi. |
+| Reflection & improvement | 4 | Meninjau kembali materi melalui lima laporan sesi dan paper UTS. |
+| **Total** | **20/20** | **Penilaian diri; perlu disertai evidence yang sesuai.** |
+
+## Assessment dosen
+
+- **Score:** Menunggu penilaian dosen.
+- **Evidence:** Lima laporan sesi dan paper UTS yang ditautkan di atas.
+- **Priority:** Memperjelas hubungan antara konsep, bukti yang tersedia, dan refleksi pribadi.
+- **Decision:** Menunggu evaluasi dosen.
