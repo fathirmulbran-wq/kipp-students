@@ -16,12 +16,12 @@ Mengintegrasikan *person recognition*, *state recognition*, repertoire, language
 
 Evidence UTS dikumpulkan melalui lima laporan sesi dan satu paper refleksi yang saling melengkapi.
 
-- [Hasil Sesi 1](hasil_1.qmd): bukti latihan dan analisis sesi pertama.
-- [Hasil Sesi 2a](hasil_2a.qmd): bukti latihan dan analisis sesi kedua bagian pertama.
-- [Hasil Sesi 2b](hasil_2b.qmd): bukti latihan dan analisis sesi kedua bagian kedua.
-- [Hasil Sesi 3a](hasil_3a.qmd): bukti latihan dan analisis sesi ketiga bagian pertama.
-- [Hasil Sesi 3b](hasil_3b.qmd): bukti latihan dan analisis sesi ketiga bagian kedua.
-- [Paper UTS](paper.qmd): pembahasan MBTI, strategi komunikasi, pengenalan profil melalui percakapan, SWOT Like, dan PASK.
+- [Hasil Sesi 1](UTS/hasil_1.qmd)
+- [Hasil Sesi 2a](UTS/hasil_2a.qmd)
+- [Hasil Sesi 2b](UTS/hasil_2b.qmd)
+- [Hasil Sesi 3a](UTS/hasil_3a.qmd)
+- [Hasil Sesi 3b](UTS/hasil_3b.qmd)
+- [Paper UTS](UTS/paper.qmd)
 
 ## Konteks performance
 
